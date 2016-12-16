@@ -1,0 +1,1448 @@
+receiving incremental file list
+multi-afristory-za/
+multi-afristory-za/af.jpg
+              0   0%    0.00kB/s    0:00:00           91,735 100%  459.41kB/s    0:00:00 (xfr#1, to-chk=757/759)
+multi-afristory-za/afrikaans.html
+              0   0%    0.00kB/s    0:00:00              850 100%    4.24kB/s    0:00:00 (xfr#2, to-chk=756/759)
+multi-afristory-za/english.html
+              0   0%    0.00kB/s    0:00:00              836 100%    4.17kB/s    0:00:00 (xfr#3, to-chk=755/759)
+multi-afristory-za/index-module-style.css
+              0   0%    0.00kB/s    0:00:00            2,365 100%   11.78kB/s    0:00:00 (xfr#4, to-chk=754/759)
+multi-afristory-za/index.html
+              0   0%    0.00kB/s    0:00:00            5,828 100%   27.90kB/s    0:00:00 (xfr#5, to-chk=753/759)
+multi-afristory-za/index.htmlf -> rachel-index.php
+multi-afristory-za/isindebele.html
+              0   0%    0.00kB/s    0:00:00              857 100%    4.10kB/s    0:00:00 (xfr#6, to-chk=751/759)
+multi-afristory-za/isixhosa.html
+              0   0%    0.00kB/s    0:00:00              843 100%    4.02kB/s    0:00:00 (xfr#7, to-chk=750/759)
+multi-afristory-za/isizulu.html
+              0   0%    0.00kB/s    0:00:00              836 100%    3.98kB/s    0:00:00 (xfr#8, to-chk=749/759)
+multi-afristory-za/rachel-index.php
+              0   0%    0.00kB/s    0:00:00            1,557 100%    7.42kB/s    0:00:00 (xfr#9, to-chk=748/759)
+multi-afristory-za/sepedi.html
+              0   0%    0.00kB/s    0:00:00              829 100%    3.95kB/s    0:00:00 (xfr#10, to-chk=747/759)
+multi-afristory-za/sesotho-lesotho.html
+              0   0%    0.00kB/s    0:00:00              896 100%    4.25kB/s    0:00:00 (xfr#11, to-chk=746/759)
+multi-afristory-za/sesotho-safrica.html
+              0   0%    0.00kB/s    0:00:00              906 100%    4.29kB/s    0:00:00 (xfr#12, to-chk=745/759)
+multi-afristory-za/setswana.html
+              0   0%    0.00kB/s    0:00:00              843 100%    4.00kB/s    0:00:00 (xfr#13, to-chk=744/759)
+multi-afristory-za/siswati.html
+              0   0%    0.00kB/s    0:00:00              836 100%    3.96kB/s    0:00:00 (xfr#14, to-chk=743/759)
+multi-afristory-za/tshivenda.html
+              0   0%    0.00kB/s    0:00:00              850 100%    4.01kB/s    0:00:00 (xfr#15, to-chk=742/759)
+multi-afristory-za/xitsonga.html
+              0   0%    0.00kB/s    0:00:00              843 100%    3.98kB/s    0:00:00 (xfr#16, to-chk=741/759)
+multi-afristory-za/afrikaans/
+multi-afristory-za/afrikaans/First paragraphs/
+multi-afristory-za/afrikaans/First paragraphs/'n Klein saadjie Die verhaal van Wangari Maathai.pdf
+              0   0%    0.00kB/s    0:00:00          348,876 100%  449.47kB/s    0:00:00 (xfr#17, to-chk=723/759)
+multi-afristory-za/afrikaans/First paragraphs/Brief aan ma.pdf
+              0   0%    0.00kB/s    0:00:00          212,986  18%  200.19kB/s    0:00:04        1,125,079 100%  572.24kB/s    0:00:01 (xfr#18, to-chk=722/759)
+multi-afristory-za/afrikaans/First paragraphs/Die Eerste Man en Eerste vrou.pdf
+              0   0%    0.00kB/s    0:00:00          114,682  28%  110.56kB/s    0:00:02          402,782 100%  294.20kB/s    0:00:01 (xfr#19, to-chk=721/759)
+multi-afristory-za/afrikaans/First paragraphs/Die Meisie wat Ryk geword het.pdf
+              0   0%    0.00kB/s    0:00:00          884,736  43%  864.00kB/s    0:00:01        2,017,035 100%    1.00MB/s    0:00:01 (xfr#20, to-chk=720/759)
+multi-afristory-za/afrikaans/First paragraphs/Die sewende son \#305\#211 Indiese volksverhaal uit Odisha.pdf
+              0   0%    0.00kB/s    0:00:00           81,914  11%   79.91kB/s    0:00:07          683,325 100%  478.70kB/s    0:00:01 (xfr#21, to-chk=719/759)
+multi-afristory-za/afrikaans/First paragraphs/Geen varke toegelaat.pdf
+              0   0%    0.00kB/s    0:00:00          596,221 100%  733.31kB/s    0:00:00 (xfr#22, to-chk=718/759)
+multi-afristory-za/afrikaans/First paragraphs/Hasie se groot skrik.pdf
+              0   0%    0.00kB/s    0:00:00          311,290  23%  297.16kB/s    0:00:03        1,308,098 100%  763.56kB/s    0:00:01 (xfr#23, to-chk=717/759)
+multi-afristory-za/afrikaans/First paragraphs/Hennetjie en Wurmpie.pdf
+              0   0%    0.00kB/s    0:00:00          475,130  90%  463.07kB/s    0:00:00          527,479 100%  505.02kB/s    0:00:01 (xfr#24, to-chk=716/759)
+multi-afristory-za/afrikaans/First paragraphs/Hoekom padda so lelik is.pdf
+              0   0%    0.00kB/s    0:00:00          313,371 100%    1.32MB/s    0:00:00 (xfr#25, to-chk=715/759)
+multi-afristory-za/afrikaans/First paragraphs/Keke se swaai.pdf
+              0   0%    0.00kB/s    0:00:00          680,695 100%  915.62kB/s    0:00:00 (xfr#26, to-chk=714/759)
+multi-afristory-za/afrikaans/First paragraphs/Mulongo en die hi\#303\#253nas.pdf
+              0   0%    0.00kB/s    0:00:00          425,984  49%  416.00kB/s    0:00:01          859,908 100%  655.55kB/s    0:00:01 (xfr#27, to-chk=713/759)
+multi-afristory-za/afrikaans/First paragraphs/Neymar se besoek aan Afrika.pdf
+              0   0%    0.00kB/s    0:00:00          420,079 100%  748.60kB/s    0:00:00 (xfr#28, to-chk=712/759)
+multi-afristory-za/afrikaans/First paragraphs/Skilpad soek sy huis.pdf
+              0   0%    0.00kB/s    0:00:00          592,953 100%  602.56kB/s    0:00:00 (xfr#29, to-chk=711/759)
+multi-afristory-za/afrikaans/First paragraphs/Vayu, die wind.pdf
+              0   0%    0.00kB/s    0:00:00          114,682   8%  107.38kB/s    0:00:11        1,369,224 100%  738.34kB/s    0:00:01 (xfr#30, to-chk=710/759)
+multi-afristory-za/afrikaans/First sentences/
+multi-afristory-za/afrikaans/First sentences/Bok, Hond en Koei.pdf
+              0   0%    0.00kB/s    0:00:00          360,448  75%  349.21kB/s    0:00:00          480,320 100%  440.85kB/s    0:00:01 (xfr#31, to-chk=709/759)
+multi-afristory-za/afrikaans/First sentences/Die Dansende Boerbok.pdf
+              0   0%    0.00kB/s    0:00:00          681,767 100%    1.34MB/s    0:00:00 (xfr#32, to-chk=708/759)
+multi-afristory-za/afrikaans/First sentences/Die leeu wat vrienskap wou h\#303\#252.pdf
+              0   0%    0.00kB/s    0:00:00          467,918 100%  604.43kB/s    0:00:00 (xfr#33, to-chk=707/759)
+multi-afristory-za/afrikaans/First sentences/Die man wat alleen gewoon het..pdf
+              0   0%    0.00kB/s    0:00:00          219,892 100%  244.02kB/s    0:00:00 (xfr#34, to-chk=706/759)
+multi-afristory-za/afrikaans/First sentences/Dinge wat ek ken.pdf
+              0   0%    0.00kB/s    0:00:00          229,376  47%  219.61kB/s    0:00:01          481,336 100%  405.57kB/s    0:00:01 (xfr#35, to-chk=705/759)
+multi-afristory-za/afrikaans/First sentences/Hoekom is Yayeri so goed.pdf
+              0   0%    0.00kB/s    0:00:00          969,180 100%    1.42MB/s    0:00:00 (xfr#36, to-chk=704/759)
+multi-afristory-za/afrikaans/First sentences/Juffrou Akinyi.pdf
+              0   0%    0.00kB/s    0:00:00          606,202  62%  574.19kB/s    0:00:00          977,303 100%  802.01kB/s    0:00:01 (xfr#37, to-chk=703/759)
+multi-afristory-za/afrikaans/First sentences/Keke se swaai.pdf
+              0   0%    0.00kB/s    0:00:00          680,579 100%    1.36MB/s    0:00:00 (xfr#38, to-chk=702/759)
+multi-afristory-za/afrikaans/First sentences/Kinders van was.pdf
+              0   0%    0.00kB/s    0:00:00          549,114 100%  755.27kB/s    0:00:00 (xfr#39, to-chk=701/759)
+multi-afristory-za/afrikaans/First sentences/My ma maak tuin.pdf
+              0   0%    0.00kB/s    0:00:00          518,677 100%  541.15kB/s    0:00:00 (xfr#40, to-chk=700/759)
+multi-afristory-za/afrikaans/First sentences/Nanu se taxi.pdf
+              0   0%    0.00kB/s    0:00:00          131,072  15%  127.74kB/s    0:00:05          864,367 100%  627.59kB/s    0:00:01 (xfr#41, to-chk=699/759)
+multi-afristory-za/afrikaans/First sentences/Re\#303\#253n.pdf
+              0   0%    0.00kB/s    0:00:00          536,882 100%  924.69kB/s    0:00:00 (xfr#42, to-chk=698/759)
+multi-afristory-za/afrikaans/First sentences/Skilpad tot die redding!.pdf
+              0   0%    0.00kB/s    0:00:00          540,666  71%  527.99kB/s    0:00:00          760,333 100%  703.80kB/s    0:00:01 (xfr#43, to-chk=697/759)
+multi-afristory-za/afrikaans/First sentences/Slaperige Mnr.Luiheid.pdf
+              0   0%    0.00kB/s    0:00:00          766,756 100%    2.29MB/s    0:00:00 (xfr#44, to-chk=696/759)
+multi-afristory-za/afrikaans/First sentences/Waar is my kat.pdf
+              0   0%    0.00kB/s    0:00:00          400,038 100%  910.63kB/s    0:00:00 (xfr#45, to-chk=695/759)
+multi-afristory-za/afrikaans/First sentences/Wat maak jy.pdf
+              0   0%    0.00kB/s    0:00:00          283,031 100%  543.02kB/s    0:00:00 (xfr#46, to-chk=694/759)
+multi-afristory-za/afrikaans/First words/
+multi-afristory-za/afrikaans/First words/Die avonture van Superkoei.pdf
+              0   0%    0.00kB/s    0:00:00          297,148 100%  501.18kB/s    0:00:00 (xfr#47, to-chk=693/759)
+multi-afristory-za/afrikaans/First words/Jaaka die visserman.pdf
+              0   0%    0.00kB/s    0:00:00          287,178 100%  421.73kB/s    0:00:00 (xfr#48, to-chk=692/759)
+multi-afristory-za/afrikaans/First words/Luister.pdf
+              0   0%    0.00kB/s    0:00:00          640,226 100%  744.31kB/s    0:00:00 (xfr#49, to-chk=691/759)
+multi-afristory-za/afrikaans/First words/Tel die diere.pdf
+              0   0%    0.00kB/s    0:00:00          540,666  94%  526.94kB/s    0:00:00          574,159 100%  555.15kB/s    0:00:01 (xfr#50, to-chk=690/759)
+multi-afristory-za/afrikaans/First words/Vertel my nou...van kleure!.pdf
+              0   0%    0.00kB/s    0:00:00          668,599 100%    4.19MB/s    0:00:00 (xfr#51, to-chk=689/759)
+multi-afristory-za/afrikaans/First words/Vriende.pdf
+              0   0%    0.00kB/s    0:00:00          755,994 100%    2.11MB/s    0:00:00 (xfr#52, to-chk=688/759)
+multi-afristory-za/afrikaans/First words/Wat se tippe tande.pdf
+              0   0%    0.00kB/s    0:00:00          461,013 100% 1002.69kB/s    0:00:00 (xfr#53, to-chk=687/759)
+multi-afristory-za/afrikaans/Longer paragraphs/
+multi-afristory-za/afrikaans/Longer paragraphs/Anansi en Aasvo\#303\#253l.pdf
+              0   0%    0.00kB/s    0:00:00          773,349 100%    1.17MB/s    0:00:00 (xfr#54, to-chk=686/759)
+multi-afristory-za/afrikaans/Longer paragraphs/Benjamin se Glimlag.pdf
+              0   0%    0.00kB/s    0:00:00          675,993 100%  850.71kB/s    0:00:00 (xfr#55, to-chk=685/759)
+multi-afristory-za/afrikaans/Longer paragraphs/Die Koningin van Soweto Die storie van Basetsana Kumalo... .pdf
+              0   0%    0.00kB/s    0:00:00          999,418  84%  974.05kB/s    0:00:00        1,181,198 100%    1.07MB/s    0:00:01 (xfr#56, to-chk=684/759)
+multi-afristory-za/afrikaans/Longer paragraphs/Die ou plaas haan.pdf
+              0   0%    0.00kB/s    0:00:00          777,698 100%    2.48MB/s    0:00:00 (xfr#57, to-chk=683/759)
+multi-afristory-za/afrikaans/Longer paragraphs/Die pratende sak.pdf
+              0   0%    0.00kB/s    0:00:00          437,787 100%    1.01MB/s    0:00:00 (xfr#58, to-chk=682/759)
+multi-afristory-za/afrikaans/Longer paragraphs/Jakkals en die son.pdf
+              0   0%    0.00kB/s    0:00:00          397,243 100%  772.77kB/s    0:00:00 (xfr#59, to-chk=681/759)
+multi-afristory-za/afrikaans/Longer paragraphs/Khayanga en haar spesiale pot.pdf
+              0   0%    0.00kB/s    0:00:00          695,694 100%    1.04MB/s    0:00:00 (xfr#60, to-chk=680/759)
+multi-afristory-za/afrikaans/Longer paragraphs/My naam is Galiema hoe!.pdf
+              0   0%    0.00kB/s    0:00:00          129,092 100%  193.06kB/s    0:00:00 (xfr#61, to-chk=679/759)
+multi-afristory-za/afrikaans/Longer paragraphs/Sing die Waarheid Die Storie van Miriam Makeba.pdf
+              0   0%    0.00kB/s    0:00:00          690,717 100%  801.10kB/s    0:00:00 (xfr#62, to-chk=678/759)
+multi-afristory-za/afrikaans/Longer paragraphs/Worsie, Worsie .pdf
+              0   0%    0.00kB/s    0:00:00          154,957 100%  174.54kB/s    0:00:00 (xfr#63, to-chk=677/759)
+multi-afristory-za/afrikaans/Read aloud/
+multi-afristory-za/afrikaans/Read aloud/Die krokodil in my liggaam.pdf
+              0   0%    0.00kB/s    0:00:00          515,268 100%  523.07kB/s    0:00:00 (xfr#64, to-chk=676/759)
+multi-afristory-za/afrikaans/Read aloud/Hi\#303\#253na en Kraai.pdf
+              0   0%    0.00kB/s    0:00:00          180,218  19%  175.82kB/s    0:00:04          936,041 100%  764.30kB/s    0:00:01 (xfr#65, to-chk=675/759)
+multi-afristory-za/afrikaans/Read aloud/Kalabushe die spraaksame meisie.pdf
+              0   0%    0.00kB/s    0:00:00        1,004,701 100%    2.14MB/s    0:00:00 (xfr#66, to-chk=674/759)
+multi-afristory-za/afrikaans/Read aloud/Kisirusiru, die dwase kind.pdf
+              0   0%    0.00kB/s    0:00:00          587,080 100%  891.63kB/s    0:00:00 (xfr#67, to-chk=673/759)
+multi-afristory-za/english/
+multi-afristory-za/english/First paragraphs/
+multi-afristory-za/english/First paragraphs/A Dancer's Tale The Story of Phyllis Spira.pdf
+              0   0%    0.00kB/s    0:00:00          663,467 100%  839.27kB/s    0:00:00 (xfr#68, to-chk=667/759)
+multi-afristory-za/english/First paragraphs/A Fish and a Gift.pdf
+              0   0%    0.00kB/s    0:00:00          570,664 100%  653.33kB/s    0:00:00 (xfr#69, to-chk=666/759)
+multi-afristory-za/english/First paragraphs/A Tiny Seed The Story of Wangari Maathai.pdf
+              0   0%    0.00kB/s    0:00:00          427,342 100%  449.22kB/s    0:00:00 (xfr#70, to-chk=665/759)
+multi-afristory-za/english/First paragraphs/A curse or a blessing!  .pdf
+              0   0%    0.00kB/s    0:00:00          278,522  30%  271.18kB/s    0:00:02          907,338 100%  782.75kB/s    0:00:01 (xfr#71, to-chk=664/759)
+multi-afristory-za/english/First paragraphs/A house for Mouse.pdf
+              0   0%    0.00kB/s    0:00:00          980,903 100%    2.86MB/s    0:00:00 (xfr#72, to-chk=663/759)
+multi-afristory-za/english/First paragraphs/Adun, the beautiful.pdf
+              0   0%    0.00kB/s    0:00:00          843,543 100%    1.72MB/s    0:00:00 (xfr#73, to-chk=662/759)
+multi-afristory-za/english/First paragraphs/Amazing Daisy.pdf
+              0   0%    0.00kB/s    0:00:00          675,764 100%    1.08MB/s    0:00:00 (xfr#74, to-chk=661/759)
+multi-afristory-za/english/First paragraphs/Anansi and Wisdom.pdf
+              0   0%    0.00kB/s    0:00:00          432,919 100%  640.56kB/s    0:00:00 (xfr#75, to-chk=660/759)
+multi-afristory-za/english/First paragraphs/Animals of Uganda.pdf
+              0   0%    0.00kB/s    0:00:00          769,316 100%  942.64kB/s    0:00:00 (xfr#76, to-chk=659/759)
+multi-afristory-za/english/First paragraphs/Baby who cried.pdf
+              0   0%    0.00kB/s    0:00:00          131,072  22%  127.36kB/s    0:00:03          593,228 100%  561.91kB/s    0:00:01 (xfr#77, to-chk=658/759)
+multi-afristory-za/english/First paragraphs/Byantaka and the dead pot.pdf
+              0   0%    0.00kB/s    0:00:00          684,300 100%   14.19MB/s    0:00:00 (xfr#78, to-chk=657/759)
+multi-afristory-za/english/First paragraphs/Chicken and Millipede (Level 3).pdf
+              0   0%    0.00kB/s    0:00:00          528,459 100%    3.45MB/s    0:00:00 (xfr#79, to-chk=656/759)
+multi-afristory-za/english/First paragraphs/Crushed louse.pdf
+              0   0%    0.00kB/s    0:00:00          572,896 100%    1.99MB/s    0:00:00 (xfr#80, to-chk=655/759)
+multi-afristory-za/english/First paragraphs/Danger of abandoning a mother.pdf
+              0   0%    0.00kB/s    0:00:00          523,444 100%    1.21MB/s    0:00:00 (xfr#81, to-chk=654/759)
+multi-afristory-za/english/First paragraphs/Disagreement among occupations.pdf
+              0   0%    0.00kB/s    0:00:00          497,868 100%  935.00kB/s    0:00:00 (xfr#82, to-chk=653/759)
+multi-afristory-za/english/First paragraphs/Donkey Child.pdf
+              0   0%    0.00kB/s    0:00:00        1,499,628 100%    1.84MB/s    0:00:00 (xfr#83, to-chk=652/759)
+multi-afristory-za/english/First paragraphs/Elders.pdf
+              0   0%    0.00kB/s    0:00:00          613,200 100%  707.00kB/s    0:00:00 (xfr#84, to-chk=651/759)
+multi-afristory-za/english/First paragraphs/Elephant and Chameleon.pdf
+              0   0%    0.00kB/s    0:00:00          473,722 100%  502.85kB/s    0:00:00 (xfr#85, to-chk=650/759)
+multi-afristory-za/english/First paragraphs/Father and son.pdf
+              0   0%    0.00kB/s    0:00:00          468,863 100%  472.52kB/s    0:00:00 (xfr#86, to-chk=649/759)
+multi-afristory-za/english/First paragraphs/First man and first woman.pdf
+              0   0%    0.00kB/s    0:00:00          114,682  28%  111.55kB/s    0:00:02          403,049 100%  382.51kB/s    0:00:01 (xfr#87, to-chk=648/759)
+multi-afristory-za/english/First paragraphs/Fox and Rooster.pdf
+              0   0%    0.00kB/s    0:00:00          961,316 100%    6.46MB/s    0:00:00 (xfr#88, to-chk=647/759)
+multi-afristory-za/english/First paragraphs/Friends become enemies.pdf
+              0   0%    0.00kB/s    0:00:00          662,418 100%    2.80MB/s    0:00:00 (xfr#89, to-chk=646/759)
+multi-afristory-za/english/First paragraphs/Goat and the hyena\#342\#200\#231s knife.pdf
+              0   0%    0.00kB/s    0:00:00          531,859 100%    1.74MB/s    0:00:00 (xfr#90, to-chk=645/759)
+multi-afristory-za/english/First paragraphs/Goat, the false king.pdf
+              0   0%    0.00kB/s    0:00:00          984,831 100%    2.30MB/s    0:00:00 (xfr#91, to-chk=644/759)
+multi-afristory-za/english/First paragraphs/Greedy Kiundu.pdf
+              0   0%    0.00kB/s    0:00:00          392,385 100%  866.94kB/s    0:00:00 (xfr#92, to-chk=643/759)
+multi-afristory-za/english/First paragraphs/Guilty conscience.pdf
+              0   0%    0.00kB/s    0:00:00          927,228 100%    1.58MB/s    0:00:00 (xfr#93, to-chk=642/759)
+multi-afristory-za/english/First paragraphs/Hare tricks Elephant again.pdf
+              0   0%    0.00kB/s    0:00:00        1,103,478 100%    1.53MB/s    0:00:00 (xfr#94, to-chk=641/759)
+multi-afristory-za/english/First paragraphs/Hen and Eagle.pdf
+              0   0%    0.00kB/s    0:00:00          667,192 100%  849.48kB/s    0:00:00 (xfr#95, to-chk=640/759)
+multi-afristory-za/english/First paragraphs/Holidays with grandmother.pdf
+              0   0%    0.00kB/s    0:00:00        1,341,332 100%    1.36MB/s    0:00:00 (xfr#96, to-chk=639/759)
+multi-afristory-za/english/First paragraphs/How tortoise\#342\#200\#231s nose became crooked.pdf
+              0   0%    0.00kB/s    0:00:00          354,293 100%  358.17kB/s    0:00:00 (xfr#97, to-chk=638/759)
+multi-afristory-za/english/First paragraphs/Hungry jackal and the sour grapes.pdf
+              0   0%    0.00kB/s    0:00:00          311,290  69%  303.39kB/s    0:00:00          446,167 100%  425.91kB/s    0:00:01 (xfr#98, to-chk=637/759)
+multi-afristory-za/english/First paragraphs/Hyena and Tortoise.pdf
+              0   0%    0.00kB/s    0:00:00          891,609 100%    7.66MB/s    0:00:00 (xfr#99, to-chk=636/759)
+multi-afristory-za/english/First paragraphs/Kalabushe the talkative.pdf
+              0   0%    0.00kB/s    0:00:00        1,005,348 100%    4.03MB/s    0:00:00 (xfr#100, to-chk=635/759)
+multi-afristory-za/english/First paragraphs/Keeper and his special nursery.pdf
+              0   0%    0.00kB/s    0:00:00        1,292,856 100%    3.16MB/s    0:00:00 (xfr#101, to-chk=634/759)
+multi-afristory-za/english/First paragraphs/Ketty the naughty girl.pdf
+              0   0%    0.00kB/s    0:00:00          675,599 100%    1.36MB/s    0:00:00 (xfr#102, to-chk=633/759)
+multi-afristory-za/english/First paragraphs/King of the birds.pdf
+              0   0%    0.00kB/s    0:00:00          777,502 100%    1.33MB/s    0:00:00 (xfr#103, to-chk=632/759)
+multi-afristory-za/english/First paragraphs/Letter to mum.pdf
+              0   0%    0.00kB/s    0:00:00        1,125,281 100%    1.58MB/s    0:00:00 (xfr#104, to-chk=631/759)
+multi-afristory-za/english/First paragraphs/Little Ant\#342\#200\#231s big plan.pdf
+              0   0%    0.00kB/s    0:00:00          694,351 100%  895.74kB/s    0:00:00 (xfr#105, to-chk=630/759)
+multi-afristory-za/english/First paragraphs/Lory Dory.pdf
+              0   0%    0.00kB/s    0:00:00          664,401 100%  756.21kB/s    0:00:00 (xfr#106, to-chk=629/759)
+multi-afristory-za/english/First paragraphs/Maguru gives out legs.pdf
+              0   0%    0.00kB/s    0:00:00        1,060,302 100%    1.04MB/s    0:00:00 (xfr#107, to-chk=628/759)
+multi-afristory-za/english/First paragraphs/Mulongo and the hyenas .pdf
+              0   0%    0.00kB/s    0:00:00          278,522  32%  270.64kB/s    0:00:02          860,851 100%  788.63kB/s    0:00:01 (xfr#108, to-chk=627/759)
+multi-afristory-za/english/First paragraphs/Mwari and the ogre.pdf
+              0   0%    0.00kB/s    0:00:00          711,923 100%    3.57MB/s    0:00:00 (xfr#109, to-chk=626/759)
+multi-afristory-za/english/First paragraphs/My first pair of shoes.pdf
+              0   0%    0.00kB/s    0:00:00          620,586 100%    2.18MB/s    0:00:00 (xfr#110, to-chk=625/759)
+multi-afristory-za/english/First paragraphs/My friend Coco.pdf
+              0   0%    0.00kB/s    0:00:00          759,435 100%    2.11MB/s    0:00:00 (xfr#111, to-chk=624/759)
+multi-afristory-za/english/First paragraphs/Namoratunga.pdf
+              0   0%    0.00kB/s    0:00:00          445,881 100%    1.10MB/s    0:00:00 (xfr#112, to-chk=623/759)
+multi-afristory-za/english/First paragraphs/Namukhaywa.pdf
+              0   0%    0.00kB/s    0:00:00        1,085,659 100%    1.96MB/s    0:00:00 (xfr#113, to-chk=622/759)
+multi-afristory-za/english/First paragraphs/One hot Saturday afternoon.pdf
+              0   0%    0.00kB/s    0:00:00          771,943 100%    1.18MB/s    0:00:00 (xfr#114, to-chk=621/759)
+multi-afristory-za/english/First paragraphs/Otukolia fights Lingiri .pdf
+              0   0%    0.00kB/s    0:00:00          987,377 100%    1.30MB/s    0:00:00 (xfr#115, to-chk=620/759)
+multi-afristory-za/english/First paragraphs/Pontshibobo's tree (Colour-in).pdf
+              0   0%    0.00kB/s    0:00:00        1,007,448 100%    1.15MB/s    0:00:00 (xfr#116, to-chk=619/759)
+multi-afristory-za/english/First paragraphs/Pontshibobo\#342\#200\#231s tree.pdf
+              0   0%    0.00kB/s    0:00:00          920,177 100%  971.47kB/s    0:00:00 (xfr#117, to-chk=618/759)
+multi-afristory-za/english/First paragraphs/Pumpkins.pdf
+              0   0%    0.00kB/s    0:00:00          376,826  29%  367.99kB/s    0:00:02        1,271,287 100%    1.10MB/s    0:00:01 (xfr#118, to-chk=617/759)
+multi-afristory-za/english/First paragraphs/Rain for Nomvula.pdf
+              0   0%    0.00kB/s    0:00:00          540,012 100%    3.55MB/s    0:00:00 (xfr#119, to-chk=616/759)
+multi-afristory-za/english/First paragraphs/Rats!.pdf
+              0   0%    0.00kB/s    0:00:00          645,230 100%    2.86MB/s    0:00:00 (xfr#120, to-chk=615/759)
+multi-afristory-za/english/First paragraphs/Rooster and Hare.pdf
+              0   0%    0.00kB/s    0:00:00          400,755 100%    1.36MB/s    0:00:00 (xfr#121, to-chk=614/759)
+multi-afristory-za/english/First paragraphs/Rooster and Leopard.pdf
+              0   0%    0.00kB/s    0:00:00          724,083 100%    1.65MB/s    0:00:00 (xfr#122, to-chk=613/759)
+multi-afristory-za/english/First paragraphs/Singing the Truth The Story of Miriam Makeba.pdf
+              0   0%    0.00kB/s    0:00:00          691,128 100%    1.33MB/s    0:00:00 (xfr#123, to-chk=612/759)
+multi-afristory-za/english/First paragraphs/The Jungle School.pdf
+              0   0%    0.00kB/s    0:00:00          813,065 100%    1.29MB/s    0:00:00 (xfr#124, to-chk=611/759)
+multi-afristory-za/english/First paragraphs/The baboons that went this way and that.pdf
+              0   0%    0.00kB/s    0:00:00        1,130,974 100%    1.45MB/s    0:00:00 (xfr#125, to-chk=610/759)
+multi-afristory-za/english/First paragraphs/The girl who got rich.pdf
+              0   0%    0.00kB/s    0:00:00        1,753,082  86%    1.67MB/s    0:00:00        2,016,580 100%    1.88MB/s    0:00:01 (xfr#126, to-chk=609/759)
+multi-afristory-za/english/First paragraphs/The girl who played..pdf
+              0   0%    0.00kB/s    0:00:00        1,030,023 100%    5.49MB/s    0:00:00 (xfr#127, to-chk=608/759)
+multi-afristory-za/english/First paragraphs/The girl with one breast.pdf
+              0   0%    0.00kB/s    0:00:00          225,161 100%  968.65kB/s    0:00:00 (xfr#128, to-chk=607/759)
+multi-afristory-za/english/First paragraphs/The sick hyena.pdf
+              0   0%    0.00kB/s    0:00:00          453,189 100%    1.59MB/s    0:00:00 (xfr#129, to-chk=606/759)
+multi-afristory-za/english/First paragraphs/Vayu, the wind.pdf
+              0   0%    0.00kB/s    0:00:00        1,369,803 100%    2.74MB/s    0:00:00 (xfr#130, to-chk=605/759)
+multi-afristory-za/english/First paragraphs/We made a decision.pdf
+              0   0%    0.00kB/s    0:00:00        1,323,990 100%    1.88MB/s    0:00:00 (xfr#131, to-chk=604/759)
+multi-afristory-za/english/First sentences/
+multi-afristory-za/english/First sentences/Akatope.pdf
+              0   0%    0.00kB/s    0:00:00          453,281 100%  608.05kB/s    0:00:00 (xfr#132, to-chk=603/759)
+multi-afristory-za/english/First sentences/Annoying mosquito.pdf
+              0   0%    0.00kB/s    0:00:00          931,322 100%  999.44kB/s    0:00:00 (xfr#133, to-chk=602/759)
+multi-afristory-za/english/First sentences/Azizi the doll.pdf
+              0   0%    0.00kB/s    0:00:00          589,824  57%  533.83kB/s    0:00:00        1,027,122 100%  874.50kB/s    0:00:01 (xfr#134, to-chk=601/759)
+multi-afristory-za/english/First sentences/Bendera yetu Our flag.pdf
+              0   0%    0.00kB/s    0:00:00          392,997 100%    3.29MB/s    0:00:00 (xfr#135, to-chk=600/759)
+multi-afristory-za/english/First sentences/Big blue bus.pdf
+              0   0%    0.00kB/s    0:00:00        1,150,969 100%    3.59MB/s    0:00:00 (xfr#136, to-chk=599/759)
+multi-afristory-za/english/First sentences/Child as a peacemaker .pdf
+              0   0%    0.00kB/s    0:00:00        1,018,977 100%    2.07MB/s    0:00:00 (xfr#137, to-chk=598/759)
+multi-afristory-za/english/First sentences/Children of wax.pdf
+              0   0%    0.00kB/s    0:00:00          550,138 100% 1023.32kB/s    0:00:00 (xfr#138, to-chk=597/759)
+multi-afristory-za/english/First sentences/Curious baby elephant.pdf
+              0   0%    0.00kB/s    0:00:00        1,030,229 100%    1.44MB/s    0:00:00 (xfr#139, to-chk=596/759)
+multi-afristory-za/english/First sentences/Dancing.pdf
+              0   0%    0.00kB/s    0:00:00          414,143 100%  559.39kB/s    0:00:00 (xfr#140, to-chk=595/759)
+multi-afristory-za/english/First sentences/Day the sun went away.pdf
+              0   0%    0.00kB/s    0:00:00          793,900 100%  937.48kB/s    0:00:00 (xfr#141, to-chk=594/759)
+multi-afristory-za/english/First sentences/Day with my doll.pdf
+              0   0%    0.00kB/s    0:00:00          755,197 100%  797.29kB/s    0:00:00 (xfr#142, to-chk=593/759)
+multi-afristory-za/english/First sentences/Different abilities.pdf
+              0   0%    0.00kB/s    0:00:00          720,896  78%  704.00kB/s    0:00:00          917,387 100%  860.60kB/s    0:00:01 (xfr#143, to-chk=592/759)
+multi-afristory-za/english/First sentences/Disability is not inability.pdf
+              0   0%    0.00kB/s    0:00:00          630,568 100%    5.52MB/s    0:00:00 (xfr#144, to-chk=591/759)
+multi-afristory-za/english/First sentences/Elephant's nose.pdf
+              0   0%    0.00kB/s    0:00:00          756,085 100%    3.57MB/s    0:00:00 (xfr#145, to-chk=590/759)
+multi-afristory-za/english/First sentences/Fire's story.pdf
+              0   0%    0.00kB/s    0:00:00          504,196 100%    1.84MB/s    0:00:00 (xfr#146, to-chk=589/759)
+multi-afristory-za/english/First sentences/Funny story.pdf
+              0   0%    0.00kB/s    0:00:00          462,250 100%    1.38MB/s    0:00:00 (xfr#147, to-chk=588/759)
+multi-afristory-za/english/First sentences/Greedy Hyena.pdf
+              0   0%    0.00kB/s    0:00:00          796,007 100%    1.82MB/s    0:00:00 (xfr#148, to-chk=587/759)
+multi-afristory-za/english/First sentences/Hamisi's lucky day.pdf
+              0   0%    0.00kB/s    0:00:00          545,168 100%    1.09MB/s    0:00:00 (xfr#149, to-chk=586/759)
+multi-afristory-za/english/First sentences/How about you.pdf
+              0   0%    0.00kB/s    0:00:00          430,043 100%  777.71kB/s    0:00:00 (xfr#150, to-chk=585/759)
+multi-afristory-za/english/First sentences/How ant saved dove.pdf
+              0   0%    0.00kB/s    0:00:00        1,363,950 100%    1.86MB/s    0:00:00 (xfr#151, to-chk=584/759)
+multi-afristory-za/english/First sentences/If I were ....pdf
+              0   0%    0.00kB/s    0:00:00          899,617 100%    1.03MB/s    0:00:00 (xfr#152, to-chk=583/759)
+multi-afristory-za/english/First sentences/Imagine.pdf
+              0   0%    0.00kB/s    0:00:00          724,469 100%  763.20kB/s    0:00:00 (xfr#153, to-chk=582/759)
+multi-afristory-za/english/First sentences/Is there anyone like me.pdf
+              0   0%    0.00kB/s    0:00:00          557,000 100%  543.95kB/s    0:00:01 (xfr#154, to-chk=581/759)
+multi-afristory-za/english/First sentences/Jaaka the fisherman.pdf
+              0   0%    0.00kB/s    0:00:00           16,378   5%   15.98kB/s    0:00:16          287,696 100%  270.67kB/s    0:00:01 (xfr#155, to-chk=580/759)
+multi-afristory-za/english/First sentences/Kabali and Kateera.pdf
+              0   0%    0.00kB/s    0:00:00          766,560 100%    5.80MB/s    0:00:00 (xfr#156, to-chk=579/759)
+multi-afristory-za/english/First sentences/Karabo\#342\#200\#231s question.pdf
+              0   0%    0.00kB/s    0:00:00          716,129 100%    3.05MB/s    0:00:00 (xfr#157, to-chk=578/759)
+multi-afristory-za/english/First sentences/Keeper and his special nursery (Level 2).pdf
+              0   0%    0.00kB/s    0:00:00          828,023 100%    2.18MB/s    0:00:00 (xfr#158, to-chk=577/759)
+multi-afristory-za/english/First sentences/Khalai talks to plants.pdf
+              0   0%    0.00kB/s    0:00:00          528,133 100%    1.24MB/s    0:00:00 (xfr#159, to-chk=576/759)
+multi-afristory-za/english/First sentences/Kumbana's Child.pdf
+              0   0%    0.00kB/s    0:00:00          482,675 100%  904.73kB/s    0:00:00 (xfr#160, to-chk=575/759)
+multi-afristory-za/english/First sentences/Lion that wanted friendship.pdf
+              0   0%    0.00kB/s    0:00:00          467,005 100%  804.34kB/s    0:00:00 (xfr#161, to-chk=574/759)
+multi-afristory-za/english/First sentences/Locusts.pdf
+              0   0%    0.00kB/s    0:00:00          996,254 100%    1.28MB/s    0:00:00 (xfr#162, to-chk=573/759)
+multi-afristory-za/english/First sentences/Maggy and Doris the cat.pdf
+              0   0%    0.00kB/s    0:00:00          275,997 100%  351.86kB/s    0:00:00 (xfr#163, to-chk=572/759)
+multi-afristory-za/english/First sentences/Monkey Eats his Own Tail.pdf
+              0   0%    0.00kB/s    0:00:00          575,227 100%  669.54kB/s    0:00:00 (xfr#164, to-chk=571/759)
+multi-afristory-za/english/First sentences/Mr Fly and Mr Big Head .pdf
+              0   0%    0.00kB/s    0:00:00          477,574 100%  516.48kB/s    0:00:00 (xfr#165, to-chk=570/759)
+multi-afristory-za/english/First sentences/Ms Phone.pdf
+              0   0%    0.00kB/s    0:00:00          786,432  58%  768.00kB/s    0:00:00        1,355,492 100%    1.23MB/s    0:00:01 (xfr#166, to-chk=569/759)
+multi-afristory-za/english/First sentences/My family and I.pdf
+              0   0%    0.00kB/s    0:00:00          619,598 100%    4.28MB/s    0:00:00 (xfr#167, to-chk=568/759)
+multi-afristory-za/english/First sentences/My grandma..pdf
+              0   0%    0.00kB/s    0:00:00          327,030 100%    1.80MB/s    0:00:00 (xfr#168, to-chk=567/759)
+multi-afristory-za/english/First sentences/My new shirt.pdf
+              0   0%    0.00kB/s    0:00:00          496,075 100%    1.98MB/s    0:00:00 (xfr#169, to-chk=566/759)
+multi-afristory-za/english/First sentences/Namukuru\#342\#200\#231s bicycle.pdf
+              0   0%    0.00kB/s    0:00:00          494,327 100%    1.66MB/s    0:00:00 (xfr#170, to-chk=565/759)
+multi-afristory-za/english/First sentences/Nanu\#342\#200\#231s taxi.pdf
+              0   0%    0.00kB/s    0:00:00          864,842 100%    2.13MB/s    0:00:00 (xfr#171, to-chk=564/759)
+multi-afristory-za/english/First sentences/Palesa loves plants.pdf
+              0   0%    0.00kB/s    0:00:00          528,142 100%    1.14MB/s    0:00:00 (xfr#172, to-chk=563/759)
+multi-afristory-za/english/First sentences/Punishment.pdf
+              0   0%    0.00kB/s    0:00:00          644,703 100%    1.17MB/s    0:00:00 (xfr#173, to-chk=562/759)
+multi-afristory-za/english/First sentences/Rabbit Goes to a Party.pdf
+              0   0%    0.00kB/s    0:00:00          355,377 100%  598.36kB/s    0:00:00 (xfr#174, to-chk=561/759)
+multi-afristory-za/english/First sentences/Selemeng's cats.pdf
+              0   0%    0.00kB/s    0:00:00          603,975 100%  911.62kB/s    0:00:00 (xfr#175, to-chk=560/759)
+multi-afristory-za/english/First sentences/Swimming.pdf
+              0   0%    0.00kB/s    0:00:00          760,285 100%  997.94kB/s    0:00:00 (xfr#176, to-chk=559/759)
+multi-afristory-za/english/First sentences/Teacher Akinyi.pdf
+              0   0%    0.00kB/s    0:00:00          975,324 100%    1.09MB/s    0:00:00 (xfr#177, to-chk=558/759)
+multi-afristory-za/english/First sentences/The Cooking Game.pdf
+              0   0%    0.00kB/s    0:00:00          380,823 100%  411.39kB/s    0:00:00 (xfr#178, to-chk=557/759)
+multi-afristory-za/english/First sentences/The Dancing Goat.pdf
+              0   0%    0.00kB/s    0:00:00          680,992 100%  665.03kB/s    0:00:01 (xfr#179, to-chk=556/759)
+multi-afristory-za/english/First sentences/The Elephant and the Frogs.pdf
+              0   0%    0.00kB/s    0:00:00           16,378   2%   15.98kB/s    0:00:40          669,520 100%  608.78kB/s    0:00:01 (xfr#180, to-chk=555/759)
+multi-afristory-za/english/First sentences/The Hornbill .pdf
+              0   0%    0.00kB/s    0:00:00          584,664 100%    3.90MB/s    0:00:00 (xfr#181, to-chk=554/759)
+multi-afristory-za/english/First sentences/The Man and the Lion.pdf
+              0   0%    0.00kB/s    0:00:00          399,589 100%    2.05MB/s    0:00:00 (xfr#182, to-chk=553/759)
+multi-afristory-za/english/First sentences/The Monkey and the Crocodile.pdf
+              0   0%    0.00kB/s    0:00:00          772,302 100%    2.72MB/s    0:00:00 (xfr#183, to-chk=552/759)
+multi-afristory-za/english/First sentences/The Race.pdf
+              0   0%    0.00kB/s    0:00:00          297,003 100%  960.40kB/s    0:00:00 (xfr#184, to-chk=551/759)
+multi-afristory-za/english/First sentences/The Staring Game.pdf
+              0   0%    0.00kB/s    0:00:00          492,660 100%    1.28MB/s    0:00:00 (xfr#185, to-chk=550/759)
+multi-afristory-za/english/First sentences/The friend I miss.pdf
+              0   0%    0.00kB/s    0:00:00          668,590 100%    1.39MB/s    0:00:00 (xfr#186, to-chk=549/759)
+multi-afristory-za/english/First sentences/The hungry crocodile.pdf
+              0   0%    0.00kB/s    0:00:00          202,333 100%  420.41kB/s    0:00:00 (xfr#187, to-chk=548/759)
+multi-afristory-za/english/First sentences/Things I know.pdf
+              0   0%    0.00kB/s    0:00:00          480,273 100%  852.76kB/s    0:00:00 (xfr#188, to-chk=547/759)
+multi-afristory-za/english/First sentences/Tingi and the Cows.pdf
+              0   0%    0.00kB/s    0:00:00          669,984 100%    1.04MB/s    0:00:00 (xfr#189, to-chk=546/759)
+multi-afristory-za/english/First sentences/What do you see.pdf
+              0   0%    0.00kB/s    0:00:00          568,453 100%  813.97kB/s    0:00:00 (xfr#190, to-chk=545/759)
+multi-afristory-za/english/First sentences/What is wrong child  Mtoto, shida ni nini.pdf
+              0   0%    0.00kB/s    0:00:00          596,660 100%  767.69kB/s    0:00:00 (xfr#191, to-chk=544/759)
+multi-afristory-za/english/First sentences/What shall I use to travel.pdf
+              0   0%    0.00kB/s    0:00:00          836,635 100%  939.11kB/s    0:00:00 (xfr#192, to-chk=543/759)
+multi-afristory-za/english/First sentences/Where is my bat.pdf
+              0   0%    0.00kB/s    0:00:00          721,338 100%  738.40kB/s    0:00:00 (xfr#193, to-chk=542/759)
+multi-afristory-za/english/First sentences/Who is Big.pdf
+              0   0%    0.00kB/s    0:00:00          322,149 100%  317.78kB/s    0:00:00 (xfr#194, to-chk=541/759)
+multi-afristory-za/english/First sentences/Why Frog is So Ugly.pdf
+              0   0%    0.00kB/s    0:00:00           81,914  26%   79.44kB/s    0:00:02          313,691 100%  299.74kB/s    0:00:01 (xfr#195, to-chk=540/759)
+multi-afristory-za/english/First sentences/Wind.pdf
+              0   0%    0.00kB/s    0:00:00        1,124,372 100%    7.25MB/s    0:00:00 (xfr#196, to-chk=539/759)
+multi-afristory-za/english/First words/
+multi-afristory-za/english/First words/A very tall man.pdf
+              0   0%    0.00kB/s    0:00:00          717,852 100%    3.04MB/s    0:00:00 (xfr#197, to-chk=538/759)
+multi-afristory-za/english/First words/Breakfast.pdf
+              0   0%    0.00kB/s    0:00:00          332,854 100%    1.20MB/s    0:00:00 (xfr#198, to-chk=537/759)
+multi-afristory-za/english/First words/Brown.pdf
+              0   0%    0.00kB/s    0:00:00          762,838 100%    1.98MB/s    0:00:00 (xfr#199, to-chk=536/759)
+multi-afristory-za/english/First words/Bunty and Bubbly.pdf
+              0   0%    0.00kB/s    0:00:00          830,501 100%    1.71MB/s    0:00:00 (xfr#200, to-chk=535/759)
+multi-afristory-za/english/First words/Chicken and Millipede (Level 1).pdf
+              0   0%    0.00kB/s    0:00:00          525,643 100%  959.48kB/s    0:00:00 (xfr#201, to-chk=534/759)
+multi-afristory-za/english/First words/Colours of a rainbow.pdf
+              0   0%    0.00kB/s    0:00:00          483,775 100%  807.58kB/s    0:00:00 (xfr#202, to-chk=533/759)
+multi-afristory-za/english/First words/Cooking.pdf
+              0   0%    0.00kB/s    0:00:00          317,882 100%  490.41kB/s    0:00:00 (xfr#203, to-chk=532/759)
+multi-afristory-za/english/First words/Counting animals.pdf
+              0   0%    0.00kB/s    0:00:00          575,616 100%  812.32kB/s    0:00:00 (xfr#204, to-chk=531/759)
+multi-afristory-za/english/First words/Counting cats.pdf
+              0   0%    0.00kB/s    0:00:00          543,295 100%  683.71kB/s    0:00:00 (xfr#205, to-chk=530/759)
+multi-afristory-za/english/First words/Feelings.pdf
+              0   0%    0.00kB/s    0:00:00          296,925 100%  362.91kB/s    0:00:00 (xfr#206, to-chk=529/759)
+multi-afristory-za/english/First words/Fire.pdf
+              0   0%    0.00kB/s    0:00:00          503,917 100%  554.17kB/s    0:00:00 (xfr#207, to-chk=528/759)
+multi-afristory-za/english/First words/Friends.pdf
+              0   0%    0.00kB/s    0:00:00          755,926 100%  764.19kB/s    0:00:00 (xfr#208, to-chk=527/759)
+multi-afristory-za/english/First words/Hair.pdf
+              0   0%    0.00kB/s    0:00:00          294,912  66%  287.14kB/s    0:00:00          440,973 100%  426.80kB/s    0:00:01 (xfr#209, to-chk=526/759)
+multi-afristory-za/english/First words/Houses.pdf
+              0   0%    0.00kB/s    0:00:00          560,156 100%    7.32MB/s    0:00:00 (xfr#210, to-chk=525/759)
+multi-afristory-za/english/First words/How many.pdf
+              0   0%    0.00kB/s    0:00:00          401,825 100%    2.82MB/s    0:00:00 (xfr#211, to-chk=524/759)
+multi-afristory-za/english/First words/I can do this.pdf
+              0   0%    0.00kB/s    0:00:00          253,591 100%    1.50MB/s    0:00:00 (xfr#212, to-chk=523/759)
+multi-afristory-za/english/First words/I enjoyNinafurahia.pdf
+              0   0%    0.00kB/s    0:00:00          529,231 100%    2.20MB/s    0:00:00 (xfr#213, to-chk=522/759)
+multi-afristory-za/english/First words/I know colours.pdf
+              0   0%    0.00kB/s    0:00:00          138,336 100%  560.55kB/s    0:00:00 (xfr#214, to-chk=521/759)
+multi-afristory-za/english/First words/I like to read.pdf
+              0   0%    0.00kB/s    0:00:00          534,251 100%    1.70MB/s    0:00:00 (xfr#215, to-chk=520/759)
+multi-afristory-za/english/First words/Lazy little brother.pdf
+              0   0%    0.00kB/s    0:00:00          300,130 100%  857.00kB/s    0:00:00 (xfr#216, to-chk=519/759)
+multi-afristory-za/english/First words/Lekishon and the cows.pdf
+              0   0%    0.00kB/s    0:00:00          417,038 100%  988.50kB/s    0:00:00 (xfr#217, to-chk=518/759)
+multi-afristory-za/english/First words/Let's go.pdf
+              0   0%    0.00kB/s    0:00:00          828,047 100%    1.57MB/s    0:00:00 (xfr#218, to-chk=517/759)
+multi-afristory-za/english/First words/Letters.pdf
+              0   0%    0.00kB/s    0:00:00          306,129 100%  555.68kB/s    0:00:00 (xfr#219, to-chk=516/759)
+multi-afristory-za/english/First words/Listen.pdf
+              0   0%    0.00kB/s    0:00:00          639,849 100% 1021.00kB/s    0:00:00 (xfr#220, to-chk=515/759)
+multi-afristory-za/english/First words/Little and big.pdf
+              0   0%    0.00kB/s    0:00:00        1,141,271 100%    1.45MB/s    0:00:00 (xfr#221, to-chk=514/759)
+multi-afristory-za/english/First words/Look at the animals.pdf
+              0   0%    0.00kB/s    0:00:00          402,932 100%  487.59kB/s    0:00:00 (xfr#222, to-chk=513/759)
+multi-afristory-za/english/First words/More of What are you doing.pdf
+              0   0%    0.00kB/s    0:00:00          283,713 100%  327.50kB/s    0:00:00 (xfr#223, to-chk=512/759)
+multi-afristory-za/english/First words/My body.pdf
+              0   0%    0.00kB/s    0:00:00          296,106 100%  331.99kB/s    0:00:00 (xfr#224, to-chk=511/759)
+multi-afristory-za/english/First words/My daughter Polar.pdf
+              0   0%    0.00kB/s    0:00:00          599,145 100%  624.44kB/s    0:00:00 (xfr#225, to-chk=510/759)
+multi-afristory-za/english/First words/My family.pdf
+              0   0%    0.00kB/s    0:00:00          376,826  75%  367.99kB/s    0:00:00          495,895 100%  475.24kB/s    0:00:01 (xfr#226, to-chk=509/759)
+multi-afristory-za/english/First words/My red ball.pdf
+              0   0%    0.00kB/s    0:00:00        1,245,604 100%    8.03MB/s    0:00:00 (xfr#227, to-chk=508/759)
+multi-afristory-za/english/First words/My teacher.pdf
+              0   0%    0.00kB/s    0:00:00          464,645 100%    2.16MB/s    0:00:00 (xfr#228, to-chk=507/759)
+multi-afristory-za/english/First words/New pussy cat.pdf
+              0   0%    0.00kB/s    0:00:00          364,313 100%    1.41MB/s    0:00:00 (xfr#229, to-chk=506/759)
+multi-afristory-za/english/First words/Oscar the Shark.pdf
+              0   0%    0.00kB/s    0:00:00          299,789 100%    1.07MB/s    0:00:00 (xfr#230, to-chk=505/759)
+multi-afristory-za/english/First words/Our day at the zoo.pdf
+              0   0%    0.00kB/s    0:00:00          771,254 100%    2.01MB/s    0:00:00 (xfr#231, to-chk=504/759)
+multi-afristory-za/english/First words/Palm tree.pdf
+              0   0%    0.00kB/s    0:00:00          564,879 100%    1.27MB/s    0:00:00 (xfr#232, to-chk=503/759)
+multi-afristory-za/english/First words/Pendo our cow.pdf
+              0   0%    0.00kB/s    0:00:00          773,847 100%    1.44MB/s    0:00:00 (xfr#233, to-chk=502/759)
+multi-afristory-za/english/First words/Porridge.pdf
+              0   0%    0.00kB/s    0:00:00          859,906 100%    1.31MB/s    0:00:00 (xfr#234, to-chk=501/759)
+multi-afristory-za/english/First words/Rain.pdf
+              0   0%    0.00kB/s    0:00:00          536,884 100%  760.96kB/s    0:00:00 (xfr#235, to-chk=500/759)
+multi-afristory-za/english/First words/Red.pdf
+              0   0%    0.00kB/s    0:00:00          861,704 100%    1.05MB/s    0:00:00 (xfr#236, to-chk=499/759)
+multi-afristory-za/english/First words/Sane in the market.pdf
+              0   0%    0.00kB/s    0:00:00          513,817 100%  601.65kB/s    0:00:00 (xfr#237, to-chk=498/759)
+multi-afristory-za/english/First words/School clothes.pdf
+              0   0%    0.00kB/s    0:00:00          227,527 100%  258.07kB/s    0:00:00 (xfr#238, to-chk=497/759)
+multi-afristory-za/english/First words/Serious accident.pdf
+              0   0%    0.00kB/s    0:00:00          477,349 100%  501.79kB/s    0:00:00 (xfr#239, to-chk=496/759)
+multi-afristory-za/english/First words/Silkworm.pdf
+              0   0%    0.00kB/s    0:00:00          503,610 100%  501.84kB/s    0:00:00 (xfr#240, to-chk=495/759)
+multi-afristory-za/english/First words/Stealing.pdf
+              0   0%    0.00kB/s    0:00:00           98,304  33%   95.90kB/s    0:00:02          292,599 100%  281.52kB/s    0:00:01 (xfr#241, to-chk=494/759)
+multi-afristory-za/english/First words/Teeth.pdf
+              0   0%    0.00kB/s    0:00:00          372,920 100%    7.11MB/s    0:00:00 (xfr#242, to-chk=493/759)
+multi-afristory-za/english/First words/Tell me ... now! Happy and sad.pdf
+              0   0%    0.00kB/s    0:00:00          427,983 100%    3.49MB/s    0:00:00 (xfr#243, to-chk=492/759)
+multi-afristory-za/english/First words/Tell me...now! Colours.pdf
+              0   0%    0.00kB/s    0:00:00          668,531 100%    3.64MB/s    0:00:00 (xfr#244, to-chk=491/759)
+multi-afristory-za/english/First words/The Moon and the Cap.pdf
+              0   0%    0.00kB/s    0:00:00          697,681 100%    2.44MB/s    0:00:00 (xfr#245, to-chk=490/759)
+multi-afristory-za/english/First words/The adventures of Supercow.pdf
+              0   0%    0.00kB/s    0:00:00          297,798 100%  953.50kB/s    0:00:00 (xfr#246, to-chk=489/759)
+multi-afristory-za/english/First words/The boy who played..pdf
+              0   0%    0.00kB/s    0:00:00          666,875 100%    1.66MB/s    0:00:00 (xfr#247, to-chk=488/759)
+multi-afristory-za/english/First words/The sprouting bean.pdf
+              0   0%    0.00kB/s    0:00:00          322,864 100%  743.62kB/s    0:00:00 (xfr#248, to-chk=487/759)
+multi-afristory-za/english/First words/Things we can do.pdf
+              0   0%    0.00kB/s    0:00:00          253,605 100%  544.31kB/s    0:00:00 (xfr#249, to-chk=486/759)
+multi-afristory-za/english/First words/This is me.pdf
+              0   0%    0.00kB/s    0:00:00          345,941 100%  688.05kB/s    0:00:00 (xfr#250, to-chk=485/759)
+multi-afristory-za/english/First words/Tom the banana seller.pdf
+              0   0%    0.00kB/s    0:00:00          504,800 100%  907.86kB/s    0:00:00 (xfr#251, to-chk=484/759)
+multi-afristory-za/english/First words/Two hungry boys.pdf
+              0   0%    0.00kB/s    0:00:00          269,091 100%  419.78kB/s    0:00:00 (xfr#252, to-chk=483/759)
+multi-afristory-za/english/First words/Two.pdf
+              0   0%    0.00kB/s    0:00:00          801,005 100% 1006.73kB/s    0:00:00 (xfr#253, to-chk=482/759)
+multi-afristory-za/english/First words/Weather book.pdf
+              0   0%    0.00kB/s    0:00:00          272,702 100%  336.25kB/s    0:00:00 (xfr#254, to-chk=481/759)
+multi-afristory-za/english/First words/What are you doing.pdf
+              0   0%    0.00kB/s    0:00:00          204,435 100%  238.81kB/s    0:00:00 (xfr#255, to-chk=480/759)
+multi-afristory-za/english/First words/What type of teeth.pdf
+              0   0%    0.00kB/s    0:00:00          460,381 100%  513.82kB/s    0:00:00 (xfr#256, to-chk=479/759)
+multi-afristory-za/english/First words/Where is my cat.pdf
+              0   0%    0.00kB/s    0:00:00          399,875 100%  408.90kB/s    0:00:00 (xfr#257, to-chk=478/759)
+multi-afristory-za/english/Longer paragraphs/
+multi-afristory-za/english/Longer paragraphs/'M'e Maneo's pumpkin.pdf
+              0   0%    0.00kB/s    0:00:00          344,058  24%  330.70kB/s    0:00:03        1,389,380 100%    1.12MB/s    0:00:01 (xfr#258, to-chk=477/759)
+multi-afristory-za/english/Longer paragraphs/An egg for bride wealth.pdf
+              0   0%    0.00kB/s    0:00:00        1,059,290 100%    3.01MB/s    0:00:00 (xfr#259, to-chk=476/759)
+multi-afristory-za/english/Longer paragraphs/Anansi and Turtle.pdf
+              0   0%    0.00kB/s    0:00:00          772,787 100%    1.69MB/s    0:00:00 (xfr#260, to-chk=475/759)
+multi-afristory-za/english/Longer paragraphs/Anansi and Vulture.pdf
+              0   0%    0.00kB/s    0:00:00          773,934 100%    1.33MB/s    0:00:00 (xfr#261, to-chk=474/759)
+multi-afristory-za/english/Longer paragraphs/Anansi gives people stories.pdf
+              0   0%    0.00kB/s    0:00:00          724,071 100%    1.06MB/s    0:00:00 (xfr#262, to-chk=473/759)
+multi-afristory-za/english/Longer paragraphs/Anansi, the crows, and the crocodiles .pdf
+              0   0%    0.00kB/s    0:00:00          802,557 100%    1.01MB/s    0:00:00 (xfr#263, to-chk=472/759)
+multi-afristory-za/english/Longer paragraphs/Animals dig a well.pdf
+              0   0%    0.00kB/s    0:00:00        1,145,103 100%    1.18MB/s    0:00:00 (xfr#264, to-chk=471/759)
+multi-afristory-za/english/Longer paragraphs/Day I left home for the city.pdf
+              0   0%    0.00kB/s    0:00:00          573,434  45%  559.99kB/s    0:00:01        1,266,157 100%    1.08MB/s    0:00:01 (xfr#265, to-chk=470/759)
+multi-afristory-za/english/Longer paragraphs/Demane and Demazane.pdf
+              0   0%    0.00kB/s    0:00:00        1,487,274 100%    3.96MB/s    0:00:00 (xfr#266, to-chk=469/759)
+multi-afristory-za/english/Longer paragraphs/Forest of snakes.pdf
+              0   0%    0.00kB/s    0:00:00          979,036 100%    1.83MB/s    0:00:00 (xfr#267, to-chk=468/759)
+multi-afristory-za/english/Longer paragraphs/Grandma\#342\#200\#231s bananas.pdf
+              0   0%    0.00kB/s    0:00:00          804,736 100%    1.20MB/s    0:00:00 (xfr#268, to-chk=467/759)
+multi-afristory-za/english/Longer paragraphs/Grandmother and the Smelly Girl.pdf
+              0   0%    0.00kB/s    0:00:00          664,742 100%  867.86kB/s    0:00:00 (xfr#269, to-chk=466/759)
+multi-afristory-za/english/Longer paragraphs/Hare and Hyena.pdf
+              0   0%    0.00kB/s    0:00:00        1,141,283 100%    1.21MB/s    0:00:00 (xfr#270, to-chk=465/759)
+multi-afristory-za/english/Longer paragraphs/Hare and Tortoise (Again!).pdf
+              0   0%    0.00kB/s    0:00:00          557,056  48%  543.46kB/s    0:00:01        1,151,997 100%    1.02MB/s    0:00:01 (xfr#271, to-chk=464/759)
+multi-afristory-za/english/Longer paragraphs/How night came to Opio\#342\#200\#231s village .pdf
+              0   0%    0.00kB/s    0:00:00          448,510 100%    3.12MB/s    0:00:00 (xfr#272, to-chk=463/759)
+multi-afristory-za/english/Longer paragraphs/Jackal and the sun.pdf
+              0   0%    0.00kB/s    0:00:00          397,126 100%    1.94MB/s    0:00:00 (xfr#273, to-chk=462/759)
+multi-afristory-za/english/Longer paragraphs/Khayanga and her Gourd.pdf
+              0   0%    0.00kB/s    0:00:00          695,719 100%    2.20MB/s    0:00:00 (xfr#274, to-chk=461/759)
+multi-afristory-za/english/Longer paragraphs/Kidnapped!.pdf
+              0   0%    0.00kB/s    0:00:00        1,385,625 100%    2.69MB/s    0:00:00 (xfr#275, to-chk=460/759)
+multi-afristory-za/english/Longer paragraphs/King Kayanja and his daughter.pdf
+              0   0%    0.00kB/s    0:00:00          824,052 100%    1.29MB/s    0:00:00 (xfr#276, to-chk=459/759)
+multi-afristory-za/english/Longer paragraphs/Lazy Anansi.pdf
+              0   0%    0.00kB/s    0:00:00          809,904 100%    1.09MB/s    0:00:00 (xfr#277, to-chk=458/759)
+multi-afristory-za/english/Longer paragraphs/Lion and Warthog.pdf
+              0   0%    0.00kB/s    0:00:00          889,041 100%    1.05MB/s    0:00:00 (xfr#278, to-chk=457/759)
+multi-afristory-za/english/Longer paragraphs/Magozwe.pdf
+              0   0%    0.00kB/s    0:00:00          884,342 100%  950.07kB/s    0:00:00 (xfr#279, to-chk=456/759)
+multi-afristory-za/english/Longer paragraphs/Malasile and Wetsakhulya.pdf
+              0   0%    0.00kB/s    0:00:00          753,664  90%  736.00kB/s    0:00:00          833,175 100%  811.21kB/s    0:00:01 (xfr#280, to-chk=455/759)
+multi-afristory-za/english/Longer paragraphs/Market cows.pdf
+              0   0%    0.00kB/s    0:00:00        1,197,624 100%    7.42MB/s    0:00:00 (xfr#281, to-chk=454/759)
+multi-afristory-za/english/Longer paragraphs/Mod the Toad.pdf
+              0   0%    0.00kB/s    0:00:00          903,531 100%    3.25MB/s    0:00:00 (xfr#282, to-chk=453/759)
+multi-afristory-za/english/Longer paragraphs/Mulongo and the ogre .pdf
+              0   0%    0.00kB/s    0:00:00        1,084,233 100%    2.61MB/s    0:00:00 (xfr#283, to-chk=452/759)
+multi-afristory-za/english/Longer paragraphs/Musau saves his father.pdf
+              0   0%    0.00kB/s    0:00:00          727,243 100%    1.37MB/s    0:00:00 (xfr#284, to-chk=451/759)
+multi-afristory-za/english/Longer paragraphs/My first day at the market.pdf
+              0   0%    0.00kB/s    0:00:00        1,007,603 100%    1.46MB/s    0:00:00 (xfr#285, to-chk=450/759)
+multi-afristory-za/english/Longer paragraphs/Nangila\#342\#200\#231s courage.pdf
+              0   0%    0.00kB/s    0:00:00          915,960 100%    1.12MB/s    0:00:00 (xfr#286, to-chk=449/759)
+multi-afristory-za/english/Longer paragraphs/Nonkungu and the imbulu.pdf
+              0   0%    0.00kB/s    0:00:00          729,983 100%  792.08kB/s    0:00:00 (xfr#287, to-chk=448/759)
+multi-afristory-za/english/Longer paragraphs/Nozibele and the three hairs.pdf
+              0   0%    0.00kB/s    0:00:00          524,288  61%  512.00kB/s    0:00:00          855,168 100%  814.76kB/s    0:00:01 (xfr#288, to-chk=447/759)
+multi-afristory-za/english/Longer paragraphs/Our wonderful world.pdf
+              0   0%    0.00kB/s    0:00:00          973,935 100%    4.74MB/s    0:00:00 (xfr#289, to-chk=446/759)
+multi-afristory-za/english/Longer paragraphs/Ox and Donkey.pdf
+              0   0%    0.00kB/s    0:00:00          752,422 100%    2.26MB/s    0:00:00 (xfr#290, to-chk=445/759)
+multi-afristory-za/english/Longer paragraphs/Pam-Pam bird.pdf
+              0   0%    0.00kB/s    0:00:00          359,482 100% 1005.89kB/s    0:00:00 (xfr#291, to-chk=444/759)
+multi-afristory-za/english/Longer paragraphs/Rabbit under the tree.pdf
+              0   0%    0.00kB/s    0:00:00        1,309,681 100%    2.25MB/s    0:00:00 (xfr#292, to-chk=443/759)
+multi-afristory-za/english/Longer paragraphs/Searching for the spirit of Spring.pdf
+              0   0%    0.00kB/s    0:00:00          740,315 100%    1.06MB/s    0:00:00 (xfr#293, to-chk=442/759)
+multi-afristory-za/english/Longer paragraphs/Simbegwire.pdf
+              0   0%    0.00kB/s    0:00:00        1,198,244 100%    1.30MB/s    0:00:00 (xfr#294, to-chk=441/759)
+multi-afristory-za/english/Longer paragraphs/Sly jackal tricks the silly donkey.pdf
+              0   0%    0.00kB/s    0:00:00          487,981 100%  506.42kB/s    0:00:00 (xfr#295, to-chk=440/759)
+multi-afristory-za/english/Longer paragraphs/Thandi misses her school bus.pdf
+              0   0%    0.00kB/s    0:00:00          274,377 100%  271.48kB/s    0:00:00 (xfr#296, to-chk=439/759)
+multi-afristory-za/english/Longer paragraphs/The Smell Thief.pdf
+              0   0%    0.00kB/s    0:00:00          163,840  12%  160.00kB/s    0:00:07        1,288,668 100%    1.06MB/s    0:00:01 (xfr#297, to-chk=438/759)
+multi-afristory-za/english/Longer paragraphs/The blacksmith's dilemma.pdf
+              0   0%    0.00kB/s    0:00:00        1,096,561 100%    2.58MB/s    0:00:00 (xfr#298, to-chk=437/759)
+multi-afristory-za/english/Longer paragraphs/The boy who nobody loved.pdf
+              0   0%    0.00kB/s    0:00:00        1,154,320 100%    2.04MB/s    0:00:00 (xfr#299, to-chk=436/759)
+multi-afristory-za/english/Longer paragraphs/The clever jackal and the foolish crow.pdf
+              0   0%    0.00kB/s    0:00:00          505,898 100%  775.57kB/s    0:00:00 (xfr#300, to-chk=435/759)
+multi-afristory-za/english/Longer paragraphs/The happy revival.pdf
+              0   0%    0.00kB/s    0:00:00          340,765 100%  482.99kB/s    0:00:00 (xfr#301, to-chk=434/759)
+multi-afristory-za/english/Longer paragraphs/The seventh sun A tribal tale from Odisha, India.pdf
+              0   0%    0.00kB/s    0:00:00          683,167 100%  806.72kB/s    0:00:00 (xfr#302, to-chk=433/759)
+multi-afristory-za/english/Longer paragraphs/The talking bag.pdf
+              0   0%    0.00kB/s    0:00:00          437,105 100%  463.98kB/s    0:00:00 (xfr#303, to-chk=432/759)
+multi-afristory-za/english/Longer paragraphs/The tree wife.pdf
+              0   0%    0.00kB/s    0:00:00          409,590  97%  399.99kB/s    0:00:00          418,234 100%  408.43kB/s    0:00:01 (xfr#304, to-chk=431/759)
+multi-afristory-za/english/Longer paragraphs/Thoko's FantaPine Seed.pdf
+              0   0%    0.00kB/s    0:00:00        1,356,481 100%    4.98MB/s    0:00:00 (xfr#305, to-chk=430/759)
+multi-afristory-za/english/Longer paragraphs/Tselane and the giant.pdf
+              0   0%    0.00kB/s    0:00:00          929,755 100%    2.01MB/s    0:00:00 (xfr#306, to-chk=429/759)
+multi-afristory-za/english/Longer paragraphs/What Vusi's sister said.pdf
+              0   0%    0.00kB/s    0:00:00        1,076,680 100%    1.57MB/s    0:00:00 (xfr#307, to-chk=428/759)
+multi-afristory-za/english/Longer paragraphs/Young Palinyang\#342\#200\#231 .pdf
+              0   0%    0.00kB/s    0:00:00          510,790 100%  669.55kB/s    0:00:00 (xfr#308, to-chk=427/759)
+multi-afristory-za/english/Read aloud/
+multi-afristory-za/english/Read aloud/Baby snatched by cranes.pdf
+              0   0%    0.00kB/s    0:00:00          347,955 100%  434.53kB/s    0:00:00 (xfr#309, to-chk=426/759)
+multi-afristory-za/english/Read aloud/Dima and Owl.pdf
+              0   0%    0.00kB/s    0:00:00        1,081,337  70%    1.03MB/s    0:00:00        1,542,454 100%    1.35MB/s    0:00:01 (xfr#310, to-chk=425/759)
+multi-afristory-za/english/Read aloud/Fruit.pdf
+              0   0%    0.00kB/s    0:00:00          715,379 100%    3.36MB/s    0:00:00 (xfr#311, to-chk=424/759)
+multi-afristory-za/english/Read aloud/Hyena and Raven .pdf
+              0   0%    0.00kB/s    0:00:00          936,718 100%    2.29MB/s    0:00:00 (xfr#312, to-chk=423/759)
+multi-afristory-za/english/Read aloud/Katitu Momambo, the clever little girl.pdf
+              0   0%    0.00kB/s    0:00:00          726,066 100%    1.38MB/s    0:00:00 (xfr#313, to-chk=422/759)
+multi-afristory-za/english/Read aloud/Kato Clever and the big trouble.pdf
+              0   0%    0.00kB/s    0:00:00        1,081,936 100%    1.47MB/s    0:00:00 (xfr#314, to-chk=421/759)
+multi-afristory-za/english/Read aloud/Lion's fire sticks (Level 5).pdf
+              0   0%    0.00kB/s    0:00:00          800,635 100%  954.66kB/s    0:00:00 (xfr#315, to-chk=420/759)
+multi-afristory-za/english/Read aloud/Magezi and the finger of millet.pdf
+              0   0%    0.00kB/s    0:00:00          704,506  50%  687.99kB/s    0:00:00        1,390,796 100%    1.20MB/s    0:00:01 (xfr#316, to-chk=419/759)
+multi-afristory-za/english/Read aloud/Refiloe and the washed chickens.pdf
+              0   0%    0.00kB/s    0:00:00        1,582,399 100%    3.74MB/s    0:00:00 (xfr#317, to-chk=418/759)
+multi-afristory-za/english/Read aloud/Sniffles the crocodile and Punch the butterfly.pdf
+              0   0%    0.00kB/s    0:00:00          937,241 100%    1.62MB/s    0:00:00 (xfr#318, to-chk=417/759)
+multi-afristory-za/english/Read aloud/The Honeyguide's revenge.pdf
+              0   0%    0.00kB/s    0:00:00          740,818 100%    1.05MB/s    0:00:00 (xfr#319, to-chk=416/759)
+multi-afristory-za/english/Read aloud/The Honeyguide\#342\#200\#231s  revenge.pdf
+              0   0%    0.00kB/s    0:00:00          740,528 100%  880.84kB/s    0:00:00 (xfr#320, to-chk=415/759)
+multi-afristory-za/english/Read aloud/The Rain Bird .pdf
+              0   0%    0.00kB/s    0:00:00          983,040  68%  943.03kB/s    0:00:00        1,434,645 100%    1.29MB/s    0:00:01 (xfr#321, to-chk=414/759)
+multi-afristory-za/english/Read aloud/The baboons that went this way and that.pdf
+              0   0%    0.00kB/s    0:00:00          617,701 100%    3.39MB/s    0:00:00 (xfr#322, to-chk=413/759)
+multi-afristory-za/english/Read aloud/The generous fish.pdf
+              0   0%    0.00kB/s    0:00:00          406,471 100%    1.42MB/s    0:00:00 (xfr#323, to-chk=412/759)
+multi-afristory-za/english/Read aloud/Tjenga and the eland man.pdf
+              0   0%    0.00kB/s    0:00:00          324,362 100%  879.89kB/s    0:00:00 (xfr#324, to-chk=411/759)
+multi-afristory-za/isindebele/
+multi-afristory-za/isindebele/First paragraphs/
+multi-afristory-za/isindebele/First paragraphs/Imbuzi, Inja neKomo.pdf
+              0   0%    0.00kB/s    0:00:00          481,080 100%    1.07MB/s    0:00:00 (xfr#325, to-chk=405/759)
+multi-afristory-za/isindebele/First paragraphs/Intwala eputjukileko.pdf
+              0   0%    0.00kB/s    0:00:00          574,160 100%    1.05MB/s    0:00:00 (xfr#326, to-chk=404/759)
+multi-afristory-za/isindebele/First paragraphs/Ipisi neNyoni.pdf
+              0   0%    0.00kB/s    0:00:00          937,009 100%    1.31MB/s    0:00:00 (xfr#327, to-chk=403/759)
+multi-afristory-za/isindebele/First paragraphs/Ipungutjha engumahlakaniphana itererha udumbana osithingithingi .pdf
+              0   0%    0.00kB/s    0:00:00          488,771 100%  633.04kB/s    0:00:00 (xfr#328, to-chk=402/759)
+multi-afristory-za/isindebele/First paragraphs/UFikile okhulumela futhi.pdf
+              0   0%    0.00kB/s    0:00:00        1,005,767 100%    1.03MB/s    0:00:00 (xfr#329, to-chk=401/759)
+multi-afristory-za/isindebele/First paragraphs/UFudu uthola indlu yakhe.pdf
+              0   0%    0.00kB/s    0:00:00          327,680  55%  320.00kB/s    0:00:00          593,782 100%  564.07kB/s    0:00:01 (xfr#330, to-chk=400/759)
+multi-afristory-za/isindebele/First paragraphs/UTitjhere Nkosi.pdf
+              0   0%    0.00kB/s    0:00:00          976,747 100%    4.85MB/s    0:00:00 (xfr#331, to-chk=399/759)
+multi-afristory-za/isindebele/First paragraphs/Ukuvuma ngeqiniso Indatjana kaMiriam.pdf
+              0   0%    0.00kB/s    0:00:00          690,918 100%    2.08MB/s    0:00:00 (xfr#332, to-chk=398/759)
+multi-afristory-za/isindebele/First paragraphs/Zincani khulu.pdf
+              0   0%    0.00kB/s    0:00:00          707,212 100%    1.53MB/s    0:00:00 (xfr#333, to-chk=397/759)
+multi-afristory-za/isindebele/First sentences/
+multi-afristory-za/isindebele/First sentences/Ikomo yakwethu uPuna.pdf
+              0   0%    0.00kB/s    0:00:00          774,725 100%    1.29MB/s    0:00:00 (xfr#334, to-chk=396/759)
+multi-afristory-za/isindebele/First sentences/Ingozi ethusako.pdf
+              0   0%    0.00kB/s    0:00:00          477,576 100%  689.92kB/s    0:00:00 (xfr#335, to-chk=395/759)
+multi-afristory-za/isindebele/First sentences/Isijeziso sakaThemba .pdf
+              0   0%    0.00kB/s    0:00:00          644,412 100%  803.71kB/s    0:00:00 (xfr#336, to-chk=394/759)
+multi-afristory-za/isindebele/First sentences/Isikipa esihlaza sakaDumi.pdf
+              0   0%    0.00kB/s    0:00:00          544,827 100%  599.84kB/s    0:00:00 (xfr#337, to-chk=393/759)
+multi-afristory-za/isindebele/First sentences/Kubayini uYayeri alungile.pdf
+              0   0%    0.00kB/s    0:00:00          753,664  77%  736.00kB/s    0:00:00          969,037 100%  895.29kB/s    0:00:01 (xfr#338, to-chk=392/759)
+multi-afristory-za/isindebele/First sentences/Mnu. Mbhobo ophethwe buthongo.pdf
+              0   0%    0.00kB/s    0:00:00          768,049 100%    3.74MB/s    0:00:00 (xfr#339, to-chk=391/759)
+multi-afristory-za/isindebele/First sentences/Ngithanda ukufunda.pdf
+              0   0%    0.00kB/s    0:00:00          534,973 100%    1.73MB/s    0:00:00 (xfr#340, to-chk=390/759)
+multi-afristory-za/isindebele/First sentences/Ngitjela nje \#342\#200\#246 imibala.pdf
+              0   0%    0.00kB/s    0:00:00          668,292 100%    1.60MB/s    0:00:00 (xfr#341, to-chk=389/759)
+multi-afristory-za/isindebele/First sentences/Tjela mina \#342\#200\#246 nje! Ithabo kanye nokudana.pdf
+              0   0%    0.00kB/s    0:00:00          428,164 100%  885.87kB/s    0:00:00 (xfr#342, to-chk=388/759)
+multi-afristory-za/isindebele/First sentences/UBongani neenkomo.pdf
+              0   0%    0.00kB/s    0:00:00          670,619 100%    1.11MB/s    0:00:00 (xfr#343, to-chk=387/759)
+multi-afristory-za/isindebele/First sentences/Ukududa.pdf
+              0   0%    0.00kB/s    0:00:00          761,182 100%    1.05MB/s    0:00:00 (xfr#344, to-chk=386/759)
+multi-afristory-za/isindebele/First sentences/Unamazinyo amangakhi.pdf
+              0   0%    0.00kB/s    0:00:00          460,868 100%  582.99kB/s    0:00:00 (xfr#345, to-chk=385/759)
+multi-afristory-za/isindebele/First sentences/Vayu ummoya.pdf
+              0   0%    0.00kB/s    0:00:00        1,368,478 100%    1.31MB/s    0:00:01 (xfr#346, to-chk=384/759)
+multi-afristory-za/isindebele/First words/
+multi-afristory-za/isindebele/First words/Ukuphi ukatsu wami.pdf
+              0   0%    0.00kB/s    0:00:00           16,378   4%   15.95kB/s    0:00:24          400,195 100%  356.58kB/s    0:00:01 (xfr#347, to-chk=383/759)
+multi-afristory-za/isindebele/Longer paragraphs/
+multi-afristory-za/isindebele/Longer paragraphs/Ikosi uMjekejeke nendodakazi yakhe.pdf
+              0   0%    0.00kB/s    0:00:00          823,903 100%    3.59MB/s    0:00:00 (xfr#348, to-chk=382/759)
+multi-afristory-za/isindebele/Longer paragraphs/UNtando upha abantu iindatjana.pdf
+              0   0%    0.00kB/s    0:00:00          723,709 100%    1.72MB/s    0:00:00 (xfr#349, to-chk=381/759)
+multi-afristory-za/isindebele/Longer paragraphs/Yini okutjhiwo ngudadwabo likaVusi.pdf
+              0   0%    0.00kB/s    0:00:00        1,078,088 100%    1.76MB/s    0:00:00 (xfr#350, to-chk=380/759)
+multi-afristory-za/isindebele/Read aloud/
+multi-afristory-za/isixhosa/
+multi-afristory-za/isixhosa/First paragraphs/
+multi-afristory-za/isixhosa/First paragraphs/Indebe yomhlaba I-Chiefs ne-Aces.pdf
+              0   0%    0.00kB/s    0:00:00          674,907 100%  937.54kB/s    0:00:00 (xfr#351, to-chk=374/759)
+multi-afristory-za/isixhosa/First paragraphs/Isikhukukazi noKhozo lombona.pdf
+              0   0%    0.00kB/s    0:00:00          527,964 100%  645.29kB/s    0:00:00 (xfr#352, to-chk=373/759)
+multi-afristory-za/isixhosa/First paragraphs/Isikolo sasehlathini.pdf
+              0   0%    0.00kB/s    0:00:00          737,717 100%  760.75kB/s    0:00:00 (xfr#353, to-chk=372/759)
+multi-afristory-za/isixhosa/First paragraphs/Ngenye  imva kwemini eshushu yangoMgqibelo.pdf
+              0   0%    0.00kB/s    0:00:00          114,682  16%  111.99kB/s    0:00:05          715,084 100%  632.54kB/s    0:00:01 (xfr#354, to-chk=371/759)
+multi-afristory-za/isixhosa/First paragraphs/NguMvundla noFudo (Kwakhona!).pdf
+              0   0%    0.00kB/s    0:00:00        1,195,009 100%    3.86MB/s    0:00:00 (xfr#355, to-chk=370/759)
+multi-afristory-za/isixhosa/First paragraphs/UJoja ingwenya noNogolide ibhabhathane.pdf
+              0   0%    0.00kB/s    0:00:00          937,462 100%    1.96MB/s    0:00:00 (xfr#356, to-chk=369/759)
+multi-afristory-za/isixhosa/First paragraphs/UKato ohlakaniphileyo nengxaki enkulu.pdf
+              0   0%    0.00kB/s    0:00:00        1,082,673 100%    1.62MB/s    0:00:00 (xfr#357, to-chk=368/759)
+multi-afristory-za/isixhosa/First paragraphs/UMqhagi neHlosi.pdf
+              0   0%    0.00kB/s    0:00:00          723,938 100%  948.95kB/s    0:00:00 (xfr#358, to-chk=367/759)
+multi-afristory-za/isixhosa/First paragraphs/Udyakalashe neediliya ezimuncu .pdf
+              0   0%    0.00kB/s    0:00:00          447,040 100%  526.61kB/s    0:00:00 (xfr#359, to-chk=366/759)
+multi-afristory-za/isixhosa/First sentences/
+multi-afristory-za/isixhosa/First sentences/Abantwana bekhandlela .pdf
+              0   0%    0.00kB/s    0:00:00          550,160 100%  579.57kB/s    0:00:00 (xfr#360, to-chk=365/759)
+multi-afristory-za/isixhosa/First sentences/Ibali elihlekisayo.pdf
+              0   0%    0.00kB/s    0:00:00          376,826  81%  367.99kB/s    0:00:00          462,638 100%  448.21kB/s    0:00:01 (xfr#361, to-chk=364/759)
+multi-afristory-za/isixhosa/First sentences/Ibhayisekile kaNamukuru.pdf
+              0   0%    0.00kB/s    0:00:00          494,714 100%    5.18MB/s    0:00:00 (xfr#362, to-chk=363/759)
+multi-afristory-za/isixhosa/First sentences/Indlela imbovane eyalihlangula ngayo ihobe.pdf
+              0   0%    0.00kB/s    0:00:00        1,364,562 100%    4.37MB/s    0:00:00 (xfr#363, to-chk=362/759)
+multi-afristory-za/isixhosa/First sentences/Izilwanyana zasekhaya.pdf
+              0   0%    0.00kB/s    0:00:00          403,872 100%    1.05MB/s    0:00:00 (xfr#364, to-chk=361/759)
+multi-afristory-za/isixhosa/First sentences/Kutheni Isele Lilibi.pdf
+              0   0%    0.00kB/s    0:00:00          313,359 100%  739.17kB/s    0:00:00 (xfr#365, to-chk=360/759)
+multi-afristory-za/isixhosa/First sentences/UKhalai uthetha nezityalo.pdf
+              0   0%    0.00kB/s    0:00:00          528,270 100%    1.02MB/s    0:00:00 (xfr#366, to-chk=359/759)
+multi-afristory-za/isixhosa/First sentences/UMgcini nekhaya leenkedama.pdf
+              0   0%    0.00kB/s    0:00:00          827,848 100%    1.23MB/s    0:00:00 (xfr#367, to-chk=358/759)
+multi-afristory-za/isixhosa/First sentences/UNdlovu namaSele.pdf
+              0   0%    0.00kB/s    0:00:00          669,437 100%  867.04kB/s    0:00:00 (xfr#368, to-chk=357/759)
+multi-afristory-za/isixhosa/First sentences/UTingi kunye Nenkomo.pdf
+              0   0%    0.00kB/s    0:00:00          670,621 100%  762.40kB/s    0:00:00 (xfr#369, to-chk=356/759)
+multi-afristory-za/isixhosa/First sentences/UTitshalakazi uAkinyi.pdf
+              0   0%    0.00kB/s    0:00:00          753,664  77%  736.00kB/s    0:00:00          976,989 100%  915.63kB/s    0:00:01 (xfr#370, to-chk=355/759)
+multi-afristory-za/isixhosa/First sentences/Ukudanisa.pdf
+              0   0%    0.00kB/s    0:00:00          414,703 100%    2.80MB/s    0:00:00 (xfr#371, to-chk=354/759)
+multi-afristory-za/isixhosa/First sentences/Umbala Omthubi.pdf
+              0   0%    0.00kB/s    0:00:00          905,764 100%    2.50MB/s    0:00:00 (xfr#372, to-chk=353/759)
+multi-afristory-za/isixhosa/First sentences/Umdlalo wokuphekaphekana.pdf
+              0   0%    0.00kB/s    0:00:00          380,692 100%  917.95kB/s    0:00:00 (xfr#373, to-chk=352/759)
+multi-afristory-za/isixhosa/First sentences/Umoya .pdf
+              0   0%    0.00kB/s    0:00:00        1,123,935 100%    1.58MB/s    0:00:00 (xfr#374, to-chk=351/759)
+multi-afristory-za/isixhosa/First sentences/Umvundla Uya Ethekweni.pdf
+              0   0%    0.00kB/s    0:00:00          355,702 100%  449.95kB/s    0:00:00 (xfr#375, to-chk=350/759)
+multi-afristory-za/isixhosa/First words/
+multi-afristory-za/isixhosa/First words/Amaphulo enkomo yodumo.pdf
+              0   0%    0.00kB/s    0:00:00          297,676 100%  336.07kB/s    0:00:00 (xfr#376, to-chk=349/759)
+multi-afristory-za/isixhosa/First words/Bala iikati.pdf
+              0   0%    0.00kB/s    0:00:00          542,771 100%  538.67kB/s    0:00:00 (xfr#377, to-chk=348/759)
+multi-afristory-za/isixhosa/First words/Ibhola yam ebomvu.pdf
+              0   0%    0.00kB/s    0:00:00           65,536   5%   63.12kB/s    0:00:18        1,245,912 100%  897.28kB/s    0:00:01 (xfr#378, to-chk=347/759)
+multi-afristory-za/isixhosa/First words/Ingozi Embi.pdf
+              0   0%    0.00kB/s    0:00:00          477,439 100%    1.00MB/s    0:00:00 (xfr#379, to-chk=346/759)
+multi-afristory-za/isixhosa/First words/Inyanga ne Kepisi.pdf
+              0   0%    0.00kB/s    0:00:00          698,672 100%    1.02MB/s    0:00:00 (xfr#380, to-chk=345/759)
+multi-afristory-za/isixhosa/First words/Iphi ikati yam.pdf
+              0   0%    0.00kB/s    0:00:00          399,100 100%  508.14kB/s    0:00:00 (xfr#381, to-chk=344/759)
+multi-afristory-za/isixhosa/First words/Isidudu.pdf
+              0   0%    0.00kB/s    0:00:00          786,432  91%  768.00kB/s    0:00:00          859,570 100%  835.25kB/s    0:00:01 (xfr#382, to-chk=343/759)
+multi-afristory-za/isixhosa/First words/Liphi Iphini lam lokubetha ibhola.pdf
+              0   0%    0.00kB/s    0:00:00          721,660 100%    3.42MB/s    0:00:00 (xfr#383, to-chk=342/759)
+multi-afristory-za/isixhosa/First words/Mamela kumzimba wam.pdf
+              0   0%    0.00kB/s    0:00:00          920,886 100%    2.13MB/s    0:00:00 (xfr#384, to-chk=341/759)
+multi-afristory-za/isixhosa/First words/Mamela umzimba wam 2                .pdf
+              0   0%    0.00kB/s    0:00:00          920,022 100%    1.31MB/s    0:00:00 (xfr#385, to-chk=340/759)
+multi-afristory-za/isixhosa/First words/Ndixelele ... ngoku! Wonwabile kwaye uqumbile.pdf
+              0   0%    0.00kB/s    0:00:00          429,024 100%  528.33kB/s    0:00:00 (xfr#386, to-chk=339/759)
+multi-afristory-za/isixhosa/First words/Ndiyathanda ukufunda.pdf
+              0   0%    0.00kB/s    0:00:00          534,613 100%  561.98kB/s    0:00:00 (xfr#387, to-chk=338/759)
+multi-afristory-za/isixhosa/First words/UJaaka Umlobi.pdf
+              0   0%    0.00kB/s    0:00:00          278,518  97%  271.45kB/s    0:00:00          286,377 100%  278.83kB/s    0:00:01 (xfr#388, to-chk=337/759)
+multi-afristory-za/isixhosa/First words/ULekishon Neenkomo Zakhe.pdf
+              0   0%    0.00kB/s    0:00:00          417,386 100%    4.02MB/s    0:00:00 (xfr#389, to-chk=336/759)
+multi-afristory-za/isixhosa/First words/UMinti no Gwebu.pdf
+              0   0%    0.00kB/s    0:00:00          830,994 100%    2.48MB/s    0:00:00 (xfr#390, to-chk=335/759)
+multi-afristory-za/isixhosa/First words/UTom, umthengisi webhanana .pdf
+              0   0%    0.00kB/s    0:00:00          505,612 100%    1.15MB/s    0:00:00 (xfr#391, to-chk=334/759)
+multi-afristory-za/isixhosa/First words/UVayu umoya.pdf
+              0   0%    0.00kB/s    0:00:00        1,369,431 100%    1.78MB/s    0:00:00 (xfr#392, to-chk=333/759)
+multi-afristory-za/isixhosa/First words/Umbala Obomvu .pdf
+              0   0%    0.00kB/s    0:00:00          861,820 100%  885.92kB/s    0:00:00 (xfr#393, to-chk=332/759)
+multi-afristory-za/isixhosa/First words/Umbala Omdaka.pdf
+              0   0%    0.00kB/s    0:00:00           49,146   6%   47.15kB/s    0:00:15          763,773 100%  651.99kB/s    0:00:01 (xfr#394, to-chk=331/759)
+multi-afristory-za/isixhosa/First words/Wenza ntoni.pdf
+              0   0%    0.00kB/s    0:00:00          203,871 100% 1020.99kB/s    0:00:00 (xfr#395, to-chk=330/759)
+multi-afristory-za/isixhosa/Longer paragraphs/
+multi-afristory-za/isixhosa/Longer paragraphs/A.E.I.O.U.pdf
+              0   0%    0.00kB/s    0:00:00          134,034 100%  597.68kB/s    0:00:00 (xfr#396, to-chk=329/759)
+multi-afristory-za/isixhosa/Longer paragraphs/Bantwana bam.pdf
+              0   0%    0.00kB/s    0:00:00          187,809 100%  648.08kB/s    0:00:00 (xfr#397, to-chk=328/759)
+multi-afristory-za/isixhosa/Longer paragraphs/Bantwana baseskolweni.pdf
+              0   0%    0.00kB/s    0:00:00          130,255 100%  424.01kB/s    0:00:00 (xfr#398, to-chk=327/759)
+multi-afristory-za/isixhosa/Longer paragraphs/Bathinjiwe!.pdf
+              0   0%    0.00kB/s    0:00:00        1,384,765 100%    2.19MB/s    0:00:00 (xfr#399, to-chk=326/759)
+multi-afristory-za/isixhosa/Longer paragraphs/Elinye ikandlela.pdf
+              0   0%    0.00kB/s    0:00:00          176,946 100%  264.22kB/s    0:00:00 (xfr#400, to-chk=325/759)
+multi-afristory-za/isixhosa/Longer paragraphs/EmaXhoseni siyabulisa .pdf
+              0   0%    0.00kB/s    0:00:00          175,356 100%  249.27kB/s    0:00:00 (xfr#401, to-chk=324/759)
+multi-afristory-za/isixhosa/Longer paragraphs/He! Mama he!.pdf
+              0   0%    0.00kB/s    0:00:00          180,801 100%  238.60kB/s    0:00:00 (xfr#402, to-chk=323/759)
+multi-afristory-za/isixhosa/Longer paragraphs/Ilizwe Lethu Elimangalisayo.pdf
+              0   0%    0.00kB/s    0:00:00          975,209 100%  966.86kB/s    0:00:00 (xfr#403, to-chk=322/759)
+multi-afristory-za/isixhosa/Longer paragraphs/Imfene emqolombeni.pdf
+              0   0%    0.00kB/s    0:00:00          147,450  82%  143.99kB/s    0:00:00          179,606 100%  175.22kB/s    0:00:01 (xfr#404, to-chk=321/759)
+multi-afristory-za/isixhosa/Longer paragraphs/Imvula.pdf
+              0   0%    0.00kB/s    0:00:00          164,636 100%    2.38MB/s    0:00:00 (xfr#405, to-chk=320/759)
+multi-afristory-za/isixhosa/Longer paragraphs/Inkosikazi eyenziwe ngomthi.pdf
+              0   0%    0.00kB/s    0:00:00          419,278 100%    2.31MB/s    0:00:00 (xfr#406, to-chk=319/759)
+multi-afristory-za/isixhosa/Longer paragraphs/Molo Katana .pdf
+              0   0%    0.00kB/s    0:00:00          117,969 100%  590.79kB/s    0:00:00 (xfr#407, to-chk=318/759)
+multi-afristory-za/isixhosa/Longer paragraphs/Molweni bantwana.pdf
+              0   0%    0.00kB/s    0:00:00          181,921 100%  862.41kB/s    0:00:00 (xfr#408, to-chk=317/759)
+multi-afristory-za/isixhosa/Longer paragraphs/Molweni.pdf
+              0   0%    0.00kB/s    0:00:00          158,075 100%  525.07kB/s    0:00:00 (xfr#409, to-chk=316/759)
+multi-afristory-za/isixhosa/Longer paragraphs/Sifikil\#342\#200\#231 ezibukweni .pdf
+              0   0%    0.00kB/s    0:00:00          127,239 100%  415.57kB/s    0:00:00 (xfr#410, to-chk=315/759)
+multi-afristory-za/isixhosa/Longer paragraphs/Sifun' itshom' am.pdf
+              0   0%    0.00kB/s    0:00:00          115,075 100%  360.19kB/s    0:00:00 (xfr#411, to-chk=314/759)
+multi-afristory-za/isixhosa/Longer paragraphs/Thula mama thula.pdf
+              0   0%    0.00kB/s    0:00:00          171,474 100%  430.48kB/s    0:00:00 (xfr#412, to-chk=313/759)
+multi-afristory-za/isixhosa/Longer paragraphs/Thuma mina.pdf
+              0   0%    0.00kB/s    0:00:00          149,539 100%  364.18kB/s    0:00:00 (xfr#413, to-chk=312/759)
+multi-afristory-za/isixhosa/Longer paragraphs/UDyakalashe omaqhetseba nentakazana.pdf
+              0   0%    0.00kB/s    0:00:00          505,954 100%  966.92kB/s    0:00:00 (xfr#414, to-chk=311/759)
+multi-afristory-za/isixhosa/Longer paragraphs/UDyakalashe usomaqhingana uqhatha uDonki.pdf
+              0   0%    0.00kB/s    0:00:00          488,573 100%  775.81kB/s    0:00:00 (xfr#415, to-chk=310/759)
+multi-afristory-za/isixhosa/Longer paragraphs/UMagozwe.pdf
+              0   0%    0.00kB/s    0:00:00          884,169 100% 1013.43kB/s    0:00:00 (xfr#416, to-chk=309/759)
+multi-afristory-za/isixhosa/Longer paragraphs/UTselane nesigebenga .pdf
+              0   0%    0.00kB/s    0:00:00          737,274  77%  715.70kB/s    0:00:00          946,621 100%  868.83kB/s    0:00:01 (xfr#417, to-chk=308/759)
+multi-afristory-za/isixhosa/Longer paragraphs/Umoya.pdf
+              0   0%    0.00kB/s    0:00:00          157,515 100%    2.15MB/s    0:00:00 (xfr#418, to-chk=307/759)
+multi-afristory-za/isixhosa/Longer paragraphs/Umthandazo.pdf
+              0   0%    0.00kB/s    0:00:00          210,796 100%    1.21MB/s    0:00:00 (xfr#419, to-chk=306/759)
+multi-afristory-za/isixhosa/Longer paragraphs/Umvundlana othile.pdf
+              0   0%    0.00kB/s    0:00:00          129,834 100%  720.40kB/s    0:00:00 (xfr#420, to-chk=305/759)
+multi-afristory-za/isixhosa/Longer paragraphs/Umzi watsha .pdf
+              0   0%    0.00kB/s    0:00:00          132,820 100%  538.20kB/s    0:00:00 (xfr#421, to-chk=304/759)
+multi-afristory-za/isixhosa/Longer paragraphs/Vulan\#342\#200\#231 iringi .pdf
+              0   0%    0.00kB/s    0:00:00          200,965 100%  729.57kB/s    0:00:00 (xfr#422, to-chk=303/759)
+multi-afristory-za/isixhosa/Longer paragraphs/Wena Nomathemba.pdf
+              0   0%    0.00kB/s    0:00:00          156,801 100%  503.70kB/s    0:00:00 (xfr#423, to-chk=302/759)
+multi-afristory-za/isixhosa/Longer paragraphs/Worsie, Worsie .pdf
+              0   0%    0.00kB/s    0:00:00          154,957 100%  421.52kB/s    0:00:00 (xfr#424, to-chk=301/759)
+multi-afristory-za/isixhosa/Longer paragraphs/Zaziy\#342\#200\#231 othez\#342\#200\#231 iintombi .pdf
+              0   0%    0.00kB/s    0:00:00          126,642 100%  337.91kB/s    0:00:00 (xfr#425, to-chk=300/759)
+multi-afristory-za/isixhosa/Longer paragraphs/Zolani.pdf
+              0   0%    0.00kB/s    0:00:00          160,563 100%  370.69kB/s    0:00:00 (xfr#426, to-chk=299/759)
+multi-afristory-za/isixhosa/Longer paragraphs/uNonkungu nembulu.pdf
+              0   0%    0.00kB/s    0:00:00          915,622 100%    1.35MB/s    0:00:00 (xfr#427, to-chk=298/759)
+multi-afristory-za/isixhosa/Read aloud/
+multi-afristory-za/isixhosa/Read aloud/INgulube neNgonyama.pdf
+              0   0%    0.00kB/s    0:00:00          891,395 100%  992.59kB/s    0:00:00 (xfr#428, to-chk=297/759)
+multi-afristory-za/isixhosa/Read aloud/Intak'emvula.pdf
+              0   0%    0.00kB/s    0:00:00          655,360  45%  623.78kB/s    0:00:01        1,435,069 100%    1.15MB/s    0:00:01 (xfr#429, to-chk=296/759)
+multi-afristory-za/isizulu/
+multi-afristory-za/isizulu/First paragraphs/
+multi-afristory-za/isizulu/First paragraphs/Ikhala lendlovu.pdf
+              0   0%    0.00kB/s    0:00:00          756,790 100%    1.98MB/s    0:00:00 (xfr#430, to-chk=290/759)
+multi-afristory-za/isizulu/First paragraphs/Intombazanyana eyaba isicebi.pdf
+              0   0%    0.00kB/s    0:00:00        2,017,295 100%    2.21MB/s    0:00:00 (xfr#431, to-chk=289/759)
+multi-afristory-za/isizulu/First paragraphs/Intwala echotshiwe.pdf
+              0   0%    0.00kB/s    0:00:00          574,023 100%  564.52kB/s    0:00:00 (xfr#432, to-chk=288/759)
+multi-afristory-za/isizulu/First paragraphs/Isihlahla sikaPontshibobo (Faka imibala).pdf
+              0   0%    0.00kB/s    0:00:00           49,146   5%   47.99kB/s    0:00:18          931,106 100%  708.72kB/s    0:00:01 (xfr#433, to-chk=287/759)
+multi-afristory-za/isizulu/First paragraphs/Isihlahla sikaPontshibobo.pdf
+              0   0%    0.00kB/s    0:00:00          920,944 100%    1.42MB/s    0:00:00 (xfr#434, to-chk=286/759)
+multi-afristory-za/isizulu/First paragraphs/Isikole esisehlathini.pdf
+              0   0%    0.00kB/s    0:00:00          737,401 100%  958.88kB/s    0:00:00 (xfr#435, to-chk=285/759)
+multi-afristory-za/isizulu/First paragraphs/Izimfene ezaziya le na le.pdf
+              0   0%    0.00kB/s    0:00:00          933,882  82%  907.46kB/s    0:00:00        1,130,266 100%    1.04MB/s    0:00:01 (xfr#436, to-chk=284/759)
+multi-afristory-za/isizulu/First paragraphs/Ngomunye umGqibelo ntambama kushisa.pdf
+              0   0%    0.00kB/s    0:00:00          714,501 100%    3.66MB/s    0:00:00 (xfr#437, to-chk=283/759)
+multi-afristory-za/isizulu/First paragraphs/UKalabushe intombazanyana ekhuluma kakhulu.pdf
+              0   0%    0.00kB/s    0:00:00        1,006,109 100%    2.30MB/s    0:00:00 (xfr#438, to-chk=282/759)
+multi-afristory-za/isizulu/First paragraphs/UMandla uthishelakazi.pdf
+              0   0%    0.00kB/s    0:00:00          328,420 100%  638.89kB/s    0:00:00 (xfr#439, to-chk=281/759)
+multi-afristory-za/isizulu/First paragraphs/UQhude noNgulule.pdf
+              0   0%    0.00kB/s    0:00:00          724,051 100%    1.11MB/s    0:00:00 (xfr#440, to-chk=280/759)
+multi-afristory-za/isizulu/First paragraphs/UZama intombazanyana ekhuluma kakhulu.pdf
+              0   0%    0.00kB/s    0:00:00        1,005,721 100%    1.11MB/s    0:00:00 (xfr#441, to-chk=279/759)
+multi-afristory-za/isizulu/First paragraphs/Ukucula iqiniso Indaba ka Miriam Makeba.pdf
+              0   0%    0.00kB/s    0:00:00          589,824  85%  572.00kB/s    0:00:00          691,307 100%  669.08kB/s    0:00:01 (xfr#442, to-chk=278/759)
+multi-afristory-za/isizulu/First paragraphs/Ukuphikisana ngemisebenzi eyahlukene.pdf
+              0   0%    0.00kB/s    0:00:00          498,059 100%    4.52MB/s    0:00:00 (xfr#443, to-chk=277/759)
+multi-afristory-za/isizulu/First paragraphs/Umngani wami uKhokho.pdf
+              0   0%    0.00kB/s    0:00:00          759,772 100%    2.43MB/s    0:00:00 (xfr#444, to-chk=276/759)
+multi-afristory-za/isizulu/First paragraphs/uNonkungu Kanye nembulu.pdf
+              0   0%    0.00kB/s    0:00:00          915,580 100%    1.83MB/s    0:00:00 (xfr#445, to-chk=275/759)
+multi-afristory-za/isizulu/First sentences/
+multi-afristory-za/isizulu/First sentences/Abantwana abenziwe ngamakhandlela.pdf
+              0   0%    0.00kB/s    0:00:00          550,788 100%  933.82kB/s    0:00:00 (xfr#446, to-chk=274/759)
+multi-afristory-za/isizulu/First sentences/Ibhayisikili  likaNamakuru.pdf
+              0   0%    0.00kB/s    0:00:00          494,738 100%  700.21kB/s    0:00:00 (xfr#447, to-chk=273/759)
+multi-afristory-za/isizulu/First sentences/Icimbi elicwebezelayo.pdf
+              0   0%    0.00kB/s    0:00:00          504,160 100%  629.60kB/s    0:00:00 (xfr#448, to-chk=272/759)
+multi-afristory-za/isizulu/First sentences/Indoda ende elingana nendlulamithi.pdf
+              0   0%    0.00kB/s    0:00:00          718,826 100%  761.36kB/s    0:00:00 (xfr#449, to-chk=271/759)
+multi-afristory-za/isizulu/First sentences/Inja encane.pdf
+              0   0%    0.00kB/s    0:00:00          305,922 100%  307.04kB/s    0:00:00 (xfr#450, to-chk=270/759)
+multi-afristory-za/isizulu/First sentences/Izilwane zasepulazini.pdf
+              0   0%    0.00kB/s    0:00:00           81,914  20%   79.83kB/s    0:00:04          403,320 100%  378.35kB/s    0:00:01 (xfr#451, to-chk=269/759)
+multi-afristory-za/isizulu/First sentences/UKhalai ukhuluma nezitshalo.pdf
+              0   0%    0.00kB/s    0:00:00          528,159 100%    3.68MB/s    0:00:00 (xfr#452, to-chk=268/759)
+multi-afristory-za/isizulu/First sentences/Umgcini nesikhungo esikhethekile.pdf
+              0   0%    0.00kB/s    0:00:00          827,569 100%    2.47MB/s    0:00:00 (xfr#453, to-chk=267/759)
+multi-afristory-za/isizulu/First sentences/Umhobholo.pdf
+              0   0%    0.00kB/s    0:00:00          643,717 100%    1.41MB/s    0:00:00 (xfr#454, to-chk=266/759)
+multi-afristory-za/isizulu/First sentences/Umoya.pdf
+              0   0%    0.00kB/s    0:00:00        1,123,881 100%    1.69MB/s    0:00:00 (xfr#455, to-chk=265/759)
+multi-afristory-za/isizulu/First sentences/Uthisha uZanele.pdf
+              0   0%    0.00kB/s    0:00:00          976,479 100%    1.17MB/s    0:00:00 (xfr#456, to-chk=264/759)
+multi-afristory-za/isizulu/First sentences/Wamphephisa kanjani uTsheketshe uJuba.pdf
+              0   0%    0.00kB/s    0:00:00        1,228,794  90%    1.17MB/s    0:00:00        1,363,987 100%    1.27MB/s    0:00:01 (xfr#457, to-chk=263/759)
+multi-afristory-za/isizulu/First sentences/Zincane Izimpahla Zami.pdf
+              0   0%    0.00kB/s    0:00:00          707,956 100%    4.89MB/s    0:00:00 (xfr#458, to-chk=262/759)
+multi-afristory-za/isizulu/First sentences/uZula imfene ethanda ukujayiva.pdf
+              0   0%    0.00kB/s    0:00:00          332,890 100%    1.75MB/s    0:00:00 (xfr#459, to-chk=261/759)
+multi-afristory-za/isizulu/First words/
+multi-afristory-za/isizulu/First words/Abafana ababili abalambile.pdf
+              0   0%    0.00kB/s    0:00:00          268,821 100%    1.06MB/s    0:00:00 (xfr#460, to-chk=260/759)
+multi-afristory-za/isizulu/First words/Abangane.pdf
+              0   0%    0.00kB/s    0:00:00          755,813 100%    2.04MB/s    0:00:00 (xfr#461, to-chk=259/759)
+multi-afristory-za/isizulu/First words/Ibhola lami elibomvu.pdf
+              0   0%    0.00kB/s    0:00:00        1,245,855 100%    2.10MB/s    0:00:00 (xfr#462, to-chk=258/759)
+multi-afristory-za/isizulu/First words/Imizwa.pdf
+              0   0%    0.00kB/s    0:00:00          295,445 100%  491.52kB/s    0:00:00 (xfr#463, to-chk=257/759)
+multi-afristory-za/isizulu/First words/Incwadi ehlahla isimo sezulu.pdf
+              0   0%    0.00kB/s    0:00:00          273,406 100%  403.93kB/s    0:00:00 (xfr#464, to-chk=256/759)
+multi-afristory-za/isizulu/First words/Indoda yokuqala nomfazi wokuqala.pdf
+              0   0%    0.00kB/s    0:00:00          402,772 100%  541.03kB/s    0:00:00 (xfr#465, to-chk=255/759)
+multi-afristory-za/isizulu/First words/Ingozi.pdf
+              0   0%    0.00kB/s    0:00:00          567,123 100%  696.64kB/s    0:00:00 (xfr#466, to-chk=254/759)
+multi-afristory-za/isizulu/First words/Inyanga nekepisi.pdf
+              0   0%    0.00kB/s    0:00:00          697,896 100%  751.42kB/s    0:00:00 (xfr#467, to-chk=253/759)
+multi-afristory-za/isizulu/First words/Izicathulo ezintsha.pdf
+              0   0%    0.00kB/s    0:00:00          163,840  37%  159.68kB/s    0:00:01          438,350 100%  417.64kB/s    0:00:01 (xfr#468, to-chk=252/759)
+multi-afristory-za/isizulu/First words/Izigigaba Zenkomo Yezimanga.pdf
+              0   0%    0.00kB/s    0:00:00          297,609 100%    3.23MB/s    0:00:00 (xfr#469, to-chk=251/759)
+multi-afristory-za/isizulu/First words/Izimpahla zesikole.pdf
+              0   0%    0.00kB/s    0:00:00          227,599 100%    1.84MB/s    0:00:00 (xfr#470, to-chk=250/759)
+multi-afristory-za/isizulu/First words/Izincwadi.pdf
+              0   0%    0.00kB/s    0:00:00          306,360 100%    2.06MB/s    0:00:00 (xfr#471, to-chk=249/759)
+multi-afristory-za/isizulu/First words/Izindlu.pdf
+              0   0%    0.00kB/s    0:00:00          560,505 100%    2.25MB/s    0:00:00 (xfr#472, to-chk=248/759)
+multi-afristory-za/isizulu/First words/Izinwele.pdf
+              0   0%    0.00kB/s    0:00:00          441,770 100%    1.37MB/s    0:00:00 (xfr#473, to-chk=247/759)
+multi-afristory-za/isizulu/First words/Kungaki.pdf
+              0   0%    0.00kB/s    0:00:00          401,402 100%    1.05MB/s    0:00:00 (xfr#474, to-chk=246/759)
+multi-afristory-za/isizulu/First words/Lalela umzimba wami.pdf
+              0   0%    0.00kB/s    0:00:00          920,150 100%    1.80MB/s    0:00:00 (xfr#475, to-chk=245/759)
+multi-afristory-za/isizulu/First words/Likuphi iphini lami lokuphebeza.pdf
+              0   0%    0.00kB/s    0:00:00          721,300 100%    1.16MB/s    0:00:00 (xfr#476, to-chk=244/759)
+multi-afristory-za/isizulu/First words/Liphi ikati lami.pdf
+              0   0%    0.00kB/s    0:00:00          399,523 100%  619.30kB/s    0:00:00 (xfr#477, to-chk=243/759)
+multi-afristory-za/isizulu/First words/Mina nomdeni wami.pdf
+              0   0%    0.00kB/s    0:00:00          569,736 100%  785.85kB/s    0:00:00 (xfr#478, to-chk=242/759)
+multi-afristory-za/isizulu/First words/Ngingakwenza lokhu.pdf
+              0   0%    0.00kB/s    0:00:00          234,149 100%  308.17kB/s    0:00:00 (xfr#479, to-chk=241/759)
+multi-afristory-za/isizulu/First words/Ngitshele...manje! Imibala.pdf
+              0   0%    0.00kB/s    0:00:00          669,261 100%  796.07kB/s    0:00:00 (xfr#480, to-chk=240/759)
+multi-afristory-za/isizulu/First words/Ngiyathanda ukufunda.pdf
+              0   0%    0.00kB/s    0:00:00          534,672 100%  574.41kB/s    0:00:00 (xfr#481, to-chk=239/759)
+multi-afristory-za/isizulu/First words/Okusindayo nokulula.pdf
+              0   0%    0.00kB/s    0:00:00          429,700 100%  434.40kB/s    0:00:00 (xfr#482, to-chk=238/759)
+multi-afristory-za/isizulu/First words/Sithanda ibhola lezinyawo.pdf
+              0   0%    0.00kB/s    0:00:00          212,986  31%  205.12kB/s    0:00:02          672,393 100%  624.77kB/s    0:00:01 (xfr#483, to-chk=237/759)
+multi-afristory-za/isizulu/First words/Siya eZu.pdf
+              0   0%    0.00kB/s    0:00:00          771,171 100%    5.70MB/s    0:00:00 (xfr#484, to-chk=236/759)
+multi-afristory-za/isizulu/First words/UMazinyo ushaka.pdf
+              0   0%    0.00kB/s    0:00:00          299,353 100%    1.52MB/s    0:00:00 (xfr#485, to-chk=235/759)
+multi-afristory-za/isizulu/First words/Ukubala.pdf
+              0   0%    0.00kB/s    0:00:00          549,901 100%    2.17MB/s    0:00:00 (xfr#486, to-chk=234/759)
+multi-afristory-za/isizulu/First words/Ukudla kwasekuseni .pdf
+              0   0%    0.00kB/s    0:00:00          333,121 100%    1.08MB/s    0:00:00 (xfr#487, to-chk=233/759)
+multi-afristory-za/isizulu/First words/Ukujabula nokuphatheka kabi.pdf
+              0   0%    0.00kB/s    0:00:00          427,972 100%    1.23MB/s    0:00:00 (xfr#488, to-chk=232/759)
+multi-afristory-za/isizulu/First words/Ukupheka.pdf
+              0   0%    0.00kB/s    0:00:00          318,288 100%  779.02kB/s    0:00:00 (xfr#489, to-chk=231/759)
+multi-afristory-za/isizulu/First words/Umdokwe.pdf
+              0   0%    0.00kB/s    0:00:00          860,018 100%    1.59MB/s    0:00:00 (xfr#490, to-chk=230/759)
+multi-afristory-za/isizulu/First words/Umfowethu olivila.pdf
+              0   0%    0.00kB/s    0:00:00          299,638 100%  536.91kB/s    0:00:00 (xfr#491, to-chk=229/759)
+multi-afristory-za/isizulu/First words/Umzimba wami.pdf
+              0   0%    0.00kB/s    0:00:00          296,335 100%  510.39kB/s    0:00:00 (xfr#492, to-chk=228/759)
+multi-afristory-za/isizulu/First words/Uthisha wami .pdf
+              0   0%    0.00kB/s    0:00:00          464,769 100%  720.44kB/s    0:00:00 (xfr#493, to-chk=227/759)
+multi-afristory-za/isizulu/First words/Yimina lona.pdf
+              0   0%    0.00kB/s    0:00:00          392,807 100%  579.46kB/s    0:00:00 (xfr#494, to-chk=226/759)
+multi-afristory-za/isizulu/Longer paragraphs/
+multi-afristory-za/isizulu/Longer paragraphs/Bathunjiwe!.pdf
+              0   0%    0.00kB/s    0:00:00        1,385,415 100%    1.50MB/s    0:00:00 (xfr#495, to-chk=225/759)
+multi-afristory-za/isizulu/Longer paragraphs/Bheka phezulu.pdf
+              0   0%    0.00kB/s    0:00:00          113,434 100%  125.03kB/s    0:00:00 (xfr#496, to-chk=224/759)
+multi-afristory-za/isizulu/Longer paragraphs/Nampay\#342\#200\#231 Oomame .pdf
+              0   0%    0.00kB/s    0:00:00          144,748 100%  156.02kB/s    0:00:00 (xfr#497, to-chk=223/759)
+multi-afristory-za/isizulu/Longer paragraphs/Owa umntwana.pdf
+              0   0%    0.00kB/s    0:00:00          126,536 100%  134.75kB/s    0:00:00 (xfr#498, to-chk=222/759)
+multi-afristory-za/isizulu/Longer paragraphs/Sizinyoni thina sizinyoni .pdf
+              0   0%    0.00kB/s    0:00:00          139,940 100%  148.06kB/s    0:00:00 (xfr#499, to-chk=221/759)
+multi-afristory-za/isizulu/Longer paragraphs/Thuma mina.pdf
+              0   0%    0.00kB/s    0:00:00          149,539 100%  151.80kB/s    0:00:00 (xfr#500, to-chk=220/759)
+multi-afristory-za/isizulu/Longer paragraphs/UMagozwe.pdf
+              0   0%    0.00kB/s    0:00:00          311,290  35%  303.69kB/s    0:00:01          884,044 100%  817.54kB/s    0:00:01 (xfr#501, to-chk=219/759)
+multi-afristory-za/isizulu/Longer paragraphs/UMondli noMbali bavakashela ugogo wabo.pdf
+              0   0%    0.00kB/s    0:00:00          838,466 100%    5.75MB/s    0:00:00 (xfr#502, to-chk=218/759)
+multi-afristory-za/isizulu/Longer paragraphs/UNgcede inkosi yezinyoni.pdf
+              0   0%    0.00kB/s    0:00:00          777,099 100%    3.15MB/s    0:00:00 (xfr#503, to-chk=217/759)
+multi-afristory-za/isizulu/Longer paragraphs/UNkukhu noShongololo.pdf
+              0   0%    0.00kB/s    0:00:00          527,636 100%    1.71MB/s    0:00:00 (xfr#504, to-chk=216/759)
+multi-afristory-za/isizulu/Longer paragraphs/Ugogo owayenomusa nentombazane enukayo.pdf
+              0   0%    0.00kB/s    0:00:00          664,455 100%    1.80MB/s    0:00:00 (xfr#505, to-chk=215/759)
+multi-afristory-za/isizulu/Longer paragraphs/Umfana owayengathandwa muntu.pdf
+              0   0%    0.00kB/s    0:00:00        1,153,909 100%    2.31MB/s    0:00:00 (xfr#506, to-chk=214/759)
+multi-afristory-za/isizulu/Longer paragraphs/Unkosikazi oyisihlahla.pdf
+              0   0%    0.00kB/s    0:00:00          417,186 100%  757.26kB/s    0:00:00 (xfr#507, to-chk=213/759)
+multi-afristory-za/isizulu/Longer paragraphs/We mntwana wami.pdf
+              0   0%    0.00kB/s    0:00:00          159,431 100%  285.15kB/s    0:00:00 (xfr#508, to-chk=212/759)
+multi-afristory-za/isizulu/Longer paragraphs/uDemane kanye no Demazane.pdf
+              0   0%    0.00kB/s    0:00:00        1,486,924 100%    2.04MB/s    0:00:00 (xfr#509, to-chk=211/759)
+multi-afristory-za/isizulu/Read aloud/
+multi-afristory-za/isizulu/Read aloud/Inyoni enisa imvula .pdf
+              0   0%    0.00kB/s    0:00:00        1,434,448 100%    1.62MB/s    0:00:00 (xfr#510, to-chk=210/759)
+multi-afristory-za/isizulu/Read aloud/UThandeka kanye nezinkukhu ezigeziwe.pdf
+              0   0%    0.00kB/s    0:00:00        1,581,195 100%    1.52MB/s    0:00:00 (xfr#511, to-chk=209/759)
+multi-afristory-za/isizulu/Read aloud/Ukuziphindiselela kweNgede.pdf
+              0   0%    0.00kB/s    0:00:00           49,146   6%   47.95kB/s    0:00:14          740,264 100%  669.36kB/s    0:00:01 (xfr#512, to-chk=208/759)
+multi-afristory-za/sepedi/
+multi-afristory-za/sepedi/First paragraphs/
+multi-afristory-za/sepedi/First paragraphs/Dit\#305\#241hwene t\#305\#241eo di be go di e ya kua le kua.pdf
+              0   0%    0.00kB/s    0:00:00        1,131,287 100%    6.20MB/s    0:00:00 (xfr#513, to-chk=202/759)
+multi-afristory-za/sepedi/First paragraphs/Mokibelo wa go fi\#305\#241a t\#305\#241hirit\#305\#241hiri.pdf
+              0   0%    0.00kB/s    0:00:00          715,471 100%    2.38MB/s    0:00:00 (xfr#514, to-chk=201/759)
+multi-afristory-za/sepedi/First paragraphs/Moruti\#305\#241i Goso.pdf
+              0   0%    0.00kB/s    0:00:00          330,532 100%  999.33kB/s    0:00:00 (xfr#515, to-chk=200/759)
+multi-afristory-za/sepedi/First paragraphs/Sekolo sa Sethokgweng.pdf
+              0   0%    0.00kB/s    0:00:00          738,098 100%    1.88MB/s    0:00:00 (xfr#516, to-chk=199/759)
+multi-afristory-za/sepedi/First sentences/
+multi-afristory-za/sepedi/First sentences/Diphoofolo t\#305\#241a ka gae.pdf
+              0   0%    0.00kB/s    0:00:00          404,162 100%  822.27kB/s    0:00:00 (xfr#517, to-chk=198/759)
+multi-afristory-za/sepedi/First sentences/Katse yaka e kae.pdf
+              0   0%    0.00kB/s    0:00:00          399,466 100%  758.96kB/s    0:00:00 (xfr#518, to-chk=197/759)
+multi-afristory-za/sepedi/First words/
+multi-afristory-za/sepedi/First words/Bohlagahlaga bja Kgomo e Maatla.pdf
+              0   0%    0.00kB/s    0:00:00          297,749 100%  536.48kB/s    0:00:00 (xfr#519, to-chk=196/759)
+multi-afristory-za/sepedi/First words/Go bala   .pdf
+              0   0%    0.00kB/s    0:00:00          549,722 100%  893.24kB/s    0:00:00 (xfr#520, to-chk=195/759)
+multi-afristory-za/sepedi/First words/Ke rata go bala.pdf
+              0   0%    0.00kB/s    0:00:00          534,477 100%  790.83kB/s    0:00:00 (xfr#521, to-chk=194/759)
+multi-afristory-za/sepedi/First words/Mmele waka.pdf
+              0   0%    0.00kB/s    0:00:00          296,245 100%  424.82kB/s    0:00:00 (xfr#522, to-chk=193/759)
+multi-afristory-za/sepedi/First words/Mmopu  wa ka o kae.pdf
+              0   0%    0.00kB/s    0:00:00          683,045 100%  895.35kB/s    0:00:00 (xfr#523, to-chk=192/759)
+multi-afristory-za/sepedi/First words/Mpot\#305\#241e \#342\#200\#246 gona bjale! Lethabo le manyami.pdf
+              0   0%    0.00kB/s    0:00:00          428,881 100%  534.22kB/s    0:00:00 (xfr#524, to-chk=191/759)
+multi-afristory-za/sepedi/First words/Mpot\#305\#241e...gona bjale. Mebala    .pdf
+              0 100%    0.00kB/s    0:00:00 (xfr#525, to-chk=190/759)
+multi-afristory-za/sepedi/First words/Ngwana wa tlou wa go rata go tseba kudu.pdf
+              0   0%    0.00kB/s    0:00:00        1,030,407 100%    1.12MB/s    0:00:00 (xfr#526, to-chk=189/759)
+multi-afristory-za/sepedi/First words/Ngwedi le kepisi.pdf
+              0 100%    0.00kB/s    0:00:00 (xfr#527, to-chk=188/759)
+multi-afristory-za/sepedi/First words/Pula.pdf
+              0 100%    0.00kB/s    0:00:00 (xfr#528, to-chk=187/759)
+multi-afristory-za/sepedi/First words/Re bapala bolo.pdf
+              0   0%    0.00kB/s    0:00:00          671,827 100%  672.21kB/s    0:00:00 (xfr#529, to-chk=186/759)
+multi-afristory-za/sepedi/Longer paragraphs/
+multi-afristory-za/sepedi/Longer paragraphs/Demane le Demazane.pdf
+              0   0%    0.00kB/s    0:00:00          245,754  16%  238.80kB/s    0:00:05        1,486,751 100%    1.28MB/s    0:00:01 (xfr#530, to-chk=185/759)
+multi-afristory-za/sepedi/Longer paragraphs/Kgayanga le nkgo.pdf
+              0 100%    0.00kB/s    0:00:00 (xfr#531, to-chk=184/759)
+multi-afristory-za/sepedi/Longer paragraphs/Khayanga le nkgo ya gagwe.pdf
+              0   0%    0.00kB/s    0:00:00          695,240 100%    3.35MB/s    0:00:00 (xfr#532, to-chk=183/759)
+multi-afristory-za/sepedi/Longer paragraphs/Mma waka o bjadile.pdf
+              0   0%    0.00kB/s    0:00:00          518,454 100%    2.20MB/s    0:00:00 (xfr#533, to-chk=182/759)
+multi-afristory-za/sepedi/Longer paragraphs/Mosadi wa sehlare.pdf
+              0   0%    0.00kB/s    0:00:00          418,318 100%    1.53MB/s    0:00:00 (xfr#534, to-chk=181/759)
+multi-afristory-za/sepedi/Longer paragraphs/Mosimane wa megabaru.pdf
+              0 100%    0.00kB/s    0:00:00 (xfr#535, to-chk=180/759)
+multi-afristory-za/sepedi/Longer paragraphs/Nozibele le Meriri e Meraro .pdf
+              0   0%    0.00kB/s    0:00:00          855,573 100%    2.45MB/s    0:00:00 (xfr#536, to-chk=179/759)
+multi-afristory-za/sepedi/Read aloud/
+multi-afristory-za/sesotho-lesotho/
+multi-afristory-za/sesotho-lesotho/First paragraphs/
+multi-afristory-za/sesotho-lesotho/First paragraphs/Lerato, Thabo le khomo.pdf
+              0   0%    0.00kB/s    0:00:00        1,123,475 100%    2.52MB/s    0:00:00 (xfr#537, to-chk=173/759)
+multi-afristory-za/sesotho-lesotho/First paragraphs/Letsatsi la likela.pdf
+              0 100%    0.00kB/s    0:00:00 (xfr#538, to-chk=172/759)
+multi-afristory-za/sesotho-lesotho/First paragraphs/Litsoene tseneng li tsamaea ka tsela ena le ena .pdf
+              0   0%    0.00kB/s    0:00:00        1,130,545 100%    2.05MB/s    0:00:00 (xfr#539, to-chk=171/759)
+multi-afristory-za/sesotho-lesotho/First paragraphs/Pooli, Ntja, le Khomo le TV.pdf
+              0   0%    0.00kB/s    0:00:00          473,471 100%  811.18kB/s    0:00:00 (xfr#540, to-chk=170/759)
+multi-afristory-za/sesotho-lesotho/First paragraphs/Senkokomaile sa Keke.pdf
+              0   0%    0.00kB/s    0:00:00          683,134 100%    1.03MB/s    0:00:00 (xfr#541, to-chk=169/759)
+multi-afristory-za/sesotho-lesotho/First sentences/
+multi-afristory-za/sesotho-lesotho/First sentences/Bana ba entsoeng ka kerese.pdf
+              0   0%    0.00kB/s    0:00:00          549,591 100%  778.97kB/s    0:00:00 (xfr#542, to-chk=168/759)
+multi-afristory-za/sesotho-lesotho/First sentences/Khomo e bokopa.pdf
+              0   0%    0.00kB/s    0:00:00          764,464 100%  982.30kB/s    0:00:00 (xfr#543, to-chk=167/759)
+multi-afristory-za/sesotho-lesotho/First sentences/Likatse tsa Selemeng.pdf
+              0 100%    0.00kB/s    0:00:00 (xfr#544, to-chk=166/759)
+multi-afristory-za/sesotho-lesotho/First sentences/Njoetse hona joale \#342\#200\#246 mebala.pdf
+              0   0%    0.00kB/s    0:00:00          668,390 100%  794.07kB/s    0:00:00 (xfr#545, to-chk=165/759)
+multi-afristory-za/sesotho-lesotho/First sentences/Njoetse hona joale \#342\#200\#246 thabo le hokoata.pdf
+              0   0%    0.00kB/s    0:00:00          427,555 100%  485.50kB/s    0:00:00 (xfr#546, to-chk=164/759)
+multi-afristory-za/sesotho-lesotho/First sentences/Pale e qabolang.pdf
+              0   0%    0.00kB/s    0:00:00          462,254 100%  504.94kB/s    0:00:00 (xfr#547, to-chk=163/759)
+multi-afristory-za/sesotho-lesotho/First words/
+multi-afristory-za/sesotho-lesotho/First words/Bolo eaka e khubelu.pdf
+              0   0%    0.00kB/s    0:00:00          835,578  67%  815.99kB/s    0:00:00        1,245,708 100%    1.15MB/s    0:00:01 (xfr#548, to-chk=162/759)
+multi-afristory-za/sesotho-lesotho/First words/Mamela mmele oa hao.pdf
+              0   0%    0.00kB/s    0:00:00          918,950 100%    7.55MB/s    0:00:00 (xfr#549, to-chk=161/759)
+multi-afristory-za/sesotho-lesotho/Longer paragraphs/
+multi-afristory-za/sesotho-lesotho/Longer paragraphs/Mashilo le Mashilwane.pdf
+              0   0%    0.00kB/s    0:00:00          542,124 100%    1.12MB/s    0:00:00 (xfr#550, to-chk=160/759)
+multi-afristory-za/sesotho-lesotho/Longer paragraphs/Mokopu oa 'M'e Maneo.pdf
+              0   0%    0.00kB/s    0:00:00        1,387,558 100%    2.77MB/s    0:00:00 (xfr#551, to-chk=159/759)
+multi-afristory-za/sesotho-lesotho/Longer paragraphs/Mosali wa Sefate.pdf
+              0   0%    0.00kB/s    0:00:00          417,916 100%  844.97kB/s    0:00:00 (xfr#552, to-chk=158/759)
+multi-afristory-za/sesotho-lesotho/Longer paragraphs/Nonkungu le Imbulu.pdf
+              0 100%    0.00kB/s    0:00:00 (xfr#553, to-chk=157/759)
+multi-afristory-za/sesotho-lesotho/Longer paragraphs/Peo ea Thoko ea FantaPine .pdf
+              0   0%    0.00kB/s    0:00:00        1,354,827 100%    1.91MB/s    0:00:00 (xfr#554, to-chk=156/759)
+multi-afristory-za/sesotho-lesotho/Longer paragraphs/Tselane le Limo.pdf
+              0   0%    0.00kB/s    0:00:00          945,391 100%    1.31MB/s    0:00:00 (xfr#555, to-chk=155/759)
+multi-afristory-za/sesotho-lesotho/Read aloud/
+multi-afristory-za/sesotho-lesotho/Read aloud/Nozibele le qobo tse tharo.pdf
+              0   0%    0.00kB/s    0:00:00          857,063 100%    1.05MB/s    0:00:00 (xfr#556, to-chk=154/759)
+multi-afristory-za/sesotho-safrica/
+multi-afristory-za/sesotho-safrica/First paragraphs/
+multi-afristory-za/sesotho-safrica/First paragraphs/Kgoho le Lefokolodi.pdf
+              0   0%    0.00kB/s    0:00:00          527,585 100%  614.09kB/s    0:00:00 (xfr#557, to-chk=148/759)
+multi-afristory-za/sesotho-safrica/First paragraphs/Mokoko le Lengau.pdf
+              0   0%    0.00kB/s    0:00:00          724,201 100%  767.89kB/s    0:00:00 (xfr#558, to-chk=147/759)
+multi-afristory-za/sesotho-safrica/First sentences/
+multi-afristory-za/sesotho-safrica/First sentences/Baesekele ya Namukuru.pdf
+              0   0%    0.00kB/s    0:00:00          494,635 100%  500.04kB/s    0:00:00 (xfr#559, to-chk=146/759)
+multi-afristory-za/sesotho-safrica/First sentences/Khalai o bua le dimela.pdf
+              0   0%    0.00kB/s    0:00:00          344,058  65%  334.66kB/s    0:00:00          528,111 100%  506.61kB/s    0:00:01 (xfr#560, to-chk=145/759)
+multi-afristory-za/sesotho-safrica/First sentences/Mohlokomedi wa diphoofolo le sebaka sa hae se ikgethang .pdf
+              0   0%    0.00kB/s    0:00:00          828,366 100%    7.82MB/s    0:00:00 (xfr#561, to-chk=144/759)
+multi-afristory-za/sesotho-safrica/First sentences/Mosuwetsana Akinyi.pdf
+              0   0%    0.00kB/s    0:00:00          977,685 100%    4.73MB/s    0:00:00 (xfr#562, to-chk=143/759)
+multi-afristory-za/sesotho-safrica/First sentences/Moya.pdf
+              0   0%    0.00kB/s    0:00:00        1,123,872 100%    3.56MB/s    0:00:00 (xfr#563, to-chk=142/759)
+multi-afristory-za/sesotho-safrica/First words/
+multi-afristory-za/sesotho-safrica/First words/Bolo ya ka e kgubedu.pdf
+              0   0%    0.00kB/s    0:00:00        1,246,186 100%    2.93MB/s    0:00:00 (xfr#564, to-chk=141/759)
+multi-afristory-za/sesotho-safrica/First words/Re bapala bolo.pdf
+              0   0%    0.00kB/s    0:00:00          671,552 100%    1.22MB/s    0:00:00 (xfr#565, to-chk=140/759)
+multi-afristory-za/sesotho-safrica/Longer paragraphs/
+multi-afristory-za/sesotho-safrica/Longer paragraphs/Kwetetswe!.pdf
+              0   0%    0.00kB/s    0:00:00        1,385,539 100%    1.84MB/s    0:00:00 (xfr#566, to-chk=139/759)
+multi-afristory-za/sesotho-safrica/Longer paragraphs/Magozwe.pdf
+              0   0%    0.00kB/s    0:00:00          884,534 100%    1.07MB/s    0:00:00 (xfr#567, to-chk=138/759)
+multi-afristory-za/sesotho-safrica/Longer paragraphs/Teledi.pdf
+              0   0%    0.00kB/s    0:00:00          177,214 100%  216.87kB/s    0:00:00 (xfr#568, to-chk=137/759)
+multi-afristory-za/sesotho-safrica/Read aloud/
+multi-afristory-za/setswana/
+multi-afristory-za/setswana/First paragraphs/
+multi-afristory-za/setswana/First paragraphs/Goreng bokubu ba sena moriri.pdf
+              0   0%    0.00kB/s    0:00:00          695,920 100%  753.45kB/s    0:00:00 (xfr#569, to-chk=131/759)
+multi-afristory-za/setswana/First paragraphs/Kalabushe, mosetsana yo o buang thata.pdf
+              0   0%    0.00kB/s    0:00:00          884,736  87%  854.60kB/s    0:00:00        1,005,707 100%  968.58kB/s    0:00:01 (xfr#570, to-chk=130/759)
+multi-afristory-za/setswana/First paragraphs/Kgosi ya dinonyane.pdf
+              0   0%    0.00kB/s    0:00:00          846,071 100%    7.47MB/s    0:00:00 (xfr#571, to-chk=129/759)
+multi-afristory-za/setswana/First paragraphs/Koko le Sebokolodi.pdf
+              0   0%    0.00kB/s    0:00:00          527,756 100%    1.97MB/s    0:00:00 (xfr#572, to-chk=128/759)
+multi-afristory-za/setswana/First paragraphs/Megagaru ya ga Abele.pdf
+              0   0%    0.00kB/s    0:00:00          392,493 100%  972.83kB/s    0:00:00 (xfr#573, to-chk=127/759)
+multi-afristory-za/setswana/First paragraphs/Mmutla o tsietsa Tlou gape.pdf
+              0   0%    0.00kB/s    0:00:00        1,102,763 100%    2.33MB/s    0:00:00 (xfr#574, to-chk=126/759)
+multi-afristory-za/setswana/First paragraphs/Mogote wa Lamatlhatso Motshegare.pdf
+              0   0%    0.00kB/s    0:00:00          714,299 100%    1.21MB/s    0:00:00 (xfr#575, to-chk=125/759)
+multi-afristory-za/setswana/First paragraphs/Mokoko le Nkwe.pdf
+              0   0%    0.00kB/s    0:00:00          723,649 100%    1.00MB/s    0:00:00 (xfr#576, to-chk=124/759)
+multi-afristory-za/setswana/First paragraphs/Mosidi le Diphiri .pdf
+              0   0%    0.00kB/s    0:00:00          860,337 100%    1.02MB/s    0:00:00 (xfr#577, to-chk=123/759)
+multi-afristory-za/setswana/First paragraphs/Rre le morwa wa gagwe.pdf
+              0   0%    0.00kB/s    0:00:00          469,154 100%  508.50kB/s    0:00:00 (xfr#578, to-chk=122/759)
+multi-afristory-za/setswana/First paragraphs/Tshwene le mosadi wa motsomi.pdf
+              0   0%    0.00kB/s    0:00:00          608,816 100%  612.93kB/s    0:00:00 (xfr#579, to-chk=121/759)
+multi-afristory-za/setswana/First paragraphs/Tshwene le mosadi wa motsumi.pdf
+              0   0%    0.00kB/s    0:00:00           16,378   2%   15.87kB/s    0:00:37          609,279 100%  560.79kB/s    0:00:01 (xfr#580, to-chk=120/759)
+multi-afristory-za/setswana/First sentences/
+multi-afristory-za/setswana/First sentences/Baesekele ya ga Palesa.pdf
+              0   0%    0.00kB/s    0:00:00          495,853 100%    3.58MB/s    0:00:00 (xfr#581, to-chk=119/759)
+multi-afristory-za/setswana/First sentences/Bana ba kerese.pdf
+              0   0%    0.00kB/s    0:00:00          549,194 100%    2.40MB/s    0:00:00 (xfr#582, to-chk=118/759)
+multi-afristory-za/setswana/First sentences/Bogole ga bo tlhokise bokgoni.pdf
+              0   0%    0.00kB/s    0:00:00          631,219 100%    2.01MB/s    0:00:00 (xfr#583, to-chk=117/759)
+multi-afristory-za/setswana/First sentences/Ke a rata.pdf
+              0   0%    0.00kB/s    0:00:00          528,656 100%    1.44MB/s    0:00:00 (xfr#584, to-chk=116/759)
+multi-afristory-za/setswana/First sentences/Maru.pdf
+              0   0%    0.00kB/s    0:00:00          146,917 100%  367.88kB/s    0:00:00 (xfr#585, to-chk=115/759)
+multi-afristory-za/setswana/First sentences/Mma Mogala.pdf
+              0   0%    0.00kB/s    0:00:00        1,355,283 100%    2.31MB/s    0:00:00 (xfr#586, to-chk=114/759)
+multi-afristory-za/setswana/First sentences/Mokibo.pdf
+              0   0%    0.00kB/s    0:00:00          414,203 100%  626.15kB/s    0:00:00 (xfr#587, to-chk=113/759)
+multi-afristory-za/setswana/First sentences/Molemo o bua le dijalo.pdf
+              0   0%    0.00kB/s    0:00:00          528,057 100%  730.43kB/s    0:00:00 (xfr#588, to-chk=112/759)
+multi-afristory-za/setswana/First sentences/Monang o o tshwenyang.pdf
+              0   0%    0.00kB/s    0:00:00          931,322 100%    1.06MB/s    0:00:00 (xfr#589, to-chk=111/759)
+multi-afristory-za/setswana/First sentences/Monna o motelele-telele .pdf
+              0   0%    0.00kB/s    0:00:00          718,473 100%  756.89kB/s    0:00:00 (xfr#590, to-chk=110/759)
+multi-afristory-za/setswana/First sentences/Morutabana Akinyi.pdf
+              0   0%    0.00kB/s    0:00:00          540,666  55%  526.94kB/s    0:00:00          976,794 100%  894.00kB/s    0:00:01 (xfr#591, to-chk=109/759)
+multi-afristory-za/setswana/First sentences/Motlhokomedi le serapa sa gagwe se se kgethegileng.pdf
+              0   0%    0.00kB/s    0:00:00          827,555 100%    5.00MB/s    0:00:00 (xfr#592, to-chk=108/759)
+multi-afristory-za/setswana/First sentences/Motshelanosi.pdf
+              0   0%    0.00kB/s    0:00:00          219,619 100%    1.18MB/s    0:00:00 (xfr#593, to-chk=107/759)
+multi-afristory-za/setswana/First sentences/Nna le ba lelapa la me.pdf
+              0   0%    0.00kB/s    0:00:00          619,554 100%    2.28MB/s    0:00:00 (xfr#594, to-chk=106/759)
+multi-afristory-za/setswana/First sentences/Phefo.pdf
+              0   0%    0.00kB/s    0:00:00        1,123,860 100%    2.42MB/s    0:00:00 (xfr#595, to-chk=105/759)
+multi-afristory-za/setswana/First sentences/Podi, Nt\#305\#241wa le Kgomo .pdf
+              0   0%    0.00kB/s    0:00:00          481,515 100%  983.74kB/s    0:00:00 (xfr#596, to-chk=104/759)
+multi-afristory-za/setswana/First sentences/Tshoswane o thusa Leeba.pdf
+              0   0%    0.00kB/s    0:00:00        1,364,186 100%    1.93MB/s    0:00:00 (xfr#597, to-chk=103/759)
+multi-afristory-za/setswana/First words/
+multi-afristory-za/setswana/First words/Boima le bofefo.pdf
+              0   0%    0.00kB/s    0:00:00          429,700 100%  574.05kB/s    0:00:00 (xfr#598, to-chk=102/759)
+multi-afristory-za/setswana/First words/Buka ya maemo a bosa.pdf
+              0   0%    0.00kB/s    0:00:00          273,109 100%  350.93kB/s    0:00:00 (xfr#599, to-chk=101/759)
+multi-afristory-za/setswana/First words/Diaparo tsa sekolo.pdf
+              0   0%    0.00kB/s    0:00:00          227,942 100%  282.85kB/s    0:00:00 (xfr#600, to-chk=100/759)
+multi-afristory-za/setswana/First words/Difitlholo.pdf
+              0   0%    0.00kB/s    0:00:00          332,660 100%  385.82kB/s    0:00:00 (xfr#601, to-chk=99/759)
+multi-afristory-za/setswana/First words/Ditlhako tse dint\#305\#241hwa.pdf
+              0   0%    0.00kB/s    0:00:00          438,600 100%  478.57kB/s    0:00:00 (xfr#602, to-chk=98/759)
+multi-afristory-za/setswana/First words/Ditsala.pdf
+              0   0%    0.00kB/s    0:00:00          756,162 100%  750.45kB/s    0:00:00 (xfr#603, to-chk=97/759)
+multi-afristory-za/setswana/First words/Go Apaya.pdf
+              0 100%    0.00kB/s    0:00:00 (xfr#604, to-chk=96/759)
+multi-afristory-za/setswana/First words/Go bala.pdf
+              0   0%    0.00kB/s    0:00:00          131,072  23%  128.00kB/s    0:00:03          549,100 100%  507.31kB/s    0:00:01 (xfr#605, to-chk=95/759)
+multi-afristory-za/setswana/First words/Katse ya me e kae.pdf
+              0   0%    0.00kB/s    0:00:00          399,447 100%    3.97MB/s    0:00:00 (xfr#606, to-chk=94/759)
+multi-afristory-za/setswana/First words/Ke kgona go dira se.pdf
+              0   0%    0.00kB/s    0:00:00          254,164 100%    1.68MB/s    0:00:00 (xfr#607, to-chk=93/759)
+multi-afristory-za/setswana/First words/Ke nna o.pdf
+              0   0%    0.00kB/s    0:00:00          392,751 100%    2.06MB/s    0:00:00 (xfr#608, to-chk=92/759)
+multi-afristory-za/setswana/First words/Kgwele ya me e e khibidu.pdf
+              0   0%    0.00kB/s    0:00:00        1,246,418 100%    3.28MB/s    0:00:00 (xfr#609, to-chk=91/759)
+multi-afristory-za/setswana/First words/Kotsi e e maswe.pdf
+              0   0%    0.00kB/s    0:00:00          477,757 100%    1.13MB/s    0:00:00 (xfr#610, to-chk=90/759)
+multi-afristory-za/setswana/First words/Kotsi.pdf
+              0   0%    0.00kB/s    0:00:00          566,548 100%    1.10MB/s    0:00:00 (xfr#611, to-chk=89/759)
+multi-afristory-za/setswana/First words/Lelapa la me.pdf
+              0   0%    0.00kB/s    0:00:00          496,121 100%  874.54kB/s    0:00:00 (xfr#612, to-chk=88/759)
+multi-afristory-za/setswana/First words/Maikutlo.pdf
+              0   0%    0.00kB/s    0:00:00          297,012 100%  465.57kB/s    0:00:00 (xfr#613, to-chk=87/759)
+multi-afristory-za/setswana/First words/Makwalo.pdf
+              0   0%    0.00kB/s    0:00:00          306,214 100%  465.79kB/s    0:00:00 (xfr#614, to-chk=86/759)
+multi-afristory-za/setswana/First words/Matlo.pdf
+              0   0%    0.00kB/s    0:00:00          560,445 100%  744.64kB/s    0:00:00 (xfr#615, to-chk=85/759)
+multi-afristory-za/setswana/First words/Meno.pdf
+              0   0%    0.00kB/s    0:00:00          372,891 100%  472.31kB/s    0:00:00 (xfr#616, to-chk=84/759)
+multi-afristory-za/setswana/First words/Mmele wa me.pdf
+              0   0%    0.00kB/s    0:00:00          296,264 100%  359.85kB/s    0:00:00 (xfr#617, to-chk=83/759)
+multi-afristory-za/setswana/First words/Moriri.pdf
+              0   0%    0.00kB/s    0:00:00          440,985 100%  479.57kB/s    0:00:00 (xfr#618, to-chk=82/759)
+multi-afristory-za/setswana/First words/Motogo.pdf
+              0   0%    0.00kB/s    0:00:00          688,128  80%  672.00kB/s    0:00:00          860,076 100%  832.43kB/s    0:00:01 (xfr#619, to-chk=81/759)
+multi-afristory-za/setswana/First words/Nawa e e thunyang.pdf
+              0   0%    0.00kB/s    0:00:00          322,483 100%    3.62MB/s    0:00:00 (xfr#620, to-chk=80/759)
+multi-afristory-za/setswana/First words/Nnake yo o botswa.pdf
+              0   0%    0.00kB/s    0:00:00          293,071 100%    2.64MB/s    0:00:00 (xfr#621, to-chk=79/759)
+multi-afristory-za/setswana/First words/Tse kae.pdf
+              0   0%    0.00kB/s    0:00:00          401,317 100%    2.71MB/s    0:00:00 (xfr#622, to-chk=78/759)
+multi-afristory-za/setswana/Longer paragraphs/
+multi-afristory-za/setswana/Longer paragraphs/Anansi le Khudu.pdf
+              0   0%    0.00kB/s    0:00:00          772,011 100%    3.08MB/s    0:00:00 (xfr#623, to-chk=77/759)
+multi-afristory-za/setswana/Longer paragraphs/Dineo.pdf
+              0   0%    0.00kB/s    0:00:00        1,084,822 100%    2.57MB/s    0:00:00 (xfr#624, to-chk=76/759)
+multi-afristory-za/setswana/Longer paragraphs/Go gapiwa ka dikgoka!.pdf
+              0   0%    0.00kB/s    0:00:00        1,386,450 100%    2.36MB/s    0:00:00 (xfr#625, to-chk=75/759)
+multi-afristory-za/setswana/Longer paragraphs/Kgosi Mothupi le morwadiagwe.pdf
+              0   0%    0.00kB/s    0:00:00          823,618 100%    1.16MB/s    0:00:00 (xfr#626, to-chk=74/759)
+multi-afristory-za/setswana/Longer paragraphs/Leeto la go batla moya wa letlhabula.pdf
+              0   0%    0.00kB/s    0:00:00          739,572 100%  906.20kB/s    0:00:00 (xfr#627, to-chk=73/759)
+multi-afristory-za/setswana/Longer paragraphs/Magozwe.pdf
+              0   0%    0.00kB/s    0:00:00          883,874 100%  947.48kB/s    0:00:00 (xfr#628, to-chk=72/759)
+multi-afristory-za/setswana/Longer paragraphs/Mmutla mo tlase ga setlhare.pdf
+              0 100%    0.00kB/s    0:00:00 (xfr#629, to-chk=71/759)
+multi-afristory-za/setswana/Longer paragraphs/Moipone le Sego sa gagwe.pdf
+              0   0%    0.00kB/s    0:00:00          692,985 100%  678.10kB/s    0:00:00 (xfr#630, to-chk=70/759)
+multi-afristory-za/setswana/Longer paragraphs/Mosadi wa setlhare.pdf
+              0   0%    0.00kB/s    0:00:00           32,768   7%   31.97kB/s    0:00:12          418,635 100%  393.10kB/s    0:00:01 (xfr#631, to-chk=69/759)
+multi-afristory-za/setswana/Longer paragraphs/Moseme wa ga Akai  o o kgethegileng.pdf
+              0   0%    0.00kB/s    0:00:00        1,002,269 100%    5.86MB/s    0:00:00 (xfr#632, to-chk=68/759)
+multi-afristory-za/setswana/Longer paragraphs/Nozibele le Meriri e Meraro .pdf
+              0   0%    0.00kB/s    0:00:00          855,658 100%    3.08MB/s    0:00:00 (xfr#633, to-chk=67/759)
+multi-afristory-za/setswana/Longer paragraphs/Phokoje le letsatsi.pdf
+              0   0%    0.00kB/s    0:00:00          396,621 100%    1.14MB/s    0:00:00 (xfr#634, to-chk=66/759)
+multi-afristory-za/setswana/Longer paragraphs/Sekgwa sa dinoga.pdf
+              0   0%    0.00kB/s    0:00:00          979,341 100%    2.12MB/s    0:00:00 (xfr#635, to-chk=65/759)
+multi-afristory-za/setswana/Longer paragraphs/Tau le Kolobe ya naga.pdf
+              0   0%    0.00kB/s    0:00:00          888,939 100%    1.53MB/s    0:00:00 (xfr#636, to-chk=64/759)
+multi-afristory-za/setswana/Longer paragraphs/Tlowana marata go itse.pdf
+              0   0%    0.00kB/s    0:00:00        1,030,219 100%    1.44MB/s    0:00:00 (xfr#637, to-chk=63/759)
+multi-afristory-za/setswana/Longer paragraphs/Tselane le Dimo.pdf
+              0   0%    0.00kB/s    0:00:00          945,448 100%    1.11MB/s    0:00:00 (xfr#638, to-chk=62/759)
+multi-afristory-za/setswana/Read aloud/
+multi-afristory-za/setswana/Read aloud/Refiloe le dikoko tsa gagwe.pdf
+              0   0%    0.00kB/s    0:00:00            2,206 100%    2.65kB/s    0:00:00 (xfr#639, to-chk=61/759)
+multi-afristory-za/siswati/
+multi-afristory-za/siswati/First paragraphs/
+multi-afristory-za/siswati/First paragraphs/Bangani.pdf
+              0   0%    0.00kB/s    0:00:00          424,579 100%  483.81kB/s    0:00:00 (xfr#640, to-chk=55/759)
+multi-afristory-za/siswati/First paragraphs/Imadi yaThembi lebalulekile.pdf
+              0   0%    0.00kB/s    0:00:00        1,002,955 100%  999.44kB/s    0:00:00 (xfr#641, to-chk=54/759)
+multi-afristory-za/siswati/First paragraphs/Indvodza yekucala nemfati wekucala.pdf
+              0   0%    0.00kB/s    0:00:00          147,450  36%  142.15kB/s    0:00:01          402,203 100%  379.86kB/s    0:00:01 (xfr#642, to-chk=53/759)
+multi-afristory-za/siswati/First paragraphs/Inkhomo leneluphondvo lunye.pdf
+              0   0%    0.00kB/s    0:00:00          764,219 100%    6.23MB/s    0:00:00 (xfr#643, to-chk=52/759)
+multi-afristory-za/siswati/First paragraphs/Inkhukhu nelishongololo.pdf
+              0   0%    0.00kB/s    0:00:00          528,236 100%    2.91MB/s    0:00:00 (xfr#644, to-chk=51/759)
+multi-afristory-za/siswati/First paragraphs/Inyanga nekepisi.pdf
+              0   0%    0.00kB/s    0:00:00          697,778 100%    2.61MB/s    0:00:00 (xfr#645, to-chk=50/759)
+multi-afristory-za/siswati/First paragraphs/Jakalazi lolambile nemagilebisi lamunyu.pdf
+              0   0%    0.00kB/s    0:00:00          446,637 100%    1.28MB/s    0:00:00 (xfr#646, to-chk=49/759)
+multi-afristory-za/siswati/First paragraphs/Kumnandzi kufundza.pdf
+              0   0%    0.00kB/s    0:00:00          539,193 100%    1.36MB/s    0:00:00 (xfr#647, to-chk=48/759)
+multi-afristory-za/siswati/First paragraphs/Libhubesi nengulube yesiganga .pdf
+              0   0%    0.00kB/s    0:00:00          889,062 100%    1.70MB/s    0:00:00 (xfr#648, to-chk=47/759)
+multi-afristory-za/siswati/First paragraphs/Namukhaywa.pdf
+              0   0%    0.00kB/s    0:00:00        1,086,129 100%    1.57MB/s    0:00:00 (xfr#649, to-chk=46/759)
+multi-afristory-za/siswati/First paragraphs/Ngelusuku lwekushisa kakhulu kwelilanga ngengcibelo ntsambama.pdf
+              0   0%    0.00kB/s    0:00:00          714,453 100%  929.04kB/s    0:00:00 (xfr#650, to-chk=45/759)
+multi-afristory-za/siswati/First paragraphs/Sitselo.pdf
+              0   0%    0.00kB/s    0:00:00          715,423 100%  831.73kB/s    0:00:00 (xfr#651, to-chk=44/759)
+multi-afristory-za/siswati/First paragraphs/Tingulube atikavunyelwa.pdf
+              0   0%    0.00kB/s    0:00:00          595,973 100%  624.47kB/s    0:00:00 (xfr#652, to-chk=43/759)
+multi-afristory-za/siswati/First sentences/
+multi-afristory-za/siswati/First sentences/Beyihlala yodwa.pdf
+              0   0%    0.00kB/s    0:00:00          219,116 100%  225.01kB/s    0:00:00 (xfr#653, to-chk=42/759)
+multi-afristory-za/siswati/First sentences/Imbuti ledansako.pdf
+              0   0%    0.00kB/s    0:00:00          475,130  69%  454.90kB/s    0:00:00          680,788 100%  627.20kB/s    0:00:01 (xfr#654, to-chk=41/759)
+multi-afristory-za/siswati/First sentences/Jamlundi wakitsi.pdf
+              0   0%    0.00kB/s    0:00:00          775,736 100%    4.87MB/s    0:00:00 (xfr#655, to-chk=40/759)
+multi-afristory-za/siswati/First sentences/Kungani sicoco sibe sibi.pdf
+              0   0%    0.00kB/s    0:00:00          313,562 100%    1.64MB/s    0:00:00 (xfr#656, to-chk=39/759)
+multi-afristory-za/siswati/First sentences/Sijeziso saBobo.pdf
+              0   0%    0.00kB/s    0:00:00          645,004 100%    2.37MB/s    0:00:00 (xfr#657, to-chk=38/759)
+multi-afristory-za/siswati/First sentences/Umfaniswano wesikolo.pdf
+              0   0%    0.00kB/s    0:00:00          545,318 100%    1.67MB/s    0:00:00 (xfr#658, to-chk=37/759)
+multi-afristory-za/siswati/First words/
+multi-afristory-za/siswati/First words/Imibala yemushi wenkhosatane.pdf
+              0   0%    0.00kB/s    0:00:00          483,701 100%    1.20MB/s    0:00:00 (xfr#659, to-chk=36/759)
+multi-afristory-za/siswati/Longer paragraphs/
+multi-afristory-za/siswati/Longer paragraphs/Lingangane.pdf
+              0   0%    0.00kB/s    0:00:00          358,025 100%  838.45kB/s    0:00:00 (xfr#660, to-chk=35/759)
+multi-afristory-za/siswati/Longer paragraphs/Nogwaja ngaphasi kwesihlahla.pdf
+              0   0%    0.00kB/s    0:00:00        1,311,213 100%    2.16MB/s    0:00:00 (xfr#661, to-chk=34/759)
+multi-afristory-za/siswati/Read aloud/
+multi-afristory-za/tshivenda/
+multi-afristory-za/tshivenda/First paragraphs/
+multi-afristory-za/tshivenda/First paragraphs/Khuhu na Dongololo.pdf
+              0   0%    0.00kB/s    0:00:00          527,176 100%  793.25kB/s    0:00:00 (xfr#662, to-chk=28/759)
+multi-afristory-za/tshivenda/First paragraphs/Mukukulume na Didingwe.pdf
+              0   0%    0.00kB/s    0:00:00          723,746 100%  964.23kB/s    0:00:00 (xfr#663, to-chk=27/759)
+multi-afristory-za/tshivenda/First sentences/
+multi-afristory-za/tshivenda/First sentences/Khalai u amba na zwitavhiwa..pdf
+              0   0%    0.00kB/s    0:00:00          528,032 100%  647.81kB/s    0:00:00 (xfr#664, to-chk=26/759)
+multi-afristory-za/tshivenda/First sentences/Lukanykanya lwa Namukuru.pdf
+              0   0%    0.00kB/s    0:00:00          494,032 100%  566.92kB/s    0:00:00 (xfr#665, to-chk=25/759)
+multi-afristory-za/tshivenda/First sentences/Mudededzi Akinyi.pdf
+              0   0%    0.00kB/s    0:00:00          976,176 100%  980.76kB/s    0:00:00 (xfr#666, to-chk=24/759)
+multi-afristory-za/tshivenda/First sentences/Muthogomeli and fhethu ho khetheaho ha u thogomela phuka.pdf
+              0   0%    0.00kB/s    0:00:00          262,144  31%  255.49kB/s    0:00:02          827,368 100%  755.82kB/s    0:00:01 (xfr#667, to-chk=23/759)
+multi-afristory-za/tshivenda/First sentences/Muya.pdf
+              0   0%    0.00kB/s    0:00:00        1,123,704 100%    5.55MB/s    0:00:00 (xfr#668, to-chk=22/759)
+multi-afristory-za/tshivenda/First words/
+multi-afristory-za/tshivenda/First words/Bola yanga tswuku.pdf
+              0   0%    0.00kB/s    0:00:00        1,246,072 100%    3.30MB/s    0:00:00 (xfr#669, to-chk=21/759)
+multi-afristory-za/tshivenda/First words/Mvula.pdf
+              0   0%    0.00kB/s    0:00:00          125,372 100%  333.61kB/s    0:00:00 (xfr#670, to-chk=20/759)
+multi-afristory-za/tshivenda/First words/Potilo.pdf
+              0   0%    0.00kB/s    0:00:00          106,862 100%  278.29kB/s    0:00:00 (xfr#671, to-chk=19/759)
+multi-afristory-za/tshivenda/Longer paragraphs/
+multi-afristory-za/tshivenda/Longer paragraphs/Magozwe .pdf
+              0   0%    0.00kB/s    0:00:00          882,941 100%    1.72MB/s    0:00:00 (xfr#672, to-chk=18/759)
+multi-afristory-za/tshivenda/Longer paragraphs/U dzhiiwa nga khani.pdf
+              0   0%    0.00kB/s    0:00:00        1,385,070 100%    1.98MB/s    0:00:00 (xfr#673, to-chk=17/759)
+multi-afristory-za/tshivenda/Read aloud/
+multi-afristory-za/xitsonga/
+multi-afristory-za/xitsonga/First paragraphs/
+multi-afristory-za/xitsonga/First paragraphs/Huku na Khongoloti.pdf
+              0   0%    0.00kB/s    0:00:00          527,749 100%  695.52kB/s    0:00:00 (xfr#674, to-chk=11/759)
+multi-afristory-za/xitsonga/First paragraphs/Nkuku na Mangwa.pdf
+              0   0%    0.00kB/s    0:00:00          724,119 100%  865.54kB/s    0:00:00 (xfr#675, to-chk=10/759)
+multi-afristory-za/xitsonga/First paragraphs/Xitori xo hlekisa.pdf
+              0   0%    0.00kB/s    0:00:00          462,530 100%  514.45kB/s    0:00:00 (xfr#676, to-chk=9/759)
+multi-afristory-za/xitsonga/First sentences/
+multi-afristory-za/xitsonga/First sentences/Moya.pdf
+              0   0%    0.00kB/s    0:00:00        1,081,344  96%    1.03MB/s    0:00:00        1,123,694 100%    1.06MB/s    0:00:01 (xfr#677, to-chk=8/759)
+multi-afristory-za/xitsonga/First sentences/Mudyondzisi Baloyi.pdf
+              0   0%    0.00kB/s    0:00:00          977,239 100%    6.47MB/s    0:00:00 (xfr#678, to-chk=7/759)
+multi-afristory-za/xitsonga/First sentences/Muhlayisi na vuhlayiselo byo hlawuleka.pdf
+              0   0%    0.00kB/s    0:00:00          827,486 100%    3.12MB/s    0:00:00 (xfr#679, to-chk=6/759)
+multi-afristory-za/xitsonga/First sentences/Nhongana.pdf
+              0   0%    0.00kB/s    0:00:00          245,304 100%  874.29kB/s    0:00:00 (xfr#680, to-chk=5/759)
+multi-afristory-za/xitsonga/First sentences/Wavhidi a vulavula na swimilana.pdf
+              0   0%    0.00kB/s    0:00:00          528,836 100%    1.56MB/s    0:00:00 (xfr#681, to-chk=4/759)
+multi-afristory-za/xitsonga/First sentences/Xikanyakanya xa Masesi.pdf
+              0   0%    0.00kB/s    0:00:00          494,420 100%    1.18MB/s    0:00:00 (xfr#682, to-chk=3/759)
+multi-afristory-za/xitsonga/First words/
+multi-afristory-za/xitsonga/First words/Bolo ya mina yo tshuka.pdf
+              0   0%    0.00kB/s    0:00:00        1,246,238 100%    2.09MB/s    0:00:00 (xfr#683, to-chk=2/759)
+multi-afristory-za/xitsonga/Longer paragraphs/
+multi-afristory-za/xitsonga/Longer paragraphs/Ku tlhakisiwa!.pdf
+              0   0%    0.00kB/s    0:00:00        1,386,008 100%    1.83MB/s    0:00:00 (xfr#684, to-chk=1/759)
+multi-afristory-za/xitsonga/Longer paragraphs/Mahewu.pdf
+              0   0%    0.00kB/s    0:00:00          884,637 100% 1017.55kB/s    0:00:00 (xfr#685, to-chk=0/759)
+multi-afristory-za/xitsonga/Read aloud/
+
+sent 13,566 bytes  received 444,395,178 bytes  5,520,605.52 bytes/sec
+total size is 444,157,204  speedup is 1.00
