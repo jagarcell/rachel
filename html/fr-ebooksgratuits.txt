@@ -1,0 +1,4 @@
+receiving incremental file list
+
+sent 167 bytes  received 280,630 bytes  112,318.80 bytes/sec
+total size is 5,966,856,033  speedup is 21,249.71

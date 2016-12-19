@@ -1,7 +1,8 @@
 // GLOBAL HANDLER FOR INTERNET CONNECTION CHECKING INTERVAL
 var conninterval = null;
 
-$(document).ready(function(){
+$(document).ready(function()
+{
   // LET'S DO THE INITIALIZATION STUFFS HERE
 
   // INITIALIZE THE UPDATE BUTTON STATE DISABLED
@@ -18,7 +19,8 @@ $(document).ready(function(){
  });
 
 // INTERNET CONNECTION CHECKING FUNCTION
-function chkinter() {
+function chkinter() 
+{
   // CHECK THE CONNECTION TO THE INTERNET
   $.get("../php/chkinter.php",
   function(data, status)
@@ -29,12 +31,14 @@ function chkinter() {
       // YES, ONLINE
       $("#updatebtn").prop("disabled", false);
       $("#updatebtn").prop("value", "ADD OR UPDATE OFFLINE SITES");
+      $(".updatetd").show();
     }
     else
     {
       // NO, OFFLINE
       $("#updatebtn").prop("disabled", true);
       $("#updatebtn").prop("value", "WORKING OFFLINE");
+      $(".updatetd").hide();
     }
   });
 }
@@ -67,15 +71,17 @@ function showRachel()
   // CREATE AN IFRAME ELEMENT HOSTING THE MENU OF SITES WITH AN
   // EVENT TO HANDLE THE DOCUMENT CONTENT ONCE IT IS LOADED
   // THE DOCUMENT CONTENT IS DOWNLOADED FROM PHP BY browse.php
-  div.innerHTML =  "<iframe id='rachel' style='width: 100%; height: 550px;' src='php/browse.php?url=http://dev.worldpossible.org/cgi/rachelmods.pl' onLoad='iframeContentChanged(web)'></iframe>";
+  div.innerHTML =  "<iframe id='rachel' style='width: 96%; height: 600px;' src='php/browse.php?url=http://dev.worldpossible.org/cgi/rachelmods.pl' onLoad='iframeContentChanged(web)'></iframe>";
 
   var divLog = document.getElementById('rsynclog');
   divLog.innerHTML = "";
   $("#rsynclog").hide();
+  $("#rsynclogheader").hide();
 };
 
 function showhome()
 {
+  // NAVIGATES TO THE HOME PAGE
   window.location = "http://www.rachel.com";
 }
 // EVENT HANDLER FOR THE MENU OF SITES LOADED
@@ -92,6 +98,7 @@ function iframeContentChanged(type)
   });
 };
 
+// CHANGE THE ORIGINAL LINKS FOR THE MODULE DOWNLOAD FRAME
 function changeLinks()
 {
   // GET IFRAME DOCUMENT FOR THE MENU OF SITES
@@ -119,11 +126,13 @@ function iframeNavigated(elementId)
 
   var logDiv = document.getElementById('rsynclog');
   logDiv.style.display ='none';
+  var logDivHeader = document.getElementById('rsynclogheader');
+  logDivHeader.style.display ='none';
 
   // CREATE AN IFRAME ELEMENT HOSTING THE SELECTED SITE WITH
   // AN EVNT TO HANDLE THE DOCUMENT CONTENT ONCE IT IS LOADED
   // THE DOCUMENT CONTENT IS DOWNLOADED FROM PHP BY browsemod.php
-  divmod.innerHTML =  "<iframe id='rachelmod' style='width: 100%; height: 550px; float: left' src='php/browsemod.php?url=" +
+  divmod.innerHTML =  "<iframe id='rachelmod' style='width: 98%; height: 600px; float: left' src='php/browsemod.php?url=" +
   elementId.href + "' onLoad='iframeModContentChanged(mod)'></iframe>";
 };
 
@@ -140,10 +149,6 @@ function iframeModContentChanged(type)
   if (rsync.length > 0) 
   {
     var aElements = iframemodDocument.getElementsByTagName('a');
-    // AS THE RSYNC COMMAND LINE IS PRESENT
-    // LET´S ENABLE THE UPDATE BUTTON
-//    var button = document.getElementById('b1');
-//    button.disabled = false;
     // CHECK IF THE SITE IS PRESENT IN THE
     // TABLE OF ALREADY REGISTERED SITES
     fetchSite();
@@ -178,6 +183,7 @@ function changeModLinks(iframemodDocument)
 // RETURN TO THE MENU OF SITES PAGE
 function iframeModNavigated(elementId)
 {
+  // GO BACK TO HOME PAGE
   showRachel();
 };
 
@@ -243,40 +249,43 @@ function fetchSite()
         // SEARCH THE <a> ELEMENTS TO FIND THE SIGN UP
         for(var i = 0; i < aElements.length; i++)
         {
+          // IF THIS IS A LINK TO A DOWNLOADABLE SITE ...
           if(aElements[i].href == aElements[i].textContent)
           {
+            // ... WE GET THE LINK AND CONFIGURE THE
+            // CLICK EVENT FOR A DOWNLOAD FUNCTION
             enlace = aElements[i].href;
             aElements[i].onclick = function(){download(comandoDeDescarga, enlace)};
           }
-            
+          
+          // WHEN WE FIND THE Sign Up ELEMENT ...  
           if(aElements[i].textContent == 'Sign Up')
           {
-            var downloadElement = iframemodDocument.getElementById('download');
- 
             // SIGN UP FOUND, CHANGE IT TO ...
             if(data == 'EXISTENTE')
             {
               // ... UPDATE IF EXISTENT
-  //            button.textContent = 'UPDATE';
               aElements[i].textContent = 'UPDATE';
-              // DELETE THE ORIGINAL LINK
-              aElements[i].href = "";
             }
             else
             {
               // ... DOWNLOAD IF NON EXISTENT
               aElements[i].textContent = 'DOWNLOAD';
-//              button.textContent = 'DOWNLOAD';
-              // DELETE ORIGINAL LINK
-              aElements[i].href = "";
             }
+            // DELETE THE ORIGINAL LINK
+            aElements[i].href = "";
+
             // ASSIGN A HANDLER TO THE UPDATE/DOWNLOAD FUNCTION
-            aElements[i].onclick = function(){download(comandoDeDescarga, enlace)};          }
-           // CHANGE THE LOGIN LINK TO MODULES
-            if(aElements[i].textContent == 'Login')
-            {
-              aElements[i].textContent = 'MODULES'; 
-            }
+            aElements[i].onclick = function(){download(comandoDeDescarga, enlace)};
+          }
+
+         // CHANGE THE LOGIN LINK TO DOWNLOAD TOO
+          if(aElements[i].textContent == 'Login')
+          {
+            aElements[i].textContent = 'SITE'; 
+            aElements[i].href = "";
+            aElements[i].onclick = function(){download(comandoDeDescarga, enlace)};
+          }
         }
       }
     );
@@ -285,11 +294,12 @@ function fetchSite()
 
 // FUNCTION TO DOWNLOAD THE SITE
 var downloadconsole = "connecting to repository ... <br>";
-var chklog;
-var readPending;
+
+// THE FUNCTION TO HANDLE THE SITE DOWNLOAD
 function download(command, link)
 {
   var logDiv = document.getElementById('rsynclog');
+  var logDivHeader = document.getElementById('rsynclogheader');
 
   var moddiv = document.getElementById('mod');
   var rachelmod = document.getElementById('rachelmod');
@@ -298,6 +308,10 @@ function download(command, link)
   var tdElements = iframemodDocument.getElementsByTagName('td');
   for (var i = 0; i < tdElements.length; i++) {
     var td = tdElements[i];
+    if(td.innerHTML == 'Title')
+    {
+      var title = tdElements[i+1].innerHTML;
+    }
     if(td.innerHTML == 'Description')
     {
       var description = tdElements[i+1].innerHTML;
@@ -305,19 +319,22 @@ function download(command, link)
     }
   }
 
+  var imgElements = iframemodDocument.getElementsByTagName('img');
+  var img = imgElements[0];
+   
   moddiv.style.width = '50%';
 
   logDiv.style.display = 'inline';
-
-  chklog = true;
-  readPending = true;
+  logDivHeader.style.display = 'inline';
 
   // FOR THE PHP REQUEST
   $.post("../php/download.php",
     {
       rsync: command,
       link: link,
-      description: description
+      description: description,
+      imgsrc: img.src,
+      title: title
     },
   // TO HANDLE THE FETCH READY STATE
     function(data, status)
@@ -329,28 +346,29 @@ function download(command, link)
         downloadconsole += data;
         logDiv.innerHTML += data;
       }
-      readPending = false;
     }
   );
 
+  // SETS A 3 SECONDS DELAY TO START THE CONSOLE READ
   setTimeout(function() {readConsole(command)}, 5000);
-  return;
 };
 
-var nline;
+// STARTS THE CONSOLE READ
 var interval;
 function readConsole(command)
 {
-  nline = 0;
+  // CHECK THE CONSOLE EVERY 1 SECOND
   interval = setInterval(function(){intervalConsoleRead(command)}, 1000);
 }
 
+// CONSOLE READ INTERVAL
 function intervalConsoleRead(command)
 {
+  // GET THE DIV TO SHOW THE CONSOLE READ
   var logDiv = document.getElementById('rsynclog');
+  // AJAX POST TO READ THE CONSOLE
   $.post("../php/con.php",
     {
-      nline: nline,
       command: command
     },
     function(data, status){
@@ -384,15 +402,78 @@ function intervalConsoleRead(command)
         console.log(err.message + " ID = " + id);
       }
 
-      nline += data.length - 1;
-
-
       if(data.search("total size") != -1)
       {
-        readPending = false;
-        console.log('read done');
         clearInterval(interval);
+        logDiv.innerHTML += "<br>DOWNLOAD COMPLETED";
+        logDiv.scrollTop = topPos;
       }
     }
   );
+}
+
+// FUNCTION TO UPDATE THE OFFLINE SITE
+function updatesite(rownum) 
+{
+  // CONFIGURE THE ID OF THE UPDATE LINK FOR THIS ROW
+  var id = "#update_" + rownum;
+
+  // SAVE THE UPODATE LINK HTML CONTENT
+  var tdHtml = $(id).html();
+
+  // CONFIGURE THE ID OF THE OFFLINE SITE'S LINK FOR THIS ROW
+  var linkId = "#link_" + rownum;
+
+  // SAVE THE ACTUAL LINK TO THIS SITE
+  var linkHref = $(linkId).attr("href");
+
+  // DISABLE THE OFFLINE SITE'S
+  // NAVIGATION WHILE IT IS UPDATING
+  $(linkId).removeAttr("href");
+
+  // STARTS SHOWING THE DOWNLOAD ACTIVITY
+  $(id).html("Updating<br>");
+
+  // SETS THE DOWNLOAD ACTIVITY FUNCTION
+  var interval = setInterval(function(){
+    updating(id);
+  }, 500);
+
+  // REQUEST THE UPDATE OF THE SITE
+  $.post("../php/updatesite.php",
+    {
+      rownum: rownum
+    },
+    function(data, status){
+      // AT THE END OF THE UPDATE WE RESTORE THE
+      // UPDATE LINK TO ITS ORIGINAL CONTENT
+      $(id).html(tdHtml);
+      // STOPS THE DOWNLOAD ACTIVITY FUNCTION
+      clearInterval(interval);
+      // RESTORE THE OFFLINE SITE'S LINK
+      $(linkId).attr("href", linkHref);
+    }
+  );
+
+  // SHOW A UPDATING ACTIVITY
+  function updating(id) {
+    // SAVE THE CURRENT PROGRESS     
+    var idHtml = $(id).html();
+    // IF WE GOT THE MAX LENGTH FOR THE PROGRESS MESSAGE ...
+    if(idHtml.length > 20)
+    {
+      // ... RESTART IT
+      $(id).html("Updating<br>");
+    }
+    else
+    {
+      // ... OTHERWISE ADD A PROGRESS INDICATOR
+      $(id).html($(id).html() + ">");
+    }
+  }
+}
+
+function deletesite(rownum) {
+  // body...
+  alert(rownum);
 }

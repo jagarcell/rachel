@@ -9,19 +9,21 @@
     <script type="text/javascript" src="js/indexScript.js"></script>
     <script type="text/javascript" src="js/repmenu.js"></script>
   </head>
-  <body style="width: 100%; height: 600px;">
+  <body style="width: 100%; height: 590px;">
     <div style="width: 100%; align-items: center; text-align: center;">
-      <div style="width: 100%; height: 40px;  align-items: center; text-align: center;">
-        <!--button id="updatebtn" style="float: left; width: 250px; text-align: center;" onclick="showRachel()"></button-->
+      <div style="width: 98%; height: 40px;  align-items: center; text-align: center;">
         <input type="button" id="updatebtn" style="display: block; margin: 0 auto;" onclick="showRachel()">  
       </div>  
-      <div id="web" style="width: 100%; height: 550px;">
+      <div id="web" style="width: 96%; height: 600px;">
       </div>
-      <div id="repmenu" style="width: 100%; height: 550px; text-align: center;">
+      <div id="repmenu" style="overflow: scroll; width: 98%; height: 600px; text-align: center; border-width: 1px; border-style: solid;">
       </div>
-      <div id="mod" style="width: 100%; height: 550px; float: left; display: none;">
+      <div id="mod" style="width: 98%; height: 600px; float: left; display: none;">
       </div>
-      <section id="rsynclog" style="overflow: scroll; width: 49%; height: 600px; float: right; display: none; scroll-behavior: auto; word-wrap: break-word; border-style: solid;  border-width: 1px;">
+      <section id="rsynclogheader" style="width: 45%; height: 40px; float: right; display: none; text-align: center;">
+                PROGRESS OF THE DOWNLOAD
+      </section>
+      <section id="rsynclog" style="overflow: scroll; width: 48%; height: 560px; float: right; display: none; scroll-behavior: auto; word-wrap: break-word; border-style: solid;  border-width: 1px;">
       </section>
     </div>
   </body>

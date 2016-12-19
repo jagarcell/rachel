@@ -2,8 +2,14 @@
   $rsync = $_REQUEST["rsync"];
   $link = $_REQUEST["link"]; 
   $description = $_REQUEST["description"];
-  $retval = 0;
+  $imgsrc = $_REQUEST["imgsrc"];
+  $title = $_REQUEST["title"];
 
+  // EXPLODE THE src STRING TO GET THE IMAGE NAME
+  $imgarray = explode("/", $imgsrc);
+  $imgname = $imgarray[count($imgarray) - 1];
+
+  // NORMALIZE THE rsync COMMAND REMOVING THE TARGER DIRECTORY
   $command = $rsync;
   str_replace(" ./", "", $command);
 
@@ -21,6 +27,9 @@
   // WITH THE ORIGIN NAME UNDER /var/www AND OUTPUT THE DOWNLOAD PROGRESS
   // TO FILE CALLED WITH THE SAME SUBDIRECTORY NAME AND THE .txt EXTENSION
   $rsync = str_replace("./", "/var/www/ > /var/www/html/" . $dir . ".txt", $rsync);
+
+  // VARIABLE TO HOLD THE rsync RESULT
+  $retval = 0;
 
   // EXECUTE THE RSYNC COMMAND	  
   system($rsync, $retval);
@@ -58,7 +67,7 @@
       echo "ERROR AL BUSCAR EN LA TABLA";
       return;
     }
-
+    
     // AS WE GOT A RESULT FROM THE DB WE CHECK
     // IF THE  SITE IS ALREADY REGISTERED
     $row = pg_fetch_row($result);
@@ -67,19 +76,23 @@
     {
       // IF THE SITE IS NOT YET REGISTERED
       // WE WILL TRY TO REGISTER IT
+
+      // WE REPLACE ALL THE ' CHARACTERS BY '' TO
+      // AVOID ERROR WHEN UPDATING THE POSTGRESQL DB
       $enlace = str_replace("'", "''", $enlace);
       $command = str_replace("'", "''", $command);
       $description = str_replace("'", "''", $description);
+      $title = str_replace("'", "''", $title);
 
+      // LET'S INSERT THE DATA IN THE CONFIG DB
       $result = pg_query($conn, "INSERT INTO enlaces(
-              enlace, comando, description)
-          VALUES ('$enlace', '$command', '$description');");
+              enlace, comando, description, image, title)
+          VALUES ('$enlace', '$command', '$description', '$dir/$imgname', '$title');");
 
       // IF THERE WAS AN ERROR DURING THE
       // REGISTRATION PROCESS WE WILL REPORT IT
       if(!$result)
       {
-        echo "<br>$command<br>";
         echo "ERROR AL REGISTRAR EN LA TABLA";
         return;
       }
@@ -88,11 +101,30 @@
         // AS THERE WAS NO PROBLEM REGISTERING THE
         // SITE LET'S CONFIGURE THE ACCESS TO IT
 
+        // LET'S SAVE THE
+        $cwd = getcwd();
+
+        // CHANGE WORKING DIRECTORY  
+        chdir("/var/www/html/img");
+        $newwd = getcwd();
+        // MAKE A DIRECTORY UNDER img TO HOST
+        // THE IMAGE FOR THE DOWNLOADING SITE
+        mkdir($dir);
+
+        // WE GO BACK TO THE PREVIOUS WORKING DIRECTORY
+        chdir($cwd);
+
+        // ... AND THE WE COPY THE IMAGE FROM THE REPOSITORY
+        // TO THE PATH CREATED
+        copy($imgsrc, "$newwd/$dir/$imgname");
+
         // REGISTER THE HOST IN THE HOSTS FIE
         $hostscount = file_put_contents("/etc/hosts", "\n127.0.0.1  " . "$enlace", FILE_APPEND);
 
         // REGISTER THE HOST IN APACHE2
         $fileconf = "/etc/apache2/sites-available/" . "$dir" . ".com.conf";
+        // WRITE THE CONFIGURATION TO THE
+        // conf FILE ON sites-available
         $apache2confcount = file_put_contents($fileconf, 
               "<VirtualHost *:80>
           # The ServerName directive sets the request scheme, hostname and port that
@@ -128,6 +160,8 @@
 
         # vim: syntax=apache ts=4 sw=4 sts=4 sr noet");
 
+        // NOW WE WRITE THE CONFIGURATION TO THE
+        // conf FILE ON THE sites-enbled DIRECTORY
         $fileconf = "/etc/apache2/sites-enabled/" . "$dir" . ".com.conf";
         $apache2confcount = file_put_contents($fileconf, 
               "<VirtualHost *:80>
@@ -164,10 +198,9 @@
 
         # vim: syntax=apache ts=4 sw=4 sts=4 sr noet");
 
+        // RELOAD THE APACHE2 SERVICE TO MAKE AVILABLE THE CHANGES
         system("sudo service apache2 reload", $result);
       }
     }
   }
-
-//  echo $retval . " " . $rsync . " hosts = " . $hostscount;
 ?>

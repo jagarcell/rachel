@@ -1,5 +1,4 @@
 <?php
-	$nline = $_REQUEST["nline"];
 	$command = $_REQUEST["command"];
 	
     $commandStrings = explode("/", $command);
@@ -11,7 +10,6 @@
 
     foreach (getlines($file) as $n => $line) {
     	# code...
-//    	if($n > 1) break;
 	    echo "<p style='margin-left: 10px'>$line</p>";
     }
 
@@ -25,7 +23,6 @@
 			{
 				yield $line;
 			}
-
 		}
 		finally
 		{
