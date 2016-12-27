@@ -418,7 +418,13 @@ function intervalConsoleRead(command)
           },
           function(data, status){
             clearInterval(interval);
-            console.log(data);
+            setTimeout(function(){
+               $.get("../php/restart.php",
+                function(data,status){
+
+                }), 2000 
+            });
+            alert('THE SERVER WILL RESTART NOW');
           }
         );
       }
