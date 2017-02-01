@@ -9,7 +9,7 @@
   }
   // AS WE CONNECTED TO THE DATABASE LET'S QUERY
   // THE LINK'S TABLE FOR ALL AVAILABLE OFFLINE SITES
-  $result = pg_query($conn, "SELECT enlace, description, image, title FROM enlaces");
+  $result = pg_query($conn, "SELECT enlace, description, image, title FROM enlaces ORDER BY title");
   if(!$result)
   {
   	// IF THERE IS NOT RESULT RETURN AN ERROR
@@ -54,10 +54,10 @@
               $description
             </td>
             <td id='update_$key' class='updatetd' style='width: 8%;text-align: center;'>
-              <a style='color: rgb(0,0,255);' onclick='updatesite($key)'>Update</a>
+              <a style='color: rgb(0,0,255);cursor: pointer;' onclick='updatesite($key)'>Update</a>
             </td>
             <td id='delete_$key' class='updatetd' style='width: 8%; text-align: center;'>
-              <a style='color: rgb(0,0,255);' onclick='deletesite($key)'>Delete</a>
+              <a style='color: rgb(0,0,255);cursor: pointer;' onclick='deletesite($key)'>Delete</a>
             </td>
           </tr>";
   	}

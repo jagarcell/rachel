@@ -6,7 +6,7 @@
 	$conn = pg_connect("host=localhost dbname=configdb user=postgres password=postgres");
 
 	// REPORT IF THERE IS AN ERROR CONNECTING TO THE DATABASE
-	if(!$conn)
+	if($conn === false)
 	{
 		// IF ERROR CONNECTING RETURN
 		echo "ERROR CONNECTING TO THE CONFIG DATABASE";
@@ -17,7 +17,7 @@
 	$result = pg_query("SELECT comando FROM enlaces");
 
 	// IF THERE IS AN ERROR FETCHING THE TABLE ...
-	if(!$result)
+	if($result === false)
 	{
 		// ... REPORT IT AND RETURN
 		echo "ERROR FETCHING THE TABLE";
@@ -39,8 +39,15 @@
 	$dir = explode(" ", $dir)[0];
 	$fullDir = "/var/www/$dir";
 
+	$result = pg_query("DELETE FROM enlaces WHERE comando='$comando'");
+	if($result === false)
+	{
+		echo "ERROR DELETING MENU ENTRY FROM THE CONFIG DATABASE";
+		return;
+	}
+
 	// DELETE THE DIRECTORY THAT HOSTS THE OFFLINE SITE
-	if(!delTree($fullDir))
+	if(delTree($fullDir) === false)
 	{
 		// IF THERE WAS AN ERROR DELETING
 		// THE DIRECTORY REPORT IT AND RETURN 
@@ -50,47 +57,65 @@
 	// IF THE DIRECTORY WAS SUCCESSFULLY DELETED LET'S
 	// PROCEED WITH THE DELETION OF THE HOST FROM HOSTS FILE
 	$originalHostsFile = fopen("/etc/hosts", 'r');
-	if(!$originalHostsFile)
+	if($originalHostsFile === false)
 	{
 		echo "HOSTS FILE COULD NOT BE OPENED";
 		return;
 	}
 	$newHostsFile = fopen("/etc/myhosts", 'w+');
-	if(!$newHostsFile)
+	if($newHostsFile === false)
 	{
 		echo "THE NEW HOSTS FILE COULD NOT BE CREATED";
 		return;
 	}
 
-	while($line = fgets($originalHostsFile))
+	$line = fgets($originalHostsFile);
+	while($line !== false)
 	{
-		if(!stripos($line, $dir))
+		if(stripos($line, $dir) === false)
 		{
 			fwrite($newHostsFile, $line);
 		}
+		$line = fgets($originalHostsFile);
 	}
 	
 	fclose($originalHostsFile);
 	fclose($newHostsFile);
 
-	if(!unlink("/etc/hosts"))
+	if(unlink("/etc/hosts") === false)
 	{
 		echo "ERROR DELETING OLD HOSTS FILES";
 		return;
 	}
 
-	if(!rename("/etc/myhosts", "/etc/hosts"))
+	if(rename("/etc/myhosts", "/etc/hosts") === false)
 	{
-		echo "ERROR RENAME OLD NEW HOST FILE";
+		echo "ERROR RENAMING NEW HOST FILE";
 		return;	
 	}
 
-	$result = pg_query("DELETE FROM enlaces WHERE comando='$comando'");
-	if(!$result)
+	if(unlink("/etc/apache2/sites-available/$dir.com.conf") === false)
 	{
-		echo "ERROR DELETING MENU ENTRY FROM THE CONFIG DATABASE";
+		echo "ERROR DELETING APACHE2 AVAILABLE-SITE CONFIGURATION";
 		return;
 	}
+
+	if(unlink("/etc/apache2/sites-enabled/$dir.com.conf") === false)
+	{
+		echo "ERROR DELETING APACHE2 AVAILABLE-SITE CONFIGURATION";
+		return;
+	}
+
+	// DELETE THE DIRECTORY THAT HOSTS THE OFFLINE SITE LOGO
+	if(delTree("/var/www/html/img/$dir") === false)
+	{
+		// IF THERE WAS AN ERROR DELETING
+		// THE DIRECTORY REPORT IT AND RETURN 
+		echo "ERROR DELETING THE DIRECTORY /var/www/html/img/$dir";
+		return;
+	}
+
+	echo "THE SITE HAS BEEN SUCCESSFULLY DELETED";
 
 	// FUNCTION TO DELETE THE DIRECTORY, FILES AND SUBDIRECTORIES
 	function delTree($dir)

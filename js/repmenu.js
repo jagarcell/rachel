@@ -4,7 +4,7 @@ $(document).ready(function(){
 
 function showMenu() {
 	// ONCE THE DOCUMENT IS LOADED LET'S
-	// THE OFFLINE SITES LINK'S MENU
+	// RENDER THE OFFLINE SITES LINK'S MENU
 
 	// SHOW THE PREVIOUS HIDEN MENU DIV
 	$("#repmenu").show();
@@ -15,5 +15,6 @@ function showMenu() {
 		// DATA COMES WITH THE LINKS OF THE OFFLINE SITES
 //		$("#repmenu").html($("#repmenu").html() + "<br>" + data);
 		$("#repmenu").html(data);
+		$(".updatetd").hide();
 	});	
 }

@@ -4,6 +4,7 @@
   $description = $_REQUEST["description"];
   $imgsrc = $_REQUEST["imgsrc"];
   $title = $_REQUEST["title"];
+  $iface = $_REQUEST["iface"];
 
   // EXPLODE THE src STRING TO GET THE IMAGE NAME
   $imgarray = explode("/", $imgsrc);
@@ -50,7 +51,7 @@
 	  $conn = pg_connect("host= localhost dbname=configdb user=postgres password=postgres");
 
     // CHECK IF WE GOT CONNECTION
-	  if(!$conn)
+	  if($conn === false)
 	  {
       // THERE WAS AN ERROR CONNECTING
 
@@ -63,7 +64,7 @@
     $result = pg_query($conn, "SELECT enlace, comando FROM enlaces WHERE comando='$command'");
 
     // IF WE DON'T GET A RESULT FROM THE DB REPORT IT
-    if(!$result)
+    if($result === false)
     {
       echo "ERROR FETCHING THE TABLE";
       return;
@@ -73,7 +74,7 @@
     // IF THE  SITE IS ALREADY REGISTERED
     $row = pg_fetch_row($result);
 
-    if(!$row)
+    if($row === false)
     {
       // IF THE SITE IS NOT YET REGISTERED
       // WE WILL TRY TO REGISTER IT
@@ -92,9 +93,9 @@
 
       // IF THERE WAS AN ERROR DURING THE
       // REGISTRATION PROCESS WE WILL REPORT IT
-      if(!$result)
+      if($result === false)
       {
-        echo "ERROR AL REGISTRAR EN LA TABLA";
+        echo "ERROR DURING THE TABLE WRITING";
         return;
       }
       else
@@ -119,8 +120,10 @@
         // TO THE PATH CREATED
         copy($imgsrc, "$newwd/$dir/$imgname");
 
+        $ipAddr = getipaddr($iface);
+
         // REGISTER THE HOST IN THE HOSTS FIE
-        $hostscount = file_put_contents("/etc/hosts", "\n127.0.0.1  " . "$enlace", FILE_APPEND);
+        $hostscount = file_put_contents("/etc/hosts", "\n$ipAddr  " . "$enlace", FILE_APPEND);
 
         // REGISTER THE HOST IN APACHE2
         $fileconf = "/etc/apache2/sites-available/" . "$dir" . ".com.conf";
@@ -202,7 +205,51 @@
         // RELOAD THE APACHE2 SERVICE TO MAKE AVILABLE THE CHANGES
         system("sudo service apache2 reload", $result);
         rename("/var/www/$dir/rachel-index.php", "/var/www/$dir/index.php");
+        echo "NEW SITE DOWNLOADED";
       }
     }
+    else
+    {
+        // LET'S SAVE THE
+        $cwd = getcwd();
+
+        // CHANGE WORKING DIRECTORY  
+        chdir("/var/www/html/img");
+        $newwd = getcwd();
+        // MAKE A DIRECTORY UNDER img TO HOST
+        // THE IMAGE FOR THE DOWNLOADING SITE
+        mkdir($dir);
+
+        // WE GO BACK TO THE PREVIOUS WORKING DIRECTORY
+        chdir($cwd);
+
+        // ... AND THE WE COPY THE IMAGE FROM THE REPOSITORY
+        // TO THE PATH CREATED
+        copy($imgsrc, "$newwd/$dir/$imgname");
+        echo "SITE UPDATED";
+    }
+  }
+
+  function getipaddr($iface)
+  {
+      // WE GET HE INFO FROM THE INTERFACE BY
+      // MEAN OF THE ip addr show COMMAND
+      $localIP = exec('ip addr show', $output);
+      // LOOP THROUGH THE localIP INFO ARRAY UNTIL
+      // WE SEE THE REQUESTED INTERFACE NAME
+      foreach ($output as $key => $value) {
+        // IS THIS THE INTERFACE WE ARE LOOKING FOR?
+        if(strstr($value, $iface))
+        {
+          // WE GOT A MATCH SO LET'S GET THE IP SECTION
+          $ifInfoArray = split("/", $output[$key+2]);
+          $ipArray = split("inet", $ifInfoArray[0]);
+          // HERE IS THE IP, LET'S ECHO IT
+          return $ipArray[1];
+        }
+      }
+      // THE REQUESTED INTERFACE IS NOT PRESENT
+      // SO WE ECHO THE ERROR MESSAGE
+      return "ADAPTER NOT FOUND";
   }
 ?>
