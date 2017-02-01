@@ -7,9 +7,11 @@ $(document).ready(function()
 
   // INITIALIZE THE UPDATE BUTTON STATE DISABLED
   $("#web").hide();
+//  $("#updatebtn").hide();
+  $("#updatebtndiv").hide();
 
   // THIS IS AN INMEDIATE CHECKING FOR INTERNET CONNECTION
-  chkinter();
+  //  chkinter();
 
   // SET A PERIODIC INTERNET CONNECTION CHECKING
   conninterval = setInterval(function () {
@@ -29,16 +31,18 @@ function chkinter()
     if(data.length > 0)
     {
       // YES, ONLINE
-      $("#updatebtn").prop("disabled", false);
-      $("#updatebtn").prop("value", "ADD OR UPDATE OFFLINE SITES");
+//      $("#updatebtn").show();
+//      $("#updatebtn").prop("text", "ADD OR UPDATE OFFLINE SITES");
       $(".updatetd").show();
+      $("#updatebtndiv").show();
     }
     else
     {
       // NO, OFFLINE
-      $("#updatebtn").prop("disabled", true);
-      $("#updatebtn").prop("value", "WORKING OFFLINE");
+//      $("#updatebtn").hide();
+//      $("#updatebtn").prop("value", "WORKING OFFLINE");
       $(".updatetd").hide();
+      $("#updatebtndiv").hide();
     }
   });
 }
@@ -82,7 +86,13 @@ function showRachel()
 function showhome()
 {
   // NAVIGATES TO THE HOME PAGE
-  window.location = "http://www.rachel.com";
+  $.get("../php/config.php",
+    {mode:'get'},
+    function(data, status)
+    {
+      var config = JSON.parse(data);
+      window.location = "http://" + config['homepage'];
+    });
 }
 // EVENT HANDLER FOR THE MENU OF SITES LOADED
 function iframeContentChanged(type)
@@ -335,22 +345,32 @@ function download(command, link)
       link: link,
       description: description,
       imgsrc: img.src,
-      title: title
+      title: title,
+      iface: "wlan0"
     },
   // TO HANDLE THE FETCH READY STATE
     function(data, status)
     {
       // IF IT WAS CORRECTLY PROCCESSED ...
       // ... PROCEED TO NEXT STEP
-      if(data.length > 0)
-      {
-        downloadconsole += data;
-        logDiv.innerHTML += data;
-        if(str.indexof('ERROR') >= 0)
+      var str = data;
+      clearInterval(interval);
+
+      $.get("../php/restartservices.php",
+        function(data, status)
         {
-          clearInterval(interval);
+          downloadconsole += str;
+          logDiv.innerHTML += str;
+          if(data == "OK")
+          {
+            alert("THE SITE WAS SUCCESSFULLY DOWNLOADED AND SHOULD BE NOW AVAILABLE");
+          }
+          else
+          {
+            alert("THE SITE WAS SUCCESSFULLY DOWNLOADED BUT MAY NOT BE AVAILABLE UNTIL YOU RESTART THE SERVER");
+          }
         }
-      }
+      );
     }
   );
 
@@ -409,7 +429,7 @@ function intervalConsoleRead(command)
       if(data.search("total size") != -1)
       {
         clearInterval(interval);
-        logDiv.innerHTML += "<br>DOWNLOAD COMPLETED";
+        logDiv.innerHTML += "<br>DOWNLOAD COMPLETED<br>";
         logDiv.scrollTop = topPos;
         $.post("../php/con.php",
           {
@@ -418,13 +438,7 @@ function intervalConsoleRead(command)
           },
           function(data, status){
             clearInterval(interval);
-            setTimeout(function(){
-               $.get("../php/restart.php",
-                function(data,status){
 
-                }), 2000 
-            });
-            alert('THE SERVER WILL RESTART NOW');
           }
         );
       }
@@ -498,8 +512,34 @@ function deletesite(rownum) {
   $.post("../php/deletesite.php",
     {rownum:rownum},
     function(data, status){
+      alert(data);
       $("#repmenu").html("");
       showMenu();
     }
   );
+}
+
+function settings() {
+  // body...
+  console.log("settings");
+  $.post("../php/config.php",
+    {
+      mode: 'get'
+    },
+    function(data, status){
+      var config = JSON.parse(data);
+      var homepage = config['homepage'];
+      window.location = "http://" + config['homepage'] + "/config.html";
+    }
+  );
+}
+
+function teacherlesson() {
+  // body...
+  alert("TEACHER'S LESSON FEATURE COMING SOON HERE");
+}
+
+function about() {
+  // body...
+  alert("OFFLINE EDUCATION VER 1.00");
 }

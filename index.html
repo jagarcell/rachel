@@ -8,12 +8,27 @@
     <script type="text/javascript" src="js/jquery-3.1.1.js"></script>
     <script type="text/javascript" src="js/indexScript.js"></script>
     <script type="text/javascript" src="js/repmenu.js"></script>
+
   </head>
   <body style="width: 100%; height: 590px;">
     <div style="width: 100%; align-items: center; text-align: center;">
-      <div style="width: 98%; height: 40px;  align-items: center; text-align: center;">
-        <input type="button" id="updatebtn" style="display: block; margin: 0 auto;" onclick="showRachel()">  
-      </div>  
+      <div id="updatebtndiv" class="mainmenu">
+        <!---input type="button" id="updatebtn" style="display: block; margin: 0 auto;" onclick="showRachel()"-->
+        <a id="updatebtn" class="link" onclick="showRachel()">Add Offline Sites</a>        
+
+      </div>
+
+      <div class="mainmenu">
+        <a id="teacherlesson" class="link" onclick="teacherlesson()">Teacher's Lesson</a>
+      </div>
+
+      <div class="mainmenu" style="width: 10%; float: right;">
+        <a id="about" class="link" onclick="about()">About</a>
+      </div>
+      <div class="mainmenu" style="width: 10%; float: right;">
+        <a id="settings" class="link" onclick = 'settings()'>Settings</a>
+      </div>
+
       <div id="web" style="width: 96%; height: 600px;">
       </div>
       <div id="repmenu" style="overflow: scroll; width: 98%; height: 600px; text-align: center; border-width: 1px; border-style: solid;">

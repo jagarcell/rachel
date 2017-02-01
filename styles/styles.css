@@ -7,6 +7,22 @@ main { padding: 0 20px; }
 li { margin-bottom: 10px; }
 pre { background: #ddd; padding: 10px; border-radius: 10px; }
 
+tr.buttons{
+    border: none;
+}
+div.mainmenu{
+    float: left; 
+    height: 40px;
+    width: 200px;
+    align-items: center; 
+    text-align: center;
+}
+
+.link{
+    cursor: pointer; 
+    color: rgb(0,0,255);
+}
+
 #rightnav {
     float: right;
     margin: 10px;
