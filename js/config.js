@@ -3,6 +3,12 @@ var adminpassword;
 $(document).ready(
 	function(){
 		$("#config").hide();
+		$("#password").keypress(function(e){
+			if(e.keyCode == 13)
+			{
+				$("#loginbtn").click();
+			}
+		});
 		$.get("../php/config.php",
 			{mode:'get'},
 			function(data, status){
@@ -52,8 +58,20 @@ $(document).ready(
 				$("#homepage").val(config['homepage']);
 				$("#adminpassword").val("password");
 
+				var inlinenavigation = config['inlinenavigation'];
+				switch(inlinenavigation)
+				{
+					case 'inlinenavigation':
+						$("#inlinenavigation").attr("checked", "checked");
+						navigationstylechanged("inlinenavigation");
+						break;
+					case 'tabnavigation':
+						$("#tabnavigation").attr("checked", "checked");
+						navigationstylechanged("tabnavigation");
+						break;					
+				}
+
 				adminpassword = config['adminpassword'];
-				console.log("ADMIN PASS = " + adminpassword);	
 				validateiprange();
 				$("#password").focus();
 			}
@@ -83,6 +101,9 @@ function ipaddress(){
 function configsave() {
 	// body...
 	adminpassword = passwd2hash($("#adminpassword").val());
+
+	var selected = $("input[type='radio'][name='navigation style']:checked");
+	var inlinenavigation = selected.val();
 
 	$.post("../php/config.php",
 		{
@@ -115,7 +136,8 @@ function configsave() {
 			concession:$("#concession").val(),
 
 			homepage:$("#homepage").val(),
-			adminpassword: adminpassword
+			adminpassword: adminpassword,
+			inlinenavigation: inlinenavigation
 		},
 
 		function(data, status){
@@ -131,7 +153,7 @@ function configsave() {
 			}
 			else
 			{
-				alert(config["message"]);
+				confirm(config["message"]);
 			}
 		}
 	);
@@ -158,7 +180,6 @@ function showhome()
 
 function maxclients() {
 	// body...
-	console.log("maxclients");
 	var mask1 = $("#mask1").val();
 	var mask2 = $("#mask2").val();
 	var mask3 = $("#mask3").val();
@@ -206,10 +227,13 @@ function showconfig() {
 		$("#login").hide();
 		$("#config").show();
 		$("#adminpassword").val(document.getElementById("password").value);
+		$("#ssid").focus();
 	}
 	else
 	{
 		alert("THE PASSWORD IS INCORRECT");
+		$("#password").val("");
+		$("#password").focus();
 	}
 }
 
@@ -239,4 +263,17 @@ function passwd2hash(key) {
 	}
 
 	return hash;
+}
+
+function navigationstylechanged(navtype) {
+	// body...
+	switch(navtype)
+	{
+		case 'inlinenavigation':
+			$("#navdescription").html("THE OFFLINE SITE WILL BE SHOWN IN THE SAME PAGE OF THE MAIN MENU SO IT WILL BE ALLWAYS AVAILABLE AT THE TOP.");
+			break;
+		case 'tabnavigation':
+			$("#navdescription").html("THE OFFLINE SITE WILL BE SHOWN IN A NEW TAB. THE MAIN MENU WILL REMAIN IN THE ORIGINAL PAGE");
+			break;	
+	}
 }

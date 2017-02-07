@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -12,16 +11,17 @@
   </head>
   <body style="width: 100%; height: 590px;">
     <div style="width: 100%; align-items: center; text-align: center;">
+
       <div id="updatebtndiv" class="mainmenu">
-        <!---input type="button" id="updatebtn" style="display: block; margin: 0 auto;" onclick="showRachel()"-->
         <a id="updatebtn" class="link" onclick="showRachel()">Add Offline Sites</a>        
-
       </div>
-
+      <div class="mainmenu">
+        <a id="hompage" class="link" onclick="showhome()">Home</a>
+        
+      </div>
       <div class="mainmenu">
         <a id="teacherlesson" class="link" onclick="teacherlesson()">Teacher's Lesson</a>
       </div>
-
       <div class="mainmenu" style="width: 10%; float: right;">
         <a id="about" class="link" onclick="about()">About</a>
       </div>
@@ -33,6 +33,10 @@
       </div>
       <div id="repmenu" style="overflow: scroll; width: 98%; height: 600px; text-align: center; border-width: 1px; border-style: solid;">
       </div>
+
+      <iframe id="offlinesiteframe" src=""  style="overflow: scroll; width: 100%; height: 600px; text-align: center; border-width: 1px; border-style: solid;">
+        
+      </iframe>
       <div id="mod" style="width: 98%; height: 600px; float: left; display: none;">
       </div>
       <section id="rsynclogheader" style="width: 45%; height: 40px; float: right; display: none; text-align: center;">

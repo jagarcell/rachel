@@ -21,7 +21,7 @@
   if($links)
   {
     // STARTS THE OFFLINE SITES MENU TABLE
-    echo "        <table style='width: 98%'>";
+    echo "        <table style='width: 98%; text-align: center'>";
 
   	// LOOP THROUGHT THE LINKS ARRAY ROWS 
   	foreach ($links as $key => $row) {
@@ -41,14 +41,16 @@
       # ASSEMBLY THE OFFLINE SITE ENTRY AND ECHO IT TO BUILD THE MENU
       # WE ADD THE ROW ID $key TO THE updatesite SO THE MENU'S ENTRY
       # WILL KNOW WHICH IS THE CORRESPONDING ROW CONTAINING THE INFO
+      if(false)
+      {
 	  	echo "          <tr style='width: 100%;'>
             <td href='http://$link' style='width: 14%'>
-              <a href='http://$link'>
+              <a href='http://$link' target='_blank'>
                 <img src='$image' style='width: 60px; height:60px'>
               </a>  
             </td>
             <td style='width: 30%; vertical-align: center;'>
-              <a id='link_$key' href='http://$link'>$title</a>
+              <a id='link_$key' href='http://$link' target='_blank'>$title</a>
             </td>
             <td style='width: 40%; vertical-align: top;'>
               $description
@@ -60,6 +62,29 @@
               <a style='color: rgb(0,0,255);cursor: pointer;' onclick='deletesite($key)'>Delete</a>
             </td>
           </tr>";
+        }
+        else
+        {
+          echo "          <tr style='width: 100%;'>
+                <td href='http://$link' style='width: 14%'>
+                  <a>
+                    <img src='$image' onclick='showSite(\"$link\")' class='link' style='width: 60px; height:60px'>
+                  </a>  
+                </td>
+                <td style='width: 30%; vertical-align: center;'>
+                  <a id='link_$key' onclick='showSite(\"$link\")' class='link'>$title</a>
+                </td>
+                <td style='width: 40%; vertical-align: top;'>
+                  $description
+                </td>
+                <td id='update_$key' class='updatetd' style='width: 8%;text-align: center;'>
+                  <a style='color: rgb(0,0,255);cursor: pointer;' onclick='updatesite($key)'>Update</a>
+                </td>
+                <td id='delete_$key' class='updatetd' style='width: 8%; text-align: center;'>
+                  <a style='color: rgb(0,0,255);cursor: pointer;' onclick='deletesite($key)'>Delete</a>
+                </td>
+              </tr>";          
+        }
   	}
 
     // END OF OFFLINE SITES MENU TABLE

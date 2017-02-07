@@ -11,16 +11,16 @@
 		<p>ENTER ADMIN PASSWORD</p>
 		<input style="width: 190px" type="password" name="password" id="password" value="">
 		<br><br>
-		<button style="float: none;" onclick="showconfig()">Login</button>
+		<button id="loginbtn" style="float: none;" onclick="showconfig()">Login</button>
 	</section>
 	<section id="config">
-		<table>
-			<tr>
+		<table name="config table">
+			<tr name="config title">
 				<th colspan="5">
 					SERVER CONFIGURATION
 				</th>
-			</tr>
-			<tr>
+			</tr">
+			<tr name="config ssid">
 				<td class="left">
 					ssid:
 				</td>
@@ -28,7 +28,7 @@
 					<input class="ssid" type="input" name="ssid" id="ssid">
 				</td>
 			</tr>
-			<tr>
+			<tr name="config password">
 				<td class="left">
 					password:
 				</td>
@@ -36,7 +36,7 @@
 					<input class="ssid" type="password" name="pwd" id="pwd">
 				</td>
 			</tr>			
-			<tr>
+			<tr name="config wifi card">
 				<td class="left">
 					wifi card:
 				</td>
@@ -44,7 +44,7 @@
 					<input class="input" name="wificard" id="wificard" disabled="true">
 				</td>
 			</tr>
-			<tr>
+			<tr name="config Ip">
 				<td class="left">
 					Ip:
 				</td>
@@ -61,7 +61,7 @@
 					<input class="ip" type="number" name="ip4" id="ip4" min="0" max="999" onchange="validateiprange();">
 				</td>
 			</tr>
-			<tr>
+			<tr name="config Mask">
 				<td class="left">
 					Mask:
 				</td>
@@ -78,7 +78,7 @@
 					<input class="ip" type="number" id="mask4" value="0" min="0" max="255" onchange="maxclients();">
 				</td>
 			</tr>
-			<tr>
+			<tr name="config dhcp starting ip">
 				<td class="left">
 					dhcp starting ip:
 				</td>
@@ -95,7 +95,7 @@
 					<input class="ip" type="number" name="sip4" id="sip4" min="0" max="999" onchange="validateiprange();">
 				</td>
 			</tr>
-			<tr>
+			<tr name="config dhcp ending ip">
 				<td class="left">
 					dhcp ending ip:
 				</td>
@@ -112,7 +112,7 @@
 					<input class="ip" type="number" name="sip4" id="eip4" min="0" max="999" onchange="validateiprange();">
 				</td>
 			</tr>
-			<tr>
+			<tr name="config concession time(h)">
 				<td class="left">
 					concession time(h):
 				</td>
@@ -120,15 +120,32 @@
 					<input class="ssid" type="input" name="ssid" id="concession">
 				</td>
 			</tr>
-			<tr>
+			<tr name="config Home Page">
 				<td class="left">
 					Home Page:
 				</td>
 				<td colspan="4">
 					<input class="input" type="input" name="homepage" id="homepage">
 				</td>
-			</tr>			
+			</tr>
+			<tr name="config Navigation Style">
+				<td class="left" rowspan="2">
+					Navigation Style:
+				</td>
+				<td colspan="2" style="text-align: center;">
+					<label for="inlinenavigation">Inline</label>
+					<input type="radio" id="inlinenavigation" value="inlinenavigation" name="navigation style" style="width: 20px" onchange="navigationstylechanged('inlinenavigation')">
+
+				</td>
+				<td colspan="2" style="text-align: center;">
+					<label for="tabnavigation">New Tab</label>
+					<input type="radio" id="tabnavigation" value="tabnavigation" name="navigation style" style="width: 20px" onchange="navigationstylechanged('tabnavigation')">
+				</td>
+			</tr>
 			<tr>
+				<td id="navdescription" colspan="4" style="text-align: center; font-style: italic;"></td>
+			</tr>
+			<tr name="config Admin Password">
 				<td class="left">
 					Admin Password:
 				</td>

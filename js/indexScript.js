@@ -7,11 +7,10 @@ $(document).ready(function()
 
   // INITIALIZE THE UPDATE BUTTON STATE DISABLED
   $("#web").hide();
-//  $("#updatebtn").hide();
   $("#updatebtndiv").hide();
+  $("#offlinesiteframe").hide();
 
   // THIS IS AN INMEDIATE CHECKING FOR INTERNET CONNECTION
-  //  chkinter();
 
   // SET A PERIODIC INTERNET CONNECTION CHECKING
   conninterval = setInterval(function () {
@@ -31,16 +30,13 @@ function chkinter()
     if(data.length > 0)
     {
       // YES, ONLINE
-//      $("#updatebtn").show();
-//      $("#updatebtn").prop("text", "ADD OR UPDATE OFFLINE SITES");
       $(".updatetd").show();
       $("#updatebtndiv").show();
     }
     else
     {
       // NO, OFFLINE
-//      $("#updatebtn").hide();
-//      $("#updatebtn").prop("value", "WORKING OFFLINE");
+
       $(".updatetd").hide();
       $("#updatebtndiv").hide();
     }
@@ -52,6 +48,7 @@ function showRachel()
 {
   // HIDE THE REPOSITORY MENU'S DIV
   $("#repmenu").hide();
+  $("#offlinesiteframe").hide();
   
   // GET THE DIVS THAT HOST THE IFRAMES FOR BOTH THE
   // MENU OF SITES AND THE SITE SELECTED IN MENU
@@ -369,6 +366,7 @@ function download(command, link)
           {
             alert("THE SITE WAS SUCCESSFULLY DOWNLOADED BUT MAY NOT BE AVAILABLE UNTIL YOU RESTART THE SERVER");
           }
+          showRachel();
         }
       );
     }
@@ -521,7 +519,6 @@ function deletesite(rownum) {
 
 function settings() {
   // body...
-  console.log("settings");
   $.post("../php/config.php",
     {
       mode: 'get'
@@ -542,4 +539,28 @@ function teacherlesson() {
 function about() {
   // body...
   alert("OFFLINE EDUCATION VER 1.00");
+}
+
+function showSite(link) {
+  // body...
+  $.post("../php/config.php",
+    {
+      mode: 'get'
+    },
+    function(data, status){
+      var config = JSON.parse(data);
+      var inlinenavigation = config['inlinenavigation'];
+      switch(inlinenavigation)
+      {
+        case 'inlinenavigation':
+          $("#repmenu").hide();
+          $("#offlinesiteframe").attr("src", "http://" + link);
+          $("#offlinesiteframe").show();
+          break;
+        case 'tabnavigation':
+          window.open("http://" + link, "_blank");
+          break;
+      }
+    }
+  );
 }

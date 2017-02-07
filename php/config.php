@@ -18,10 +18,11 @@
 		"homepage" => "",
 		"adminpassword" => 0,
 		"error" => false,
-		"message" => ""
+		"message" => "",
+		"inlinenavigation" => "inlinenavigation"
 	);
 
-	$release = true;
+	$release = false;
 
 	if($release)
 	{
@@ -163,12 +164,12 @@
 
 	    // CONNECTION OK, QUERY THE DB TO CHECK
 	    // IF THE SITE IS ALREADY PRESENT
-	    $result = pg_query($conn, "SELECT cfgpwd FROM serverconf");
+	    $result = pg_query($conn, "SELECT cfgpwd, inlinenavigation FROM serverconf");
 	    if($result === false)
 	    {
 	    	$parameters["adminpassword"] = 0;
   			// INSERT THE NEW CONFIGURATION
-	    	$result = pg_query($conn, "INSERT INTO serverconf(cfgpwd) VALUES (0);");
+	    	$result = pg_query($conn, "INSERT INTO serverconf(cfgpwd, inlinenavigation) VALUES (0, '$inlinenavigation');");
 	    	if($result === false)
 	    	{
 				$parameters["error"] = true;
@@ -185,10 +186,12 @@
 		  	if($rows !== false)
 		  	{
 			  	$parameters["adminpassword"] = $rows[0]["cfgpwd"];
+			  	$parameters["inlinenavigation"] = $rows[0]["inlinenavigation"];
 		  	}
 		  	else
 		  	{
 		  		$parameters["adminpassword"] = 0;
+		  		$parameters["inlinenavigation"] = "$inlinenavigation";
 	    	}
 	    }
 		echo json_encode($parameters);
@@ -223,6 +226,7 @@
 		
 		$concession = $_REQUEST["concession"];
 		$homepage = $_REQUEST["homepage"];
+		$inlinenavigation = $_REQUEST["inlinenavigation"];
 
 		$adminpassword = $_REQUEST["adminpassword"];
 
@@ -442,7 +446,7 @@
 		  	if($rows === false)
 		  	{
 	  			// INSERT THE NEW CONFIGURATION
-		    	$result = pg_query($conn, "INSERT INTO serverconf( cfgpwd) VALUES ('$adminpassword');");
+		    	$result = pg_query($conn, "INSERT INTO serverconf(cfgpwd, inlinenavigation) VALUES ('$adminpassword', '$inlinenavigation');");
 		    	if($result === false)
 		    	{
 					$parameters["error"] = true;
@@ -457,7 +461,7 @@
 			  	$orgcfgpwd = $rows[0]["cfgpwd"];
 
 		    	$result = pg_query($conn, "UPDATE serverconf
-					SET cfgpwd='$adminpassword' WHERE cfgpwd='$orgcfgpwd'");
+					SET cfgpwd='$adminpassword', inlinenavigation='$inlinenavigation' WHERE cfgpwd='$orgcfgpwd'");
 		    	if($result === false)
 		    	{
 					$parameters["error"] = true;
